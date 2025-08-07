@@ -1,0 +1,11 @@
+{
+    "name": "Gajda",
+    "item_type": "accessory",
+    "variants": {
+        "L": "GajdaL.png",
+        "RA": "GajdaRA.png",
+        "default": "Gajda.png",
+        "LA": "GajdaLA.png",
+        "R": "GajdaR.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Movestage",
+    "item_type": "accessory",
+    "variants": {
+        "default": "movestage.png"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Femacoustic",
+    "item_type": "accessory",
+    "variants": {
+        "L": "femacousticL.png",
+        "LB": "femacousticLB.png",
+        "LA": "femacousticLA.png",
+        "RA": "femacousticRA.png",
+        "RB": "femacousticRB.png",
+        "R": "femacousticR.png",
+        "default": "femacoustic.png",
+        "B": "femacousticB.png"
+    }
+}

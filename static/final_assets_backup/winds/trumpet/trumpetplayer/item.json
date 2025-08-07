@@ -1,0 +1,14 @@
+{
+    "name": "Trumpetplayer",
+    "item_type": "accessory",
+    "variants": {
+        "L": "trumpetplayerL.png",
+        "LB": "trumpetplayerLB.png",
+        "LA": "trumpetplayerLA.png",
+        "R": "trumpetplayerR.png",
+        "B": "trumpetplayerB.png",
+        "RA": "trumpetplayerRA.png",
+        "default": "trumpetplayer.png",
+        "RB": "trumpetplayerRB.png"
+    }
+}

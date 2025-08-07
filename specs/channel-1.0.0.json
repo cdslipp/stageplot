@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/channel-1.0.0.json",
+  "title": "Channel",
+  "description": "A single channel on a mixing console, which an input is patched to.",
+  "type": "object",
+  "required": ["id", "number"],
+  "properties": {
+    "id": { "type": "string", "description": "A unique identifier for the channel." },
+    "number": { "type": "integer", "description": "The channel number on the mixing console." },
+    "name": { "type": "string", "description": "A name for the channel provided by the venue (e.g., 'Guest Vocal')." },
+    "short_name": { "type": "string", "description": "A short name for the channel (e.g., 'Vox')." },
+    "color": {
+      "type": "string",
+      "enum": ["red", "orange", "yellow", "green", "blue", "indigo", "violet"],
+      "description": "A color for the channel."
+    }
+  }
+}

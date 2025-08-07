@@ -1,0 +1,11 @@
+{
+    "name": "Headsetmic",
+    "item_type": "accessory",
+    "variants": {
+        "R": "headsetmicR.png",
+        "L": "headsetmicL.png",
+        "LA": "headsetmicLA.png",
+        "default": "headsetmic.png",
+        "RA": "headsetmicRA.png"
+    }
+}

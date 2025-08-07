@@ -1,0 +1,14 @@
+{
+    "name": "Standw2 Lamps",
+    "item_type": "output",
+    "variants": {
+        "R": "standw2lampsR.png",
+        "B": "standw2lampsB.png",
+        "default": "standw2lamps.png",
+        "RA": "standw2lampsRA.png",
+        "RB": "standw2lampsRB.png",
+        "L": "standw2lampsL.png",
+        "LB": "standw2lampsLB.png",
+        "LA": "standw2lampsLA.png"
+    }
+}

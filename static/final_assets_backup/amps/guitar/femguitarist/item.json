@@ -1,0 +1,14 @@
+{
+    "name": "Femguitarist",
+    "item_type": "output",
+    "variants": {
+        "B": "femguitaristB.png",
+        "R": "femguitaristR.png",
+        "LB": "femguitaristLB.png",
+        "LA": "femguitaristLA.png",
+        "L": "femguitaristL.png",
+        "default": "femguitarist.png",
+        "RA": "femguitaristRA.png",
+        "RB": "femguitaristRB.png"
+    }
+}

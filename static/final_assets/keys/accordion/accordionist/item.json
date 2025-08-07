@@ -1,0 +1,14 @@
+{
+    "name": "Accordionist",
+    "item_type": "accessory",
+    "variants": {
+        "default": "accordionist.png",
+        "R": "accordionistR.png",
+        "B": "accordionistB.png",
+        "LA": "accordionistLA.png",
+        "LB": "accordionistLB.png",
+        "L": "accordionistL.png",
+        "RB": "accordionistRB.png",
+        "RA": "accordionistRA.png"
+    }
+}

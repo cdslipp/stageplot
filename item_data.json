@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "type": "acoustic",
+      "category": "guitars",
+      "inputs": [
+        {
+          "name": "Acoustic DI",
+          "short_name": "Ac Gtr",
+          "ideal_device": { "preferred": [{ "name": "DI Box" }] },
+          "stand": "none",
+          "phantom_power": true
+        }
+      ]
+    },
+    {
+      "type": "bass_amp",
+      "category": "amps",
+      "inputs": [
+        {
+          "name": "Bass Amp Mic",
+          "short_name": "BsAmpMic",
+          "ideal_device": { "preferred": [{ "name": "Sennheiser MD421" }] },
+          "stand": "short_boom",
+          "phantom_power": false
+        },
+        {
+          "name": "Bass Amp DI",
+          "short_name": "BsAmpDI",
+          "ideal_device": { "preferred": [{ "name": "DI Box" }] },
+          "stand": "none",
+          "phantom_power": true
+        }
+      ]
+    },
+    {
+        "type": "hand_held",
+        "category": "mics",
+        "inputs": [
+          {
+            "name": "Vocal Mic",
+            "short_name": "Vox",
+            "ideal_device": { "preferred": [{ "name": "Shure SM58" }] },
+            "stand": "tall_boom",
+            "phantom_power": false
+          }
+        ]
+      },
+      {
+        "type": "yamahacp70",
+        "category": "keys",
+        "inputs": [
+          {
+            "name": "Piano L",
+            "short_name": "PianoL",
+            "ideal_device": { "preferred": [{ "name": "DI Box" }] },
+            "stand": "none",
+            "phantom_power": true
+          },
+          {
+            "name": "Piano R",
+            "short_name": "PianoR",
+            "ideal_device": { "preferred": [{ "name": "DI Box" }] },
+            "stand": "none",
+            "phantom_power": true
+          }
+        ]
+      }
+  ]
+}

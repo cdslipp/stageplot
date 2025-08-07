@@ -1,0 +1,7 @@
+{
+    "name": "Ten10",
+    "item_type": "symbol",
+    "variants": {
+        "default": "ten10.png"
+    }
+}

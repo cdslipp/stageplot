@@ -1,0 +1,11 @@
+{
+    "name": "Piccolo",
+    "item_type": "accessory",
+    "variants": {
+        "L": "piccoloL.png",
+        "R": "piccoloR.png",
+        "default": "piccolo.png",
+        "RA": "piccoloRA.png",
+        "LA": "piccoloLA.png"
+    }
+}

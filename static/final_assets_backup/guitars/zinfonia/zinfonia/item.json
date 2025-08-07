@@ -1,0 +1,7 @@
+{
+    "name": "Zinfonia",
+    "item_type": "accessory",
+    "variants": {
+        "default": "zinfonia.png"
+    }
+}

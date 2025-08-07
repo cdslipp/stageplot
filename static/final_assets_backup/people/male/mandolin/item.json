@@ -1,0 +1,8 @@
+{
+    "name": "Mandolin",
+    "item_type": "symbol",
+    "variants": {
+        "RA": "mandolinRA.png",
+        "default": "mandolin.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Open65",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open65.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Projector Stage",
+    "item_type": "symbol",
+    "variants": {
+        "default": "projector_stage.png"
+    }
+}

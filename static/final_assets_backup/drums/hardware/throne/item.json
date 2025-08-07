@@ -1,0 +1,7 @@
+{
+    "name": "Throne",
+    "item_type": "accessory",
+    "variants": {
+        "default": "throne.png"
+    }
+}

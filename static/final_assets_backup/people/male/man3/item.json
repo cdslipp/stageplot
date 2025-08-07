@@ -1,0 +1,14 @@
+{
+    "name": "Man3",
+    "item_type": "symbol",
+    "variants": {
+        "RB": "Man3RB.png",
+        "RA": "Man3RA.png",
+        "B": "Man3B.png",
+        "R": "Man3R.png",
+        "LA": "Man3LA.png",
+        "LB": "Man3LB.png",
+        "default": "Man3.png",
+        "L": "Man3L.png"
+    }
+}

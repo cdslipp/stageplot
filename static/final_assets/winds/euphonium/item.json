@@ -1,0 +1,11 @@
+{
+    "name": "Euphonium",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Euphonium.png",
+        "R": "EuphoniumR.png",
+        "L": "EuphoniumL.png",
+        "LA": "EuphoniumLA.png",
+        "RA": "EuphoniumRA.png"
+    }
+}

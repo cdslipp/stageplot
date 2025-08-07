@@ -1,0 +1,11 @@
+{
+    "name": "Harp",
+    "item_type": "accessory",
+    "variants": {
+        "L": "harpL.png",
+        "LA": "harpLA.png",
+        "R": "harpR.png",
+        "default": "harp.png",
+        "RA": "harpRA.png"
+    }
+}

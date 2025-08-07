@@ -1,0 +1,7 @@
+{
+    "name": "Violin",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Violin.png"
+    }
+}

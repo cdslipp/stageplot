@@ -1,0 +1,11 @@
+{
+    "name": "Bassoon",
+    "item_type": "output",
+    "variants": {
+        "default": "Bassoon.png",
+        "L": "BassoonL.png",
+        "LA": "BassoonLA.png",
+        "R": "BassoonR.png",
+        "RA": "BassoonRA.png"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Rectable",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "rectableRA.png",
+        "LA": "rectableLA.png",
+        "R": "rectableR.png",
+        "L": "rectableL.png",
+        "default": "rectable.png"
+    }
+}

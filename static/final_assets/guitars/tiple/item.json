@@ -1,0 +1,8 @@
+{
+    "name": "Tiple",
+    "item_type": "accessory",
+    "variants": {
+        "default": "tiple.png",
+        "RA": "tipleRA.png"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Yamahacp70",
+    "item_type": "accessory",
+    "variants": {
+        "L": "yamahaCP70L.png",
+        "LA": "yamahaCP70LA.png",
+        "LB": "yamahaCP70LB.png",
+        "R": "yamahaCP70R.png",
+        "RB": "yamahaCP70RB.png",
+        "RA": "yamahaCP70RA.png",
+        "B": "yamahaCP70B.png",
+        "default": "yamahaCP70.png"
+    }
+}

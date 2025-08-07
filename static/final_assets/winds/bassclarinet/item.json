@@ -1,0 +1,11 @@
+{
+    "name": "Bassclarinet",
+    "item_type": "input",
+    "variants": {
+        "default": "bassclarinet.png",
+        "RA": "bassclarinetRA.png",
+        "L": "bassclarinetL.png",
+        "LA": "bassclarinetLA.png",
+        "R": "bassclarinetR.png"
+    }
+}

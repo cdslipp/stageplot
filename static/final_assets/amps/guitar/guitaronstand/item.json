@@ -1,0 +1,11 @@
+{
+    "name": "Guitaronstand",
+    "item_type": "output",
+    "variants": {
+        "R": "guitaronstandR.png",
+        "L": "guitaronstandL.png",
+        "LA": "guitaronstandLA.png",
+        "default": "guitaronstand.png",
+        "RA": "guitaronstandRA.png"
+    }
+}

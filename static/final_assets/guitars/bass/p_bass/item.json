@@ -1,0 +1,8 @@
+{
+    "name": "P Bass",
+    "item_type": "input",
+    "variants": {
+        "RA": "P_BassRA.png",
+        "default": "P_Bass.png"
+    }
+}

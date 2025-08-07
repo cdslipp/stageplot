@@ -1,0 +1,7 @@
+{
+    "name": "Truss",
+    "item_type": "accessory",
+    "variants": {
+        "default": "truss.png"
+    }
+}

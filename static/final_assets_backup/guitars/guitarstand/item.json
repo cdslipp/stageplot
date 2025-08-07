@@ -1,0 +1,14 @@
+{
+    "name": "Guitarstand",
+    "item_type": "accessory",
+    "variants": {
+        "default": "guitarstand.png",
+        "B": "guitarstandB.png",
+        "R": "guitarstandR.png",
+        "RB": "guitarstandRB.png",
+        "RA": "guitarstandRA.png",
+        "L": "guitarstandL.png",
+        "LA": "guitarstandLA.png",
+        "LB": "guitarstandLB.png"
+    }
+}

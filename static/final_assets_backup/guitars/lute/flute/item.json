@@ -1,0 +1,11 @@
+{
+    "name": "Flute",
+    "item_type": "accessory",
+    "variants": {
+        "L": "fluteL.png",
+        "RA": "fluteRA.png",
+        "default": "flute.png",
+        "LA": "fluteLA.png",
+        "R": "fluteR.png"
+    }
+}

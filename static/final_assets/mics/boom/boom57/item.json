@@ -1,0 +1,14 @@
+{
+    "name": "Boom57",
+    "item_type": "input",
+    "variants": {
+        "L": "Boom57L.png",
+        "default": "Boom57.png",
+        "RA": "Boom57RA.png",
+        "LA": "Boom57LA.png",
+        "R": "Boom57R.png",
+        "back": "Boom57Back.png",
+        "backRA": "Boom57BackRA.png",
+        "backLA": "Boom57BackLA.png"
+    }
+}

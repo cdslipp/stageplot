@@ -1,0 +1,11 @@
+{
+    "name": "Ampeg",
+    "item_type": "output",
+    "variants": {
+        "LA": "AmpegLA.png",
+        "RA": "AmpegRA.png",
+        "R": "AmpegR.png",
+        "L": "AmpegL.png",
+        "default": "Ampeg.png"
+    }
+}

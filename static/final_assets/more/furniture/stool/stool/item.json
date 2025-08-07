@@ -1,0 +1,9 @@
+{
+    "name": "Stool",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Stool.png",
+        "LA": "StoolLA.png",
+        "RA": "StoolRA.png"
+    }
+}

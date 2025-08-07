@@ -1,0 +1,6201 @@
+[
+  {
+    "name": "Steel",
+    "type": "steel",
+    "category": "steel",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/amps/steel/steel/SteelR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/steel/steel/SteelLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/steel/steel/SteelRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/steel/steel/Steel.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/steel/steel/SteelL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Steelpan",
+    "type": "steelpan",
+    "category": "steel",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/amps/steel/steelpan/steelpanLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/amps/steel/steelpan/steelpanLB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/amps/steel/steelpan/steelpanB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/steel/steelpan/steelpanR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/amps/steel/steelpan/steelpanRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/steel/steelpan/steelpanRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/steel/steelpan/steelpan.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/steel/steelpan/steelpanL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Lapsteel",
+    "type": "lapsteel",
+    "category": "steel",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/steel/lapsteel/lapsteel.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/steel/lapsteel/lapsteelL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/steel/lapsteel/lapsteelRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/steel/lapsteel/lapsteelLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/steel/lapsteel/lapsteelR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Standwlamp",
+    "type": "standwlamp",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampRB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/standwlamp/standwlamp.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/standwlamp/standwlampLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Marshallhead",
+    "type": "marshallhead",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/marshallhead/marshallhead.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Standw2 Lamps",
+    "type": "standw2_lamps",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lamps.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsRB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsL.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/standw2_lamps/standw2lampsLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Fenderampback",
+    "type": "fenderampback",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/fenderampback/FenderAmpBack.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Vox",
+    "type": "vox",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/amps/guitar/vox/voxB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/vox/voxR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/vox/vox.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/vox/voxRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/vox/voxLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/vox/voxL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Sampler",
+    "type": "sampler",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/sampler/sampler.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ampeg",
+    "type": "ampeg",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/ampeg/AmpegLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/ampeg/AmpegRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/ampeg/AmpegR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/ampeg/AmpegL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/ampeg/Ampeg.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Keyamp",
+    "type": "keyamp",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/keyamp/keyampRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/keyamp/keyampLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/keyamp/keyamp.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Guitaronstand",
+    "type": "guitaronstand",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/guitaronstand/guitaronstandR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/guitaronstand/guitaronstandL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/guitaronstand/guitaronstandLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/guitaronstand/guitaronstand.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/guitaronstand/guitaronstandRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Nashville Amp",
+    "type": "nashville_amp",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/nashville_amp/nashville.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/amps/guitar/nashville_amp/nashvilleback.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/nashville_amp/NashvilleL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/nashville_amp/NashvilleR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/nashville_amp/nashvilleLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/nashville_amp/nashvilleRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Marshallcabs",
+    "type": "marshallcabs",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/marshallcabs/MarshallCabs.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Fender Amp",
+    "type": "fender_amp",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/fender_amp/FenderAmp.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/amps/guitar/fender_amp/FenderAmpBack.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/fender_amp/FenderAmpR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/fender_amp/FenderAmpRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/fender_amp/FenderAmpL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/fender_amp/FenderAmpLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Electricguitar",
+    "type": "electricguitar",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/electricguitar/electricguitar.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Marshall Amp",
+    "type": "marshall_amp",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/guitar/marshall_amp/marshall.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/amps/guitar/marshall_amp/marshallback.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/marshall_amp/marshallR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/marshall_amp/marshallLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/marshall_amp/marshallL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/marshall_amp/marshallRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Marshall412 A",
+    "type": "marshall412_a",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/amps/guitar/marshall412_a/Marshall412AR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/guitar/marshall412_a/Marshall412ALA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/guitar/marshall412_a/Marshall412AL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/guitar/marshall412_a/Marshall412ARA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Marshall412",
+    "type": "marshall412",
+    "category": "guitar",
+    "variants": [
+      {
+        "name": "A",
+        "file": "final_assets/amps/guitar/marshall412/Marshall412A.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bass Amp",
+    "type": "bassamp",
+    "category": "bass",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/bass/bassamp/BassAmp.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/amps/bass/bassampback/BassAmpBack.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/amps/bass/bassamp/BassAmpL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/bass/bassamp/BassAmpR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/bass/bassamp/BassAmpLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/bass/bassamp/BassAmpRA.png"
+      }
+    ],
+    "inputs": [
+      {
+        "name": "Bass Amp Mic",
+        "short_name": "BsAmpMic",
+        "ideal_device": {
+          "preferred": [
+            {
+              "name": "Sennheiser MD421"
+            }
+          ]
+        },
+        "stand": "short_boom",
+        "phantom_power": false
+      },
+      {
+        "name": "Bass Amp DI",
+        "short_name": "BsAmpDI",
+        "ideal_device": {
+          "preferred": [
+            {
+              "name": "DI Box"
+            }
+          ]
+        },
+        "stand": "none",
+        "phantom_power": true
+      }
+    ]
+  },
+  {
+    "name": "Blondebassman",
+    "type": "blondebassman",
+    "category": "bass",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/amps/bass/blondebassman/BlondeBassmanL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/amps/bass/blondebassman/BlondeBassman.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/amps/bass/blondebassman/BlondeBassmanR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/amps/bass/blondebassman/BlondeBassmanRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/amps/bass/blondebassman/BlondeBassmanLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bassampback",
+    "type": "bassampback",
+    "category": "bass",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/amps/bass/bassampback/BassAmpBack.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cello",
+    "type": "cello",
+    "category": "strings",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/strings/cello/cello.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Violin",
+    "type": "violin",
+    "category": "violin",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/strings/violin/violin/Violin.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Violinist",
+    "type": "violinist",
+    "category": "violin",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/strings/violin/violinist/violinistR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/strings/violin/violinist/violinistB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/strings/violin/violinist/violinistRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/strings/violin/violinist/violinistRB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/strings/violin/violinist/violinistLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/strings/violin/violinist/violinistLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/strings/violin/violinist/violinistL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/strings/violin/violinist/violinist.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Harp",
+    "type": "harp",
+    "category": "strings",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/strings/harp/harpL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/strings/harp/harpLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/strings/harp/harpR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/strings/harp/harp.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/strings/harp/harpRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Viola",
+    "type": "viola",
+    "category": "strings",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/strings/viola/viola.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Electric 4",
+    "type": "electric4",
+    "category": "electric",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/ac/electric/electric4/electric4.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Electric 240 UK 4",
+    "type": "electric240_uk4",
+    "category": "electric",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/ac/electric/electric240_uk4/electric240_uk4_electric240UK4.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Electric",
+    "type": "electric",
+    "category": "electric",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/ac/electric/electric/electric.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Electric 240 UK",
+    "type": "electric240_uk",
+    "category": "electric",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/ac/electric/electric240_uk/electric240_uk_electric240UK.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Curtainold",
+    "type": "curtain",
+    "category": "stagecraft",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/curtain/curtainold.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Curtainold",
+    "type": "curtainold",
+    "category": "curtain",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/curtain/curtainold/curtainold.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Projector Stage",
+    "type": "projector_stage",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/projector_stage/projector_stage.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagebox8",
+    "type": "stagebox8",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stagebox8/stagebox8.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagebox16",
+    "type": "stagebox16",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stagebox16/stagebox16.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stageplotprologo",
+    "type": "stageplotprologo",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stageplotprologo/stageplotprologo.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stageplotproleft",
+    "type": "stageplotproleft",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stageplotproleft/stageplotproleft.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Nordstage88",
+    "type": "nordstage88",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88LB.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88RB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88RA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88L.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88B.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/stagecraft/stage/nordstage88/NordStage88R.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagebox24",
+    "type": "stagebox24",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stagebox24/stagebox24.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagebox12",
+    "type": "stagebox12",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stagebox12/stagebox12.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagedgef",
+    "type": "stagedgef",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stagedgef/stagedgeF.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagedge",
+    "type": "stagedge",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/stage/stagedge/stagedgeL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stagefront",
+    "type": "stagefront",
+    "category": "stage",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stage/stagefront/stagefront.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Riserfront",
+    "type": "riserfront",
+    "category": "riser",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/stagecraft/riser/riserfront/riserfrontRA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/stagecraft/riser/riserfront/riserfrontB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/riser/riserfront/riserfront.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Choralriser8",
+    "type": "choralriser8",
+    "category": "riser",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/riser/choralriser8/choralriser8.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/riser/choralriser8/choralriser8L.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/stagecraft/riser/choralriser8/choralriser8R.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/stagecraft/riser/choralriser8/choralriser8LA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/stagecraft/riser/choralriser8/choralriser8RA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Choralriser6",
+    "type": "choralriser6",
+    "category": "riser",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/stagecraft/riser/choralriser6/choralriser6RA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/stagecraft/riser/choralriser6/choralriser6R.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/stagecraft/riser/choralriser6/choralriser6LA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/riser/choralriser6/choralriser6L.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/riser/choralriser6/choralriser6.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Choralriser2",
+    "type": "choralriser2",
+    "category": "riser",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/riser/choralriser2/choralriser2L.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/stagecraft/riser/choralriser2/choralriser2RA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/stagecraft/riser/choralriser2/choralriser2LA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/riser/choralriser2/choralriser2.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/stagecraft/riser/choralriser2/choralriser2R.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Choralriser3",
+    "type": "choralriser3",
+    "category": "riser",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/stagecraft/riser/choralriser3/choralriser3LA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/riser/choralriser3/choralriser3L.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/stagecraft/riser/choralriser3/choralriser3RA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/riser/choralriser3/choralriser3.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/stagecraft/riser/choralriser3/choralriser3R.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Subwoofer",
+    "type": "subwoofer",
+    "category": "stagecraft",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/subwoofer/Subwoofer.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stairs",
+    "type": "stairs",
+    "category": "stagecraft",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/stagecraft/stairs/stairsR.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/stagecraft/stairs/stairsback.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/stagecraft/stairs/stairsL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/stagecraft/stairs/stairs.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Headsetmic",
+    "type": "headset",
+    "category": "mics",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/mics/headset/headsetmicR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/mics/headset/headsetmicL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/headset/headsetmicLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/headset/headsetmic.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/headset/headsetmicRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Headsetmic",
+    "type": "headsetmic",
+    "category": "headset",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/mics/headset/headsetmic/headsetmicR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/mics/headset/headsetmic/headsetmicL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/headset/headsetmic/headsetmicLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/headset/headsetmic/headsetmic.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/headset/headsetmic/headsetmicRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Straight Vocal",
+    "type": "straight_vocal",
+    "category": "straight",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/mics/straight/straight_vocal/Straight_VocalR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/straight/straight_vocal/Straight_Vocal.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/straight/straight_vocal/Straight_VocalRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/straight/straight_vocal/Straight_VocalLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/mics/straight/straight_vocal/Straight_VocalL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Straight Short",
+    "type": "straight_short",
+    "category": "straight",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/mics/straight/straight_short/Straight_short.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/straight/straight_short/Straight_shortLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/straight/straight_short/Straight_shortRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/mics/straight/straight_short/Straight_shortL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/mics/straight/straight_short/Straight_shortR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Straight Shortback",
+    "type": "straight_shortback",
+    "category": "straight",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/mics/straight/straight_shortback/Straight_shortBack.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Standstraight No- Mic",
+    "type": "standstraight_no-_mic",
+    "category": "straight",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/mics/straight/standstraight_no-_mic/standstraight_no-mic.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Wired Mic",
+    "type": "wired_mic",
+    "category": "hand_held",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/mics/hand_held/wired_mic/wired_mic.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Wireless Mic",
+    "type": "wireless_mic",
+    "category": "hand_held",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/mics/hand_held/wireless_mic/wireless_mic.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Boomrshort",
+    "type": "boomrshort",
+    "category": "boom",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/mics/boom/boomrshort/BoomRshortR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/boom/boomrshort/BoomRshort.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/boom/boomrshort/BoomRshortRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/mics/boom/boomrshort/BoomRshortL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/boom/boomrshort/BoomRshortLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Boomlshortback",
+    "type": "boomlshortback",
+    "category": "boom",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/mics/boom/boomlshortback/BoomLshortBackLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/boom/boomlshortback/BoomLshortBackRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/boom/boomlshortback/BoomLshortBack.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Boomlshort",
+    "type": "boomlshort",
+    "category": "boom",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/mics/boom/boomlshort/BoomLshortR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/boom/boomlshort/BoomLshort.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/boom/boomlshort/BoomLshortRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/mics/boom/boomlshort/BoomLshortL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/boom/boomlshort/BoomLshortLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Boomrshortback",
+    "type": "boomrshortback",
+    "category": "boom",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/mics/boom/boomrshortback/BoomRshortBackLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/boom/boomrshortback/BoomRshortBack.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/boom/boomrshortback/BoomRshortBackRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Boom57",
+    "type": "boom57",
+    "category": "boom",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/mics/boom/boom57/Boom57L.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/mics/boom/boom57/Boom57.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/mics/boom/boom57/Boom57RA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/mics/boom/boom57/Boom57LA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/mics/boom/boom57/Boom57R.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/mics/boom/boom57/Boom57Back.png"
+      },
+      {
+        "name": "backRA",
+        "file": "final_assets/mics/boom/boom57/Boom57BackRA.png"
+      },
+      {
+        "name": "backLA",
+        "file": "final_assets/mics/boom/boom57/Boom57BackLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cymbal",
+    "type": "cymbal",
+    "category": "cymbals",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/drums/cymbals/cymbal/cymbalRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/cymbals/cymbal/cymbalLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/cymbals/cymbal/cymbal.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Hihat",
+    "type": "hihat",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/hihat/hihat.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drummat",
+    "type": "drummat",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/drummat/drummat.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ride",
+    "type": "ride",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/ride/ride.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Crash",
+    "type": "crash",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/crash/crash.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Throne",
+    "type": "throne",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/throne/throne.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drumshield Three",
+    "type": "drumshield_three",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/drumshield_three/drumshield_three.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bassdrum",
+    "type": "bassdrum",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/bassdrum/Bassdrum.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumLB.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumRB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/drums/hardware/bassdrum/BassdrumRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cowbell",
+    "type": "cowbell",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/cowbell/Cowbell.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drumshield Two",
+    "type": "drumshield_two",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/drumshield_two/drumshield_two.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drumshield One",
+    "type": "drumshield_one",
+    "category": "hardware",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/hardware/drumshield_one/drumshield_one.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Edrums",
+    "type": "edrums",
+    "category": "drum_kits",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/drums/drum_kits/edrums/edrumsLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/drum_kits/edrums/edrums.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/drums/drum_kits/edrums/edrumsRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/drums/drum_kits/edrums/edrumsL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/drums/drum_kits/edrums/edrumsR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Rototomset",
+    "type": "rototomset",
+    "category": "drum_kits",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/drums/drum_kits/rototomset/rototomset.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/drums/drum_kits/rototomset/rototomsetL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/drums/drum_kits/rototomset/rototomsetRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/drum_kits/rototomset/rototomsetLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/drums/drum_kits/rototomset/rototomsetR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Doublekick",
+    "type": "doublekick",
+    "category": "drum_kits",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/drums/drum_kits/doublekick/doublekickRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/drums/drum_kits/doublekick/doublekickL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/drum_kits/doublekick/doublekickLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/drum_kits/doublekick/doublekick.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/drums/drum_kits/doublekick/doublekickR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Twotoms",
+    "type": "twotoms",
+    "category": "drum_kits",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/drums/drum_kits/twotoms/TwoTomsRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/drums/drum_kits/twotoms/TwoTomsL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/drum_kits/twotoms/TwoTomsLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/drum_kits/twotoms/TwoToms.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/drums/drum_kits/twotoms/TwoTomsR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Fourtoms",
+    "type": "fourtoms",
+    "category": "drum_kits",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/drums/drum_kits/fourtoms/FourTomsR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/drum_kits/fourtoms/FourTomsLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/drums/drum_kits/fourtoms/FourTomsL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/drum_kits/fourtoms/FourToms.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/drums/drum_kits/fourtoms/FourTomsRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drum Kit - Three Toms",
+    "type": "threetoms",
+    "category": "drum_kits",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/drums/drum_kits/threetoms/ThreeTomsL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/drums/drum_kits/threetoms/ThreeToms.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/drums/drum_kits/threetoms/ThreeTomsR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/drums/drum_kits/threetoms/ThreeTomsRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/drums/drum_kits/threetoms/ThreeTomsLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Zx",
+    "type": "zx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/zx/ZX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Px",
+    "type": "px",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/px/PX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Yx",
+    "type": "yx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/yx/YX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Sx",
+    "type": "sx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/sx/SX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ax",
+    "type": "ax",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/ax/AX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Kx",
+    "type": "kx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/kx/KX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bx",
+    "type": "bx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/bx/BX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bee",
+    "type": "bee",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/bee/bee.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Hx",
+    "type": "hx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/hx/HX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Fx",
+    "type": "fx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/fx/FX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Lx",
+    "type": "lx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/lx/LX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ex",
+    "type": "ex",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/ex/EX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drum",
+    "type": "drum",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/drum/Drum.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ox",
+    "type": "ox",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/ox/OX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "R",
+    "type": "R",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/R/R.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "U",
+    "type": "u",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/u/U.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "I",
+    "type": "i",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/i/I.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "N",
+    "type": "n",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/n/N.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "G",
+    "type": "g",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/g/G.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Wx",
+    "type": "wx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/wx/WX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Z",
+    "type": "z",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/z/Z.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "T",
+    "type": "t",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/t/T.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "S",
+    "type": "s",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/s/S.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "A",
+    "type": "A",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/A/A.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "F",
+    "type": "f",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/f/F.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "O",
+    "type": "o",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/o/O.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "H",
+    "type": "h",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/h/H.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tx",
+    "type": "tx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/tx/TX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ux",
+    "type": "ux",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/ux/UX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Vx",
+    "type": "vx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/vx/VX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Dx",
+    "type": "dx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/dx/DX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Nx",
+    "type": "nx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/nx/NX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Gx",
+    "type": "gx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/gx/GX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Mx",
+    "type": "mx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/mx/MX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "B0",
+    "type": "b0",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/b0/B0.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cx",
+    "type": "cx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/cx/CX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ix",
+    "type": "ix",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/ix/IX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Jx",
+    "type": "jx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/jx/JX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "M",
+    "type": "m",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/m/M.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "J",
+    "type": "j",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/j/J.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "C",
+    "type": "c",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/c/C.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Xx",
+    "type": "xx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/xx/XX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "V",
+    "type": "v",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/v/V.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Rx",
+    "type": "rx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/rx/RX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Q",
+    "type": "q",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/q/Q.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "X",
+    "type": "x",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/x/X.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "E",
+    "type": "e",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/e/E.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "B",
+    "type": "B",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/B/B.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "K",
+    "type": "k",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/k/K.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "L",
+    "type": "L",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/L/L.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Qx",
+    "type": "qx",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/qx/QX.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Y",
+    "type": "y",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/y/Y.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "P",
+    "type": "p",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/p/P.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "W",
+    "type": "w",
+    "category": "alphabet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/alphabet/w/W.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Video",
+    "type": "video",
+    "category": "more",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/video/video.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Djsetup",
+    "type": "djsetup",
+    "category": "dj_gear",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetup.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupL.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/dj_gear/djsetup/DJsetupR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Dj Setup",
+    "type": "dj_setup",
+    "category": "dj_gear",
+    "variants": [
+      {
+        "name": "LB",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupRB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setup.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/dj_gear/dj_setup/dj_setupR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Djsetup3",
+    "type": "djsetup3",
+    "category": "dj_gear",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/dj_gear/djsetup3/DJsetup3RA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/dj_gear/djsetup3/DJsetup3L.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/dj_gear/djsetup3/DJsetup3LA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/dj_gear/djsetup3/DJsetup3.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/dj_gear/djsetup3/DJsetup3R.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Djm800",
+    "type": "djm800",
+    "category": "dj_gear",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/more/dj_gear/djm800/DJM800L.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/dj_gear/djm800/DJM800R.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/dj_gear/djm800/DJM800LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/dj_gear/djm800/DJM800LA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/dj_gear/djm800/DJM800B.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/dj_gear/djm800/DJM800RA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/dj_gear/djm800/DJM800.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/dj_gear/djm800/DJM800RB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Djembe",
+    "type": "djembe",
+    "category": "dj_gear",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/dj_gear/djembe/Djembe.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Pioneercdj2000",
+    "type": "pioneercdj2000",
+    "category": "dj_gear",
+    "variants": [
+      {
+        "name": "LB",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000LA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000R.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000RA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000RB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000B.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/dj_gear/pioneercdj2000/PioneerCDJ2000L.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Podium",
+    "type": "podium",
+    "category": "podium",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/more/podium/podium/podiumLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/podium/podium/podiumLB.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/podium/podium/podiumRB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/podium/podium/podiumL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/podium/podium/podiumRA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/podium/podium/podiumB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/podium/podium/podiumR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/podium/podium/podium.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Podium Mic",
+    "type": "podium_mic",
+    "category": "podium",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/podium/podium_mic/podium_mic.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/podium/podium_mic/podium_micRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/podium/podium_mic/podium_micRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/podium/podium_mic/podium_micLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/podium/podium_mic/podium_micR.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/podium/podium_mic/podium_micLB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/podium/podium_mic/podium_micB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/podium/podium_mic/podium_micL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Compressor",
+    "type": "compressor",
+    "category": "more",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/compressor/Compressor.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Sandbag",
+    "type": "sandbag",
+    "category": "more",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/sandbag/sandbagRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/sandbag/sandbagL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/sandbag/sandbagLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/sandbag/sandbag.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/sandbag/sandbagR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Gobo",
+    "type": "gobo",
+    "category": "more",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/more/gobo/GoboL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/gobo/GoboR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/gobo/GoboB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/gobo/GoboLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/gobo/GoboLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/gobo/GoboRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/gobo/GoboRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/gobo/Gobo.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Barstool",
+    "type": "barstool",
+    "category": "stool",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/more/furniture/stool/barstool/barstoolR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/stool/barstool/barstoolLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/stool/barstool/barstoolRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/stool/barstool/barstool.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/furniture/stool/barstool/barstoolL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stool",
+    "type": "stool",
+    "category": "stool",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/stool/stool/Stool.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/stool/stool/StoolLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/stool/stool/StoolRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Chair",
+    "type": "chair",
+    "category": "chair",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/chair/chair/chairRA.png"
+      },
+      {
+        "name": "back",
+        "file": "final_assets/more/furniture/chair/chair/chairback.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/furniture/chair/chair/chairR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/chair/chair/chairLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/chair/chair/chair.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/furniture/chair/chair/chairL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Chairback",
+    "type": "chairback",
+    "category": "chair",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/chair/chairback/chairbackRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/chair/chairback/chairbackLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Sofa",
+    "type": "sofa",
+    "category": "furniture",
+    "variants": [
+      {
+        "name": "LB",
+        "file": "final_assets/more/furniture/sofa/sofaLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/sofa/sofaLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/furniture/sofa/sofaR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/sofa/sofaRA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/furniture/sofa/sofaB.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/furniture/sofa/sofaRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/sofa/sofa.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/furniture/sofa/sofaL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Rectable",
+    "type": "rectable",
+    "category": "table",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/table/rectable/rectableRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/table/rectable/rectableLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/furniture/table/rectable/rectableR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/furniture/table/rectable/rectableL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/table/rectable/rectable.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Table",
+    "type": "table",
+    "category": "table",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/more/furniture/table/table/TableLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/furniture/table/table/TableRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/table/table/Table.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Roundtable",
+    "type": "roundtable",
+    "category": "table",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/furniture/table/roundtable/roundtable.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Barricade",
+    "type": "barricade",
+    "category": "more",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/barricade/barricade.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Gunrack",
+    "type": "gunrack",
+    "category": "rack",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/more/rack/gunrack/gunrackR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/rack/gunrack/gunrack.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/rack/gunrack/gunrackRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/rack/gunrack/gunrackLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/rack/gunrack/gunrackL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Rack",
+    "type": "rack",
+    "category": "rack",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/more/rack/rack/RackR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/rack/rack/Rack.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/rack/rack/RackL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/rack/rack/RackLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/rack/rack/RackRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Rackback",
+    "type": "rackback",
+    "category": "rack",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/more/rack/rackback/RackBackLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/rack/rackback/RackBackRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/rack/rackback/RackBack.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Fantom",
+    "type": "fantom",
+    "category": "fan",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/fan/fantom/Fantom.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/fan/fantom/FantomR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/fan/fantom/FantomB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/fan/fantom/FantomL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/fan/fantom/FantomRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/fan/fantom/FantomRB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/fan/fantom/FantomLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/fan/fantom/FantomLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Fan",
+    "type": "fan",
+    "category": "fan",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/more/fan/fan/fan.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/fan/fan/fanR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/more/fan/fan/fanB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/fan/fan/fanL.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/more/fan/fan/fanLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/fan/fan/fanLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/fan/fan/fanRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/more/fan/fan/fanRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ipad",
+    "type": "ipad",
+    "category": "more",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/more/ipad/ipadLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/more/ipad/ipadRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/ipad/ipad.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Mixer",
+    "type": "mixer",
+    "category": "more",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/more/mixer/mixerRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/more/mixer/mixerLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/more/mixer/mixerL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/more/mixer/mixer.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/more/mixer/mixerR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Laptop",
+    "type": "laptop",
+    "category": "more",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/more/laptop/laptopB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tenorpan",
+    "type": "tenorpan",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/tenorpan/tenorpanRB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/tenorpan/tenorpanL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/tenorpan/tenorpanRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/tenorpan/tenorpanLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/tenorpan/tenorpanLB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/tenorpan/tenorpan.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/tenorpan/tenorpanR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/tenorpan/tenorpanB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tabla",
+    "type": "tabla",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/percussion/tabla/tablaB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/tabla/tablaR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/tabla/tablaLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/tabla/tablaLB.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/tabla/tablaRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/tabla/tablaRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/tabla/tabla.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/tabla/tablaL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bongos",
+    "type": "bongo",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/bongo/BongosRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/bongo/BongosL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/bongo/Bongos.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/bongo/BongosLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/bongo/BongosR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bongos",
+    "type": "bongos",
+    "category": "bongo",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/bongo/bongos/BongosRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/bongo/bongos/BongosL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/bongo/bongos/Bongos.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/bongo/bongos/BongosLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/bongo/bongos/BongosR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Conga",
+    "type": "conga",
+    "category": "conga",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/conga/conga/conga.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Conga Double",
+    "type": "conga_double",
+    "category": "conga",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/conga/conga_double/conga_double.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/conga/conga_double/conga_doubleL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/conga/conga_double/conga_doubleLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/conga/conga_double/conga_doubleR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/conga/conga_double/conga_doubleRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Dholak",
+    "type": "dholak",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/percussion/dholak/dholakL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/dholak/dholak.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/dholak/dholakRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/dholak/dholakLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/dholak/dholakR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Dhumbuk",
+    "type": "dhumbuk",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/dhumbuk/Dhumbuk.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Daf",
+    "type": "daf",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/daf/daf.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Claves",
+    "type": "claves",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/claves/claves.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tambourine",
+    "type": "tambourine",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/tambourine/Tambourine.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cajon",
+    "type": "cajon",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/cajon/cajon.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/cajon/cajonLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/cajon/cajonRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Chimes",
+    "type": "chimes",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/percussion/chimes/chimesL.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/chimes/chimesB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/chimes/chimesR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/chimes/chimesRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/chimes/chimes.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/chimes/chimesRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/chimes/chimesLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/chimes/chimesLB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Marimba",
+    "type": "marimba",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/percussion/marimba/MarimbaR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/marimba/MarimbaLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/marimba/Marimba.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/marimba/MarimbaRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/marimba/MarimbaL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Timpaniset",
+    "type": "timpaniset",
+    "category": "timpani",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSet.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetLB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/timpani/timpaniset/TimpaniSetL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Timpani4",
+    "type": "timpani4",
+    "category": "timpani",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4L.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4R.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4RB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4RA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4B.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/timpani/timpani4/timpani4LB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Timpani3",
+    "type": "timpani3",
+    "category": "timpani",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3L.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3LA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3B.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3RA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3R.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/timpani/timpani3/timpani3RB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Timpani2",
+    "type": "timpani2",
+    "category": "timpani",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2L.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2RB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2RA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2LB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2R.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/timpani/timpani2/timpani2B.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Timpani1",
+    "type": "timpani1",
+    "category": "timpani",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1B.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1R.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1LB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1L.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1RB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/timpani/timpani1/timpani1RA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Gong",
+    "type": "gong",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/gong/gongRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/percussion/gong/gongRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/gong/gong.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/gong/gongL.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/percussion/gong/gongLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/gong/gongLA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/percussion/gong/gongB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/gong/gongR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Percussionpad",
+    "type": "percussionpad",
+    "category": "percussion",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/percussion/percussionpad/percussionpadRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/percussion/percussionpad/percussionpadL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/percussion/percussionpad/percussionpadLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/percussion/percussionpad/percussionpad.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/percussion/percussionpad/percussionpadR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Percussionistone",
+    "type": "percussionistone",
+    "category": "players",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneB.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/percussionistone/PercussionistOne.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/percussionistone/PercussionistOneLB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Keytarplayer",
+    "type": "keytarplayer",
+    "category": "players",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/people/players/keytarplayer/keytarplayerR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/keytarplayer/keytarplayerRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/keytarplayer/keytarplayerL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/keytarplayer/keytarplayer.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/keytarplayer/keytarplayerLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Acubassist",
+    "type": "AcuBassist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/players/AcuBassist/AcuBassist.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistL.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistLB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/AcuBassist/AcuBassistR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drummer",
+    "type": "drummer",
+    "category": "players",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/players/drummer/drummer.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/drummer/drummerR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/drummer/drummerLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/drummer/drummerRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/drummer/drummerL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Drummerafrican",
+    "type": "drummerafrican",
+    "category": "players",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/drummerafrican/DrummerAfricanLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/drummerafrican/DrummerAfricanR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/drummerafrican/DrummerAfrican.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/drummerafrican/DrummerAfricanRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/drummerafrican/DrummerAfricanL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ebassist",
+    "type": "ebassist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/ebassist/ebassistLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/ebassist/ebassistLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/ebassist/ebassistRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/ebassist/ebassistRB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/ebassist/ebassistL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/ebassist/ebassist.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/ebassist/ebassistR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/ebassist/ebassistB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Femguitarist",
+    "type": "femguitarist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/people/players/femguitarist/femguitaristB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/femguitarist/femguitaristR.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/femguitarist/femguitaristLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/femguitarist/femguitaristLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/femguitarist/femguitaristL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/femguitarist/femguitarist.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/femguitarist/femguitaristRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/femguitarist/femguitaristRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Beguitarist",
+    "type": "beguitarist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/players/beguitarist/Beguitarist.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/beguitarist/BeguitaristL.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/beguitarist/BeguitaristRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/beguitarist/BeguitaristRA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/beguitarist/BeguitaristB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/beguitarist/BeguitaristLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/beguitarist/BeguitaristR.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/beguitarist/BeguitaristLB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Violinist",
+    "type": "violinist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/players/violinist/violinist.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Keyboardist",
+    "type": "keyboardist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/people/players/keyboardist/keyboardistL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/keyboardist/keyboardistR.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/keyboardist/keyboardistLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/keyboardist/keyboardistLA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/keyboardist/keyboardistB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/keyboardist/keyboardistRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/keyboardist/keyboardist.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/keyboardist/keyboardistRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Eguitarist",
+    "type": "eguitarist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/people/players/eguitarist/eguitaristL.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/eguitarist/eguitaristRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/eguitarist/eguitaristRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/eguitarist/eguitaristLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/eguitarist/eguitarist.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/eguitarist/eguitaristLB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/eguitarist/eguitaristR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/eguitarist/eguitaristB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Percussionist",
+    "type": "percussionist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/percussionist/percussionistRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/percussionist/percussionistRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/percussionist/percussionistR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/percussionist/percussionistLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/percussionist/percussionistLB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/percussionist/percussionistB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/percussionist/percussionistL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/percussionist/percussionist.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bassist",
+    "type": "bassist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/bassist/bassistLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/bassist/bassistLB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/bassist/bassistR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/bassist/bassistRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/bassist/bassist.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/bassist/bassistB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/bassist/bassistRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/bassist/bassistL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Guitarist",
+    "type": "guitarist",
+    "category": "players",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/people/players/guitarist/GuitaristRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/players/guitarist/GuitaristRB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/players/guitarist/Guitarist.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/players/guitarist/GuitaristLB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/players/guitarist/GuitaristL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/players/guitarist/GuitaristLA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/players/guitarist/GuitaristB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/players/guitarist/GuitaristR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Xlrmale",
+    "type": "xlrmale",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/xlrmale/XLRmale.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Quartermale",
+    "type": "quartermale",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/quartermale/quartermale.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Man2",
+    "type": "man2",
+    "category": "male",
+    "variants": [
+      {
+        "name": "LB",
+        "file": "final_assets/people/male/man2/Man2LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/male/man2/Man2LA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/male/man2/Man2RA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/male/man2/Man2R.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/male/man2/Man2RB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/male/man2/Man2B.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/male/man2/Man2.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/male/man2/Man2L.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Man3",
+    "type": "man3",
+    "category": "male",
+    "variants": [
+      {
+        "name": "RB",
+        "file": "final_assets/people/male/man3/Man3RB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/male/man3/Man3RA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/male/man3/Man3B.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/male/man3/Man3R.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/male/man3/Man3LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/male/man3/Man3LB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/male/man3/Man3.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/male/man3/Man3L.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Femalexlrtoquarter",
+    "type": "femalexlrtoquarter",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/femalexlrtoquarter/femaleXLRtoquarter.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Maletodoublefemale",
+    "type": "maletodoublefemale",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/maletodoublefemale/maletodoublefemale.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Quartertrstomalexl",
+    "type": "quartertrstomalexl",
+    "category": "male",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/people/male/quartertrstomalexl/quartertrstomaleXLR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Mandolin",
+    "type": "mandolin",
+    "category": "male",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/people/male/mandolin/mandolinRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/male/mandolin/mandolin.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Doublemalexl",
+    "type": "doublemalexl",
+    "category": "male",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/people/male/doublemalexl/doublemaleXLR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Mandoman",
+    "type": "mandoman",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/mandoman/mandoman.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/male/mandoman/mandomanL.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/male/mandoman/mandomanRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/male/mandoman/mandomanRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/male/mandoman/mandomanLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/male/mandoman/mandomanLB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/male/mandoman/mandomanR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/male/mandoman/mandomanB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Man1",
+    "type": "man1",
+    "category": "male",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/people/male/man1/Man1RA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/male/man1/Man1RB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/male/man1/Man1L.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/male/man1/Man1LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/male/man1/Man1LA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/male/man1/Man1B.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/male/man1/Man1.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/male/man1/Man1R.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Femalexlrtoquartertrs",
+    "type": "femalexlrtoquartertrs",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/femalexlrtoquartertrs/femaleXLRtoquartertrs.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Quartertomalexl",
+    "type": "quartertomalexl",
+    "category": "male",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/people/male/quartertomalexl/quartertomaleXLR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Doublefemalexl",
+    "type": "doublefemalexl",
+    "category": "male",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/people/male/doublefemalexl/doublefemaleXLR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Quartermale Balanced",
+    "type": "quartermale_balanced",
+    "category": "male",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/people/male/quartermale_balanced/quartermale_balanced.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Woman2",
+    "type": "woman2",
+    "category": "female",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/people/female/woman2/Woman2B.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/female/woman2/Woman2R.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/female/woman2/Woman2RA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/female/woman2/Woman2RB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/female/woman2/Woman2LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/female/woman2/Woman2LA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/female/woman2/Woman2L.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/female/woman2/Woman2.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Woman3",
+    "type": "woman3",
+    "category": "female",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/people/female/woman3/Woman3LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/people/female/woman3/Woman3LB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/female/woman3/Woman3R.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/female/woman3/Woman3B.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/female/woman3/Woman3RB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/female/woman3/Woman3RA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/female/woman3/Woman3L.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/female/woman3/Woman3.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Woman1",
+    "type": "woman1",
+    "category": "female",
+    "variants": [
+      {
+        "name": "LB",
+        "file": "final_assets/people/female/woman1/Woman1LB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/people/female/woman1/Woman1L.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/people/female/woman1/Woman1LA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/people/female/woman1/Woman1RA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/people/female/woman1/Woman1RB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/people/female/woman1/Woman1R.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/people/female/woman1/Woman1.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/people/female/woman1/Woman1B.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Clavinet",
+    "type": "clavinet",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/keys/clavinet/clavinetB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/clavinet/clavinetRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/clavinet/clavinetR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/clavinet/clavinetRB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/clavinet/clavinetLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/clavinet/clavinetLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/clavinet/clavinet.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/clavinet/clavinetL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Doublekeystand",
+    "type": "doublekeystand",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/keys/doublekeystand/doublekeystandR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/doublekeystand/doublekeystandB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/doublekeystand/doublekeystandLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/doublekeystand/doublekeystandLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/doublekeystand/doublekeystandL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/doublekeystand/doublekeystand.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/doublekeystand/doublekeystandRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/doublekeystand/doublekeystandRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Harpsichord",
+    "type": "harpsichord",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/keys/harpsichord/HarpsichordR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/harpsichord/HarpsichordB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/harpsichord/Harpsichord.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/harpsichord/HarpsichordLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/harpsichord/HarpsichordLB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/harpsichord/HarpsichordL.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/harpsichord/HarpsichordRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/harpsichord/HarpsichordRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Accordion",
+    "type": "accordion",
+    "category": "accordion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/keys/accordion/accordion/Accordion.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/accordion/accordion/AccordionL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/accordion/accordion/AccordionRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/accordion/accordion/AccordionR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/accordion/accordion/AccordionLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Accordionist",
+    "type": "accordionist",
+    "category": "accordion",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/keys/accordion/accordionist/accordionist.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/accordion/accordionist/accordionistR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/accordion/accordionist/accordionistB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/accordion/accordionist/accordionistLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/accordion/accordionist/accordionistLB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/accordion/accordionist/accordionistL.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/accordion/accordionist/accordionistRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/accordion/accordionist/accordionistRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Celesta",
+    "type": "celesta",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/keys/celesta/CelestaRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/celesta/CelestaRB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/celesta/CelestaLB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/celesta/CelestaB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/celesta/CelestaLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/celesta/CelestaR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/celesta/CelestaL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/celesta/Celesta.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Keystand",
+    "type": "keystand",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/keys/keystand/keystandB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/keystand/keystandR.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/keystand/keystandLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/keystand/keystandLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/keystand/keystandL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/keystand/keystandRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/keystand/keystand.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/keystand/keystandRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Mellotron",
+    "type": "mellotron",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "RB",
+        "file": "final_assets/keys/mellotron/MellotronRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/mellotron/MellotronRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/mellotron/MellotronL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/mellotron/MellotronLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/mellotron/MellotronLB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/mellotron/Mellotron.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/mellotron/MellotronB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/mellotron/MellotronR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Femkeystand",
+    "type": "femkeystand",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/keys/femkeystand/femkeystandL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/femkeystand/femkeystandRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/femkeystand/femkeystandRB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/femkeystand/femkeystandLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/femkeystand/femkeystandLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/femkeystand/femkeystandR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/femkeystand/femkeystand.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/femkeystand/femkeystandB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Leslie",
+    "type": "leslie",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/keys/leslie/LeslieR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/leslie/LeslieRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/leslie/LeslieL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/leslie/Leslie.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/leslie/LeslieLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Keytar",
+    "type": "keytar",
+    "category": "keytar",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/keys/keytar/keytar/keytar.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Yamahacp70",
+    "type": "yamahacp70",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70L.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70LA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70LB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70R.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70RB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70RA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70B.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/yamahacp70/yamahaCP70.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Yamahagt2",
+    "type": "yamahagt2",
+    "category": "keys",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2R.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2RA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2RB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2B.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2LB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2LA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/keys/yamahagt2/YamahaGT2L.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Banjo",
+    "type": "banjo",
+    "category": "banjo",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/banjo/banjo/banjo.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Banjo Guy",
+    "type": "banjo_guy",
+    "category": "banjo",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guy.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyL.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/guitars/banjo/banjo_guy/banjo_guyRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tiple",
+    "type": "tiple",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/tiple/tiple.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/tiple/tipleRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tumbi",
+    "type": "tumbi",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/tumbi/tumbiRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/tumbi/tumbi.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Acousticguitar",
+    "type": "acousticguitar",
+    "category": "acoustic",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/acoustic/acousticguitar/acousticguitarRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/acoustic/acousticguitar/acousticguitar.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Femacoustic",
+    "type": "femacoustic",
+    "category": "acoustic",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticL.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticRA.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticRB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacoustic.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/guitars/acoustic/femacoustic/femacousticB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Guitarstand",
+    "type": "guitarstand",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/guitarstand/guitarstand.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/guitars/guitarstand/guitarstandB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/guitars/guitarstand/guitarstandR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/guitars/guitarstand/guitarstandRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/guitarstand/guitarstandRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/guitars/guitarstand/guitarstandL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/guitarstand/guitarstandLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/guitars/guitarstand/guitarstandLB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Guitarsynth",
+    "type": "guitarsynth",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/guitarsynth/guitarsynth.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/guitars/guitarsynth/guitarsynthR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/guitars/guitarsynth/guitarsynthL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/guitarsynth/guitarsynthRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/guitarsynth/guitarsynthLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Zinfonia",
+    "type": "zinfonia",
+    "category": "zinfonia",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/zinfonia/zinfonia/zinfonia.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Zinfoniaplayer",
+    "type": "zinfoniaplayer",
+    "category": "zinfonia",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerLB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerRB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerRA.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerB.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayerL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/zinfonia/zinfoniaplayer/zinfoniaplayer.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Charango",
+    "type": "charango",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/charango/charangoRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/charango/charango.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "P Bass",
+    "type": "p_bass",
+    "category": "bass",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/bass/p_bass/P_BassRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/bass/p_bass/P_Bass.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Sixbass",
+    "type": "sixbass",
+    "category": "bass",
+    "variants": [
+      {
+        "name": "B",
+        "file": "final_assets/guitars/bass/sixbass/sixbassB.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/bass/sixbass/sixbass.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/bass/sixbass/sixbassRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/guitars/bass/sixbass/sixbassR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/guitars/bass/sixbass/sixbassRB.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/guitars/bass/sixbass/sixbassLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/bass/sixbass/sixbassLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/guitars/bass/sixbass/sixbassL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Stringbass",
+    "type": "stringbass",
+    "category": "bass",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/bass/stringbass/stringbass.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Lute",
+    "type": "lute",
+    "category": "lute",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/lute/lute/Lute.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/lute/lute/LuteRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Flute",
+    "type": "flute",
+    "category": "lute",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/guitars/lute/flute/fluteL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/lute/flute/fluteRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/lute/flute/flute.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/guitars/lute/flute/fluteLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/guitars/lute/flute/fluteR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Oud",
+    "type": "oud",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/oud/OudRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/oud/Oud.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Azerisaz",
+    "type": "azerisaz",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/azerisaz/azerisaz.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/azerisaz/azerisazRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cuatro",
+    "type": "cuatro",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/cuatro/cuatroRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/cuatro/cuatro.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ukulele",
+    "type": "ukulele",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/ukulele/Ukulele.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/ukulele/UkuleleRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Balalaika",
+    "type": "balalaika",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/balalaika/balalaika.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/balalaika/balalaikaRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "National",
+    "type": "national",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "R",
+        "file": "final_assets/guitars/national/NationalR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/national/NationalRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/national/National.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Guitarron",
+    "type": "guitarron",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/guitarron/guitarron.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/guitarron/guitarronRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bouzouki",
+    "type": "bouzouki",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/guitars/bouzouki/bouzouki.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/bouzouki/bouzoukiRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Sitar",
+    "type": "sitar",
+    "category": "guitars",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/guitars/sitar/SitarRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/guitars/sitar/Sitar.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "IEM Wired",
+    "type": "monitors",
+    "category": "outputs",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/outputs/monitors/IEMwired.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Trombone",
+    "type": "trombone",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/winds/trombone/tromboneRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/trombone/tromboneR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/trombone/tromboneLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/trombone/tromboneL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/trombone/trombone.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Cornet",
+    "type": "cornet",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/winds/cornet/cornetRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/cornet/cornetL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/cornet/cornetLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/cornet/cornetR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/cornet/cornet.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bassoon",
+    "type": "bassoon",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/bassoon/Bassoon.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/bassoon/BassoonL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/bassoon/BassoonLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/bassoon/BassoonR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/bassoon/BassoonRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Clarinet",
+    "type": "clarinet",
+    "category": "clarinet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/clarinet/clarinet/clarinet.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/clarinet/clarinet/clarinetL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/clarinet/clarinet/clarinetRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/clarinet/clarinet/clarinetR.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/clarinet/clarinet/clarinetLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Contraclarinet",
+    "type": "contraclarinet",
+    "category": "clarinet",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/winds/clarinet/contraclarinet/contraclarinetRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/clarinet/contraclarinet/contraclarinetLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/clarinet/contraclarinet/contraclarinetR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/clarinet/contraclarinet/contraclarinetL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/clarinet/contraclarinet/contraclarinet.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Ocarina",
+    "type": "ocarina",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/ocarina/ocarina.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Oboe",
+    "type": "oboe",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/winds/oboe/oboeL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/oboe/oboeLA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/oboe/oboe.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/oboe/oboeR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/oboe/oboeRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Gajda",
+    "type": "gajda",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/winds/gajda/GajdaL.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/gajda/GajdaRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/gajda/Gajda.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/gajda/GajdaLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/gajda/GajdaR.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Trumpetplayer",
+    "type": "trumpetplayer",
+    "category": "trumpet",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerL.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerLB.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerR.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerRA.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayer.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/winds/trumpet/trumpetplayer/trumpetplayerRB.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Trumpet",
+    "type": "trumpet",
+    "category": "trumpet",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/trumpet/trumpet/trumpet.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Harmonica",
+    "type": "harmonica",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/winds/harmonica/harmonicaL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/harmonica/harmonica.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/harmonica/harmonicaLA.png"
+      },
+      {
+        "name": "LB",
+        "file": "final_assets/winds/harmonica/harmonicaLB.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/harmonica/harmonicaR.png"
+      },
+      {
+        "name": "RB",
+        "file": "final_assets/winds/harmonica/harmonicaRB.png"
+      },
+      {
+        "name": "B",
+        "file": "final_assets/winds/harmonica/harmonicaB.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/harmonica/harmonicaRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Contrabassoon",
+    "type": "contrabassoon",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "LA",
+        "file": "final_assets/winds/contrabassoon/contrabassoonLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/contrabassoon/contrabassoonR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/contrabassoon/contrabassoonRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/contrabassoon/contrabassoonL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/contrabassoon/contrabassoon.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Piccolo",
+    "type": "piccolo",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/winds/piccolo/piccoloL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/piccolo/piccoloR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/piccolo/piccolo.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/piccolo/piccoloRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/piccolo/piccoloLA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Kaval",
+    "type": "kaval",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/winds/kaval/kavalRA.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/kaval/kavalLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/kaval/kavalL.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/kaval/kavalR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/kaval/kaval.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Tuba",
+    "type": "tuba",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "L",
+        "file": "final_assets/winds/tuba/TubaL.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/tuba/Tuba.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/tuba/TubaLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/tuba/TubaR.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/tuba/TubaRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Recorder",
+    "type": "recorder",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "RA",
+        "file": "final_assets/winds/recorder/recorderRA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/recorder/recorderR.png"
+      },
+      {
+        "name": "default",
+        "file": "final_assets/winds/recorder/recorder.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/recorder/recorderLA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/recorder/recorderL.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Euphonium",
+    "type": "euphonium",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/euphonium/Euphonium.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/euphonium/EuphoniumR.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/euphonium/EuphoniumL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/euphonium/EuphoniumLA.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/euphonium/EuphoniumRA.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bagpipes",
+    "type": "bagpipes",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/bagpipes/bagpipes.png"
+      }
+    ],
+    "inputs": []
+  },
+  {
+    "name": "Bassclarinet",
+    "type": "bassclarinet",
+    "category": "winds",
+    "variants": [
+      {
+        "name": "default",
+        "file": "final_assets/winds/bassclarinet/bassclarinet.png"
+      },
+      {
+        "name": "RA",
+        "file": "final_assets/winds/bassclarinet/bassclarinetRA.png"
+      },
+      {
+        "name": "L",
+        "file": "final_assets/winds/bassclarinet/bassclarinetL.png"
+      },
+      {
+        "name": "LA",
+        "file": "final_assets/winds/bassclarinet/bassclarinetLA.png"
+      },
+      {
+        "name": "R",
+        "file": "final_assets/winds/bassclarinet/bassclarinetR.png"
+      }
+    ],
+    "inputs": []
+  }
+]

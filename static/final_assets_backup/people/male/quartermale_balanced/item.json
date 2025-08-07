@@ -1,0 +1,7 @@
+{
+    "name": "Quartermale Balanced",
+    "item_type": "symbol",
+    "variants": {
+        "default": "quartermale_balanced.png"
+    }
+}

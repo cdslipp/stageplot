@@ -1,0 +1,8 @@
+{
+    "name": "Lute",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Lute.png",
+        "RA": "LuteRA.png"
+    }
+}

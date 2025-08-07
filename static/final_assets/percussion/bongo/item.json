@@ -1,0 +1,11 @@
+{
+    "name": "Bongos",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "BongosRA.png",
+        "L": "BongosL.png",
+        "default": "Bongos.png",
+        "LA": "BongosLA.png",
+        "R": "BongosR.png"
+    }
+}

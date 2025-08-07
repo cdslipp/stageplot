@@ -1,0 +1,11 @@
+{
+    "name": "Mixer",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "mixerRA.png",
+        "LA": "mixerLA.png",
+        "L": "mixerL.png",
+        "default": "mixer.png",
+        "R": "mixerR.png"
+    }
+}

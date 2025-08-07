@@ -1,0 +1,7 @@
+{
+    "name": "Drumshield Two",
+    "item_type": "accessory",
+    "variants": {
+        "default": "drumshield_two.png"
+    }
+}

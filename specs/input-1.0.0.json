@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/input-1.0.0.json",
+  "title": "Input",
+  "description": "A single audio input for the sound system.",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": { "type": "string", "description": "A unique identifier for the input." },
+    "band_id": { "type": "string", "description": "The ID of the band this input belongs to." },
+    "name": { "type": "string", "description": "The input's name (e.g., 'Kick In', 'Stereo Keys L')." },
+    "short_name": { "type": "string", "description": "A short name for the input (e.g., 'Kik')." },
+    "color": {
+      "type": "string",
+      "enum": ["red", "orange", "yellow", "green", "blue", "indigo", "violet"],
+      "description": "A color for the input."
+    },
+    "channel_id": { "type": "string", "description": "The ID of the console channel this input is patched to." },
+    "linked_to": { "type": "string", "description": "The ID of another input this input is linked with (e.g., for a stereo pair)." },
+    "ideal_device": {
+      "$ref": "gear-preference-1.0.0.json"
+    },
+    "stand": { "type": "string", "enum": ["none", "short_boom", "tall_boom", "straight"], "description": "The type of stand required." },
+    "phantom_power": { "type": "boolean", "description": "Whether 48V phantom power is required." }
+  }
+}

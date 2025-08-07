@@ -1,0 +1,14 @@
+{
+    "name": "Timpaniset",
+    "item_type": "accessory",
+    "variants": {
+        "default": "TimpaniSet.png",
+        "B": "TimpaniSetB.png",
+        "R": "TimpaniSetR.png",
+        "RB": "TimpaniSetRB.png",
+        "RA": "TimpaniSetRA.png",
+        "LA": "TimpaniSetLA.png",
+        "LB": "TimpaniSetLB.png",
+        "L": "TimpaniSetL.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Ocarina",
+    "item_type": "accessory",
+    "variants": {
+        "default": "ocarina.png"
+    }
+}

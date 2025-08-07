@@ -1,0 +1,7 @@
+{
+    "name": "B",
+    "item_type": "symbol",
+    "variants": {
+        "default": "B.png"
+    }
+}

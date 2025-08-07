@@ -1,0 +1,7 @@
+{
+    "name": "Tambourine",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Tambourine.png"
+    }
+}

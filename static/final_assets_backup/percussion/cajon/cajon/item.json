@@ -1,0 +1,9 @@
+{
+    "name": "Cajon",
+    "item_type": "accessory",
+    "variants": {
+        "default": "cajon.png",
+        "LA": "cajonLA.png",
+        "RA": "cajonRA.png"
+    }
+}

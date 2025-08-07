@@ -1,0 +1,8 @@
+{
+    "name": "Tumbi",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "tumbiRA.png",
+        "default": "tumbi.png"
+    }
+}

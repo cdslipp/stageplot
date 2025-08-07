@@ -1,0 +1,9 @@
+{
+    "name": "Rackback",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "RackBackLA.png",
+        "RA": "RackBackRA.png",
+        "default": "RackBack.png"
+    }
+}

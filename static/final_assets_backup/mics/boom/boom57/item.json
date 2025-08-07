@@ -1,0 +1,11 @@
+{
+    "name": "Boom57",
+    "item_type": "accessory",
+    "variants": {
+        "L": "Boom57L.png",
+        "default": "Boom57.png",
+        "RA": "Boom57RA.png",
+        "LA": "Boom57LA.png",
+        "R": "Boom57R.png"
+    }
+}

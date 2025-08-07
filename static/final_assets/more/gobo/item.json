@@ -1,0 +1,14 @@
+{
+    "name": "Gobo",
+    "item_type": "accessory",
+    "variants": {
+        "L": "GoboL.png",
+        "R": "GoboR.png",
+        "B": "GoboB.png",
+        "LB": "GoboLB.png",
+        "LA": "GoboLA.png",
+        "RA": "GoboRA.png",
+        "RB": "GoboRB.png",
+        "default": "Gobo.png"
+    }
+}

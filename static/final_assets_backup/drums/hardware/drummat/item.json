@@ -1,0 +1,7 @@
+{
+    "name": "Drummat",
+    "item_type": "accessory",
+    "variants": {
+        "default": "drummat.png"
+    }
+}

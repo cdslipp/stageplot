@@ -1,0 +1,14 @@
+{
+    "name": "Chimes",
+    "item_type": "accessory",
+    "variants": {
+        "L": "chimesL.png",
+        "B": "chimesB.png",
+        "R": "chimesR.png",
+        "RB": "chimesRB.png",
+        "default": "chimes.png",
+        "RA": "chimesRA.png",
+        "LA": "chimesLA.png",
+        "LB": "chimesLB.png"
+    }
+}

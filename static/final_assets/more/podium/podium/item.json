@@ -1,0 +1,14 @@
+{
+    "name": "Podium",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "podiumLA.png",
+        "LB": "podiumLB.png",
+        "RB": "podiumRB.png",
+        "L": "podiumL.png",
+        "RA": "podiumRA.png",
+        "B": "podiumB.png",
+        "R": "podiumR.png",
+        "default": "podium.png"
+    }
+}

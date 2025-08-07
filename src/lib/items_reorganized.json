@@ -1,0 +1,5534 @@
+[
+    {
+        "name": "Marshall Amp",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/marshall.png",
+            "back": "img_reorganized/amps/guitar/marshallback.png",
+            "R": "img_reorganized/amps/guitar/marshallR.png",
+            "LA": "img_reorganized/amps/guitar/marshallLA.png",
+            "L": "img_reorganized/amps/guitar/marshallL.png",
+            "RA": "img_reorganized/amps/guitar/marshallRA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Fender Amp",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/FenderAmp.png",
+            "back": "img_reorganized/amps/guitar/FenderAmpBack.png",
+            "R": "img_reorganized/amps/guitar/FenderAmpR.png",
+            "RA": "img_reorganized/amps/guitar/FenderAmpRA.png",
+            "L": "img_reorganized/amps/guitar/FenderAmpL.png",
+            "LA": "img_reorganized/amps/guitar/FenderAmpLA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Eguitarist",
+        "category": "egt",
+        "variants": {
+            "L": "img_reorganized/amps/guitar/eguitaristL.png",
+            "RB": "img_reorganized/amps/guitar/eguitaristRB.png",
+            "RA": "img_reorganized/amps/guitar/eguitaristRA.png",
+            "LA": "img_reorganized/amps/guitar/eguitaristLA.png",
+            "default": "img_reorganized/amps/guitar/eguitarist.png",
+            "LB": "img_reorganized/amps/guitar/eguitaristLB.png",
+            "R": "img_reorganized/amps/guitar/eguitaristR.png",
+            "B": "img_reorganized/amps/guitar/eguitaristB.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Nashville Amp",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/nashville.png",
+            "back": "img_reorganized/amps/guitar/nashvilleback.png",
+            "L": "img_reorganized/amps/guitar/NashvilleL.png",
+            "R": "img_reorganized/amps/guitar/NashvilleR.png",
+            "LA": "img_reorganized/amps/guitar/nashvilleLA.png",
+            "RA": "img_reorganized/amps/guitar/nashvilleRA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Vox",
+        "category": "egt",
+        "variants": {
+            "B": "img_reorganized/amps/guitar/voxB.png",
+            "R": "img_reorganized/amps/guitar/voxR.png",
+            "default": "img_reorganized/amps/guitar/vox.png",
+            "RA": "img_reorganized/amps/guitar/voxRA.png",
+            "LA": "img_reorganized/amps/guitar/voxLA.png",
+            "L": "img_reorganized/amps/guitar/voxL.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Femguitarist",
+        "category": "egt",
+        "variants": {
+            "B": "img_reorganized/amps/guitar/femguitaristB.png",
+            "R": "img_reorganized/amps/guitar/femguitaristR.png",
+            "LB": "img_reorganized/amps/guitar/femguitaristLB.png",
+            "LA": "img_reorganized/amps/guitar/femguitaristLA.png",
+            "L": "img_reorganized/amps/guitar/femguitaristL.png",
+            "default": "img_reorganized/amps/guitar/femguitarist.png",
+            "RA": "img_reorganized/amps/guitar/femguitaristRA.png",
+            "RB": "img_reorganized/amps/guitar/femguitaristRB.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Marshallcabs",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/MarshallCabs.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Marshallhead",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/marshallhead.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Marshall412",
+        "category": "egt",
+        "variants": {
+            "A": "img_reorganized/amps/guitar/Marshall412A.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Electricguitar",
+        "category": "egt",
+        "variants": {
+            "RA": "img_reorganized/amps/guitar/ElectricGuitarRA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Marshall412 A",
+        "category": "egt",
+        "variants": {
+            "R": "img_reorganized/amps/guitar/Marshall412AR.png",
+            "LA": "img_reorganized/amps/guitar/Marshall412ALA.png",
+            "L": "img_reorganized/amps/guitar/Marshall412AL.png",
+            "RA": "img_reorganized/amps/guitar/Marshall412ARA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Fenderampback",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/FenderAmpBack.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Electricguitar",
+        "category": "egt",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/electricguitar.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Electric",
+        "category": "power",
+        "variants": {
+            "default": "img_reorganized/ac/electric.png"
+        },
+        "menu": "AC",
+        "submenu": "Electric",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Electric240 Uk",
+        "category": "power",
+        "variants": {
+            "default": "img_reorganized/ac/electric240UK.png"
+        },
+        "menu": "AC",
+        "submenu": "Electric",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Electric4",
+        "category": "power",
+        "variants": {
+            "default": "img_reorganized/ac/electric4.png"
+        },
+        "menu": "AC",
+        "submenu": "Electric",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Electric240 Uk4",
+        "category": "power",
+        "variants": {
+            "default": "img_reorganized/ac/electric240UK4.png"
+        },
+        "menu": "AC",
+        "submenu": "Electric",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Harpsichord",
+        "category": "piano",
+        "variants": {
+            "R": "img_reorganized/keys/harpsichord/HarpsichordR.png",
+            "B": "img_reorganized/keys/harpsichord/HarpsichordB.png",
+            "default": "img_reorganized/keys/harpsichord/Harpsichord.png",
+            "LA": "img_reorganized/keys/harpsichord/HarpsichordLA.png",
+            "LB": "img_reorganized/keys/harpsichord/HarpsichordLB.png",
+            "L": "img_reorganized/keys/harpsichord/HarpsichordL.png",
+            "RB": "img_reorganized/keys/harpsichord/HarpsichordRB.png",
+            "RA": "img_reorganized/keys/harpsichord/HarpsichordRA.png"
+        },
+        "menu": "Keys",
+        "submenu": "Harpsichord",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Guitarist",
+        "category": "agt",
+        "variants": {
+            "RA": "img_reorganized/players/GuitaristRA.png",
+            "RB": "img_reorganized/players/GuitaristRB.png",
+            "default": "img_reorganized/players/Guitarist.png",
+            "LB": "img_reorganized/players/GuitaristLB.png",
+            "L": "img_reorganized/players/GuitaristL.png",
+            "LA": "img_reorganized/players/GuitaristLA.png",
+            "B": "img_reorganized/players/GuitaristB.png",
+            "R": "img_reorganized/players/GuitaristR.png"
+        },
+        "menu": "Players",
+        "submenu": "Guitar",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Femacoustic",
+        "category": "agt",
+        "variants": {
+            "L": "img_reorganized/guitars/acoustic/femacousticL.png",
+            "LB": "img_reorganized/guitars/acoustic/femacousticLB.png",
+            "LA": "img_reorganized/guitars/acoustic/femacousticLA.png",
+            "RA": "img_reorganized/guitars/acoustic/femacousticRA.png",
+            "RB": "img_reorganized/guitars/acoustic/femacousticRB.png",
+            "R": "img_reorganized/guitars/acoustic/femacousticR.png",
+            "default": "img_reorganized/guitars/acoustic/femacoustic.png",
+            "B": "img_reorganized/guitars/acoustic/femacousticB.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Acoustic",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tiple",
+        "category": "agt",
+        "variants": {
+            "default": "img_reorganized/guitars/tiple/tiple.png",
+            "RA": "img_reorganized/guitars/tiple/tipleRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Tiple",
+        "item_type": "accessory"
+    },
+    {
+        "name": "National",
+        "category": "agt",
+        "variants": {
+            "R": "img_reorganized/guitars/national/NationalR.png",
+            "RA": "img_reorganized/guitars/national/NationalRA.png",
+            "default": "img_reorganized/guitars/national/National.png"
+        },
+        "menu": "Guitars",
+        "submenu": "National",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Acousticguitar",
+        "category": "agt",
+        "variants": {
+            "RA": "img_reorganized/guitars/acoustic/acousticguitarRA.png",
+            "default": "img_reorganized/guitars/acoustic/acousticguitar.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Acoustic",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Guitarstand",
+        "category": "gt_stand",
+        "variants": {
+            "default": "img_reorganized/guitars/guitarstand.png",
+            "B": "img_reorganized/guitars/guitarstandB.png",
+            "R": "img_reorganized/guitars/guitarstandR.png",
+            "RB": "img_reorganized/guitars/guitarstandRB.png",
+            "RA": "img_reorganized/guitars/guitarstandRA.png",
+            "L": "img_reorganized/guitars/guitarstandL.png",
+            "LA": "img_reorganized/guitars/guitarstandLA.png",
+            "LB": "img_reorganized/guitars/guitarstandLB.png"
+        },
+        "menu": "Guitars",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Guitarron",
+        "category": "gt_stand",
+        "variants": {
+            "default": "img_reorganized/guitars/guitarron/guitarron.png",
+            "RA": "img_reorganized/guitars/guitarron/guitarronRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Guitarron",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Gunrack",
+        "category": "gt_stand",
+        "variants": {
+            "R": "img_reorganized/more/rack/gunrackR.png",
+            "default": "img_reorganized/more/rack/gunrack.png",
+            "RA": "img_reorganized/more/rack/gunrackRA.png",
+            "LA": "img_reorganized/more/rack/gunrackLA.png",
+            "L": "img_reorganized/more/rack/gunrackL.png"
+        },
+        "menu": "More",
+        "submenu": "Rack",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Guitaronstand",
+        "category": "gt_stand",
+        "variants": {
+            "R": "img_reorganized/amps/guitar/guitaronstandR.png",
+            "L": "img_reorganized/amps/guitar/guitaronstandL.png",
+            "LA": "img_reorganized/amps/guitar/guitaronstandLA.png",
+            "default": "img_reorganized/amps/guitar/guitaronstand.png",
+            "RA": "img_reorganized/amps/guitar/guitaronstandRA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Iemwired",
+        "category": "monitor",
+        "variants": {
+            "default": "img_reorganized/mics/hand_held/IEMwired.png"
+        },
+        "menu": "Mics",
+        "submenu": "Hand Held",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Sixtyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open94",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open94.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open80",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open80.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open57",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open57.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open43",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open43.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fifteen15",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fifteen15.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open4",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open4.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open5",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open5.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyfour24",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyfour24.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open42",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open42.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open56",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open56.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open81",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open81.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open95",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open95.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirteen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirteen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ten",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ten.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open83",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open83.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open97",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open97.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open68",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open68.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eleven11",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eleven11.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open40",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open40.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open54",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open54.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open7",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open7.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open6",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open6.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirteen13",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirteen13.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open55",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open55.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open41",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open41.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open69",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open69.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open96",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open96.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open82",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open82.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentytwo22",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentytwo22.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open86",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open86.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open92",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open92.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open45",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open45.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open51",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open51.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open79",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open79.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open2",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open2.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open3",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open3.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventy",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventy.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Three",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/three.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open78",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open78.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open50",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open50.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open44",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open44.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open93",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open93.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open87",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open87.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Five5",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/five5.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open91",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open91.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open85",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open85.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open52",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open52.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open46",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open46.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open1",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open1.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixteen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixteen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ten10",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ten10.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open47",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open47.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open53",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open53.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Forty",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/forty.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open84",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open84.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open90",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open90.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixteen16",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixteen16.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open34",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open34.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open20",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open20.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fifteen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fifteen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirty",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirty.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open21",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open21.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open35",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open35.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentythree23",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentythree23.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open23",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open23.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open37",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open37.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fourteen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fourteen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Three3",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/three3.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open36",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open36.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open22",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open22.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eighteen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eighteen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Six",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/six.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Two",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/two.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open26",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open26.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open32",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open32.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "One1",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/one1.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open33",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open33.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open27",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open27.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Four",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/four.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open31",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open31.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open25",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open25.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open19",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open19.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twelve",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twelve.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twenty",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twenty.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventeen17",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventeen17.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open18",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open18.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open24",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open24.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Nineteen19",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/nineteen19.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open30",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open30.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twelve12",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twelve12.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open29",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open29.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open15",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open15.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Two2",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/two2.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open14",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open14.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open28",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open28.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open16",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open16.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetynine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetynine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open17",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open17.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open13",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open13.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Five",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/five.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open12",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open12.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "One",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/one.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninety",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninety.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Nine9",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/nine9.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twenty20",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twenty20.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open10",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open10.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open38",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open38.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eighteen18",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eighteen18.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixty",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixty.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open39",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open39.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Thirtyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/thirtyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open11",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open11.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open89",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open89.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open76",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open76.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open62",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open62.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fortyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fortyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seven7",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seven7.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open63",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open63.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open77",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open77.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open88",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open88.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eleven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eleven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open49",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open49.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open61",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open61.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open75",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open75.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fifty",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fifty.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Nineteen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/nineteen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sixtyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/sixtyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Six6",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/six6.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open74",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open74.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open60",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open60.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open48",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open48.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetyfive",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetyfive.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventeen",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventeen.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eight8",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eight8.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eighty",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eighty.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ninetyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/ninetyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventyfour",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventyfour.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open64",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open64.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open70",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open70.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open58",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open58.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightythree",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightythree.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fiftyseven",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fiftyseven.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventysix",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventysix.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Four4",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/four4.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open59",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open59.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventyeight",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventyeight.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open71",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open71.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open65",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open65.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Seventytwo",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/seventytwo.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fourteen14",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/fourteen14.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Nine",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/nine.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyone21",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyone21.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Eightyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/eightyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open98",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open98.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open73",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open73.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open67",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open67.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open8",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open8.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open9",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open9.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Twentyone",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/twentyone.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open66",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open66.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open72",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open72.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Open99",
+        "category": "numerical",
+        "variants": {
+            "default": "img_reorganized/numerals/open99.png"
+        },
+        "menu": "Numerals",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Subwoofer",
+        "category": "speaker",
+        "variants": {
+            "default": "img_reorganized/stagecraft/subwoofer/Subwoofer.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Subwoofer",
+        "item_type": "output"
+    },
+    {
+        "name": "Stageplotprologo",
+        "category": "speaker",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stageplotprologo.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Stageplotproleft",
+        "category": "speaker",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stageplotproleft.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Movestage",
+        "category": "arrow",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/movestage.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Adjrw",
+        "category": "arrow",
+        "variants": {
+            "default": "img_reorganized/more/dj_gear/adjrw.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Adjy",
+        "category": "arrow",
+        "variants": {
+            "default": "img_reorganized/more/dj_gear/adjy.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Adjlw",
+        "category": "arrow",
+        "variants": {
+            "default": "img_reorganized/more/dj_gear/adjlw.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Doublekick",
+        "category": "drum",
+        "variants": {
+            "RA": "img_reorganized/drums/drum_kits/doublekickRA.png",
+            "L": "img_reorganized/drums/drum_kits/doublekickL.png",
+            "LA": "img_reorganized/drums/drum_kits/doublekickLA.png",
+            "default": "img_reorganized/drums/drum_kits/doublekick.png",
+            "R": "img_reorganized/drums/drum_kits/doublekickR.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drum Kits",
+        "item_type": "drumset"
+    },
+    {
+        "name": "Tom2",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/individual_drums/tom2.png"
+        },
+        "menu": "Drums",
+        "submenu": "Individual Drums",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Drummer",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/drummer/drummer.png",
+            "R": "img_reorganized/drums/drummer/drummerR.png",
+            "LA": "img_reorganized/drums/drummer/drummerLA.png",
+            "RA": "img_reorganized/drums/drummer/drummerRA.png",
+            "L": "img_reorganized/drums/drummer/drummerL.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drummer",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Drummerafrican",
+        "category": "drum",
+        "variants": {
+            "LA": "img_reorganized/drums/drummer/DrummerAfricanLA.png",
+            "R": "img_reorganized/drums/drummer/DrummerAfricanR.png",
+            "default": "img_reorganized/drums/drummer/DrummerAfrican.png",
+            "RA": "img_reorganized/drums/drummer/DrummerAfricanRA.png",
+            "L": "img_reorganized/drums/drummer/DrummerAfricanL.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drummer",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Edrums",
+        "category": "drum",
+        "variants": {
+            "LA": "img_reorganized/drums/drum_kits/edrumsLA.png",
+            "default": "img_reorganized/drums/drum_kits/edrums.png",
+            "RA": "img_reorganized/drums/drum_kits/edrumsRA.png",
+            "L": "img_reorganized/drums/drum_kits/edrumsL.png",
+            "R": "img_reorganized/drums/drum_kits/edrumsR.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drum Kits",
+        "item_type": "drumset"
+    },
+    {
+        "name": "Rototomset",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/drum_kits/rototomset.png",
+            "L": "img_reorganized/drums/drum_kits/rototomsetL.png",
+            "RA": "img_reorganized/drums/drum_kits/rototomsetRA.png",
+            "LA": "img_reorganized/drums/drum_kits/rototomsetLA.png",
+            "R": "img_reorganized/drums/drum_kits/rototomsetR.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drum Kits",
+        "item_type": "drumset"
+    },
+    {
+        "name": "Bassdrum",
+        "category": "drum",
+        "variants": {
+            "R": "img_reorganized/drums/hardware/BassdrumR.png",
+            "B": "img_reorganized/drums/hardware/BassdrumB.png",
+            "default": "img_reorganized/drums/hardware/Bassdrum.png",
+            "LA": "img_reorganized/drums/hardware/BassdrumLA.png",
+            "LB": "img_reorganized/drums/hardware/BassdrumLB.png",
+            "RB": "img_reorganized/drums/hardware/BassdrumRB.png",
+            "L": "img_reorganized/drums/hardware/BassdrumL.png",
+            "RA": "img_reorganized/drums/hardware/BassdrumRA.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tom1",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/individual_drums/tom1.png"
+        },
+        "menu": "Drums",
+        "submenu": "Individual Drums",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Twotoms",
+        "category": "drum",
+        "variants": {
+            "RA": "img_reorganized/drums/drum_kits/TwoTomsRA.png",
+            "L": "img_reorganized/drums/drum_kits/TwoTomsL.png",
+            "LA": "img_reorganized/drums/drum_kits/TwoTomsLA.png",
+            "default": "img_reorganized/drums/drum_kits/TwoToms.png",
+            "R": "img_reorganized/drums/drum_kits/TwoTomsR.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drum Kits",
+        "item_type": "drumset"
+    },
+    {
+        "name": "Cymbal",
+        "category": "drum",
+        "variants": {
+            "RA": "img_reorganized/drums/cymbals/cymbalRA.png",
+            "LA": "img_reorganized/drums/cymbals/cymbalLA.png",
+            "default": "img_reorganized/drums/cymbals/cymbal.png"
+        },
+        "menu": "Drums",
+        "submenu": "Cymbals",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Hihat",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/hihat.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Threetoms",
+        "category": "drum",
+        "variants": {
+            "L": "img_reorganized/drums/drum_kits/ThreeTomsL.png",
+            "default": "img_reorganized/drums/drum_kits/ThreeToms.png",
+            "R": "img_reorganized/drums/drum_kits/ThreeTomsR.png",
+            "RA": "img_reorganized/drums/drum_kits/ThreeTomsRA.png",
+            "LA": "img_reorganized/drums/drum_kits/ThreeTomsLA.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drum Kits",
+        "item_type": "drumset"
+    },
+    {
+        "name": "Drumshield Two",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/drumshield_two.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Fourtoms",
+        "category": "drum",
+        "variants": {
+            "R": "img_reorganized/drums/drum_kits/FourTomsR.png",
+            "LA": "img_reorganized/drums/drum_kits/FourTomsLA.png",
+            "L": "img_reorganized/drums/drum_kits/FourTomsL.png",
+            "default": "img_reorganized/drums/drum_kits/FourToms.png",
+            "RA": "img_reorganized/drums/drum_kits/FourTomsRA.png"
+        },
+        "menu": "Drums",
+        "submenu": "Drum Kits",
+        "item_type": "drumset"
+    },
+    {
+        "name": "Floortom",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/individual_drums/floortom.png"
+        },
+        "menu": "Drums",
+        "submenu": "Individual Drums",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Cowbell",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/Cowbell.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Drumshield Three",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/drumshield_three.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Drumshield One",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/drumshield_one.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Drummat",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/drummat.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Crash",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/crash.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Ride",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/ride.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Kick",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/individual_drums/kick.png"
+        },
+        "menu": "Drums",
+        "submenu": "Individual Drums",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Snare",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/individual_drums/snare.png"
+        },
+        "menu": "Drums",
+        "submenu": "Individual Drums",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Throne",
+        "category": "drum",
+        "variants": {
+            "default": "img_reorganized/drums/hardware/throne.png"
+        },
+        "menu": "Drums",
+        "submenu": "Hardware",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Doublefemalexl",
+        "category": "io",
+        "variants": {
+            "R": "img_reorganized/people/male/doublefemaleXLR.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Stagebox24",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stagebox24.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Doublemalexl",
+        "category": "io",
+        "variants": {
+            "R": "img_reorganized/people/male/doublemaleXLR.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Maletodoublefemale",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/people/male/maletodoublefemale.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Quartermale Balanced",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/people/male/quartermale_balanced.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Xlrmale",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/people/male/XLRmale.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Femalexlrtoquartertrs",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/people/male/femaleXLRtoquartertrs.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Quartertomalexl",
+        "category": "io",
+        "variants": {
+            "R": "img_reorganized/people/male/quartertomaleXLR.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Stagebox8",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stagebox8.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Video",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/more/video/video.png"
+        },
+        "menu": "More",
+        "submenu": "Video",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Quartermale",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/people/male/quartermale.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Stagebox12",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stagebox12.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Stagebox16",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stagebox16.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Quartertrstomalexl",
+        "category": "io",
+        "variants": {
+            "R": "img_reorganized/people/male/quartertrstomaleXLR.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Femalexlrtoquarter",
+        "category": "io",
+        "variants": {
+            "default": "img_reorganized/people/male/femaleXLRtoquarter.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Trombone",
+        "category": "wind",
+        "variants": {
+            "RA": "img_reorganized/winds/trombone/tromboneRA.png",
+            "R": "img_reorganized/winds/trombone/tromboneR.png",
+            "LA": "img_reorganized/winds/trombone/tromboneLA.png",
+            "L": "img_reorganized/winds/trombone/tromboneL.png",
+            "default": "img_reorganized/winds/trombone/trombone.png"
+        },
+        "menu": "Winds",
+        "submenu": "Trombone",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tuba",
+        "category": "wind",
+        "variants": {
+            "L": "img_reorganized/winds/tuba/TubaL.png",
+            "default": "img_reorganized/winds/tuba/Tuba.png",
+            "LA": "img_reorganized/winds/tuba/TubaLA.png",
+            "R": "img_reorganized/winds/tuba/TubaR.png",
+            "RA": "img_reorganized/winds/tuba/TubaRA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Tuba",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Bassclarinet",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/amps/bass/bassclarinet.png",
+            "RA": "img_reorganized/amps/bass/bassclarinetRA.png",
+            "L": "img_reorganized/amps/bass/bassclarinetL.png",
+            "LA": "img_reorganized/amps/bass/bassclarinetLA.png",
+            "R": "img_reorganized/amps/bass/bassclarinetR.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Recorder",
+        "category": "wind",
+        "variants": {
+            "RA": "img_reorganized/winds/recorder/recorderRA.png",
+            "R": "img_reorganized/winds/recorder/recorderR.png",
+            "default": "img_reorganized/winds/recorder/recorder.png",
+            "LA": "img_reorganized/winds/recorder/recorderLA.png",
+            "L": "img_reorganized/winds/recorder/recorderL.png"
+        },
+        "menu": "Winds",
+        "submenu": "Recorder",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Gajda",
+        "category": "wind",
+        "variants": {
+            "L": "img_reorganized/winds/gajda/GajdaL.png",
+            "RA": "img_reorganized/winds/gajda/GajdaRA.png",
+            "default": "img_reorganized/winds/gajda/Gajda.png",
+            "LA": "img_reorganized/winds/gajda/GajdaLA.png",
+            "R": "img_reorganized/winds/gajda/GajdaR.png"
+        },
+        "menu": "Winds",
+        "submenu": "Gajda",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Clarinet",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/winds/clarinet/clarinet.png",
+            "L": "img_reorganized/winds/clarinet/clarinetL.png",
+            "RA": "img_reorganized/winds/clarinet/clarinetRA.png",
+            "R": "img_reorganized/winds/clarinet/clarinetR.png",
+            "LA": "img_reorganized/winds/clarinet/clarinetLA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Clarinet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Bassoon",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/amps/bass/Bassoon.png",
+            "L": "img_reorganized/amps/bass/BassoonL.png",
+            "LA": "img_reorganized/amps/bass/BassoonLA.png",
+            "R": "img_reorganized/amps/bass/BassoonR.png",
+            "RA": "img_reorganized/amps/bass/BassoonRA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Cornet",
+        "category": "wind",
+        "variants": {
+            "RA": "img_reorganized/winds/cornet/cornetRA.png",
+            "L": "img_reorganized/winds/cornet/cornetL.png",
+            "LA": "img_reorganized/winds/cornet/cornetLA.png",
+            "R": "img_reorganized/winds/cornet/cornetR.png",
+            "default": "img_reorganized/winds/cornet/cornet.png"
+        },
+        "menu": "Winds",
+        "submenu": "Cornet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Harmonica",
+        "category": "wind",
+        "variants": {
+            "L": "img_reorganized/winds/harmonica/harmonicaL.png",
+            "default": "img_reorganized/winds/harmonica/harmonica.png",
+            "LA": "img_reorganized/winds/harmonica/harmonicaLA.png",
+            "LB": "img_reorganized/winds/harmonica/harmonicaLB.png",
+            "R": "img_reorganized/winds/harmonica/harmonicaR.png",
+            "RB": "img_reorganized/winds/harmonica/harmonicaRB.png",
+            "B": "img_reorganized/winds/harmonica/harmonicaB.png",
+            "RA": "img_reorganized/winds/harmonica/harmonicaRA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Harmonica",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Contrabassoon",
+        "category": "wind",
+        "variants": {
+            "LA": "img_reorganized/amps/bass/contrabassoonLA.png",
+            "R": "img_reorganized/amps/bass/contrabassoonR.png",
+            "RA": "img_reorganized/amps/bass/contrabassoonRA.png",
+            "L": "img_reorganized/amps/bass/contrabassoonL.png",
+            "default": "img_reorganized/amps/bass/contrabassoon.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Oboe",
+        "category": "wind",
+        "variants": {
+            "L": "img_reorganized/winds/oboe/oboeL.png",
+            "LA": "img_reorganized/winds/oboe/oboeLA.png",
+            "default": "img_reorganized/winds/oboe/oboe.png",
+            "R": "img_reorganized/winds/oboe/oboeR.png",
+            "RA": "img_reorganized/winds/oboe/oboeRA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Oboe",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Contraclarinet",
+        "category": "wind",
+        "variants": {
+            "RA": "img_reorganized/winds/clarinet/contraclarinetRA.png",
+            "LA": "img_reorganized/winds/clarinet/contraclarinetLA.png",
+            "R": "img_reorganized/winds/clarinet/contraclarinetR.png",
+            "L": "img_reorganized/winds/clarinet/contraclarinetL.png",
+            "default": "img_reorganized/winds/clarinet/contraclarinet.png"
+        },
+        "menu": "Winds",
+        "submenu": "Clarinet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Kaval",
+        "category": "wind",
+        "variants": {
+            "RA": "img_reorganized/winds/kaval/kavalRA.png",
+            "LA": "img_reorganized/winds/kaval/kavalLA.png",
+            "L": "img_reorganized/winds/kaval/kavalL.png",
+            "R": "img_reorganized/winds/kaval/kavalR.png",
+            "default": "img_reorganized/winds/kaval/kaval.png"
+        },
+        "menu": "Winds",
+        "submenu": "Kaval",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Euphonium",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/winds/euphonium/Euphonium.png",
+            "R": "img_reorganized/winds/euphonium/EuphoniumR.png",
+            "L": "img_reorganized/winds/euphonium/EuphoniumL.png",
+            "LA": "img_reorganized/winds/euphonium/EuphoniumLA.png",
+            "RA": "img_reorganized/winds/euphonium/EuphoniumRA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Euphonium",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Ocarina",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/winds/ocarina/ocarina.png"
+        },
+        "menu": "Winds",
+        "submenu": "Ocarina",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Trumpetplayer",
+        "category": "wind",
+        "variants": {
+            "L": "img_reorganized/winds/trumpet/trumpetplayerL.png",
+            "LB": "img_reorganized/winds/trumpet/trumpetplayerLB.png",
+            "LA": "img_reorganized/winds/trumpet/trumpetplayerLA.png",
+            "R": "img_reorganized/winds/trumpet/trumpetplayerR.png",
+            "B": "img_reorganized/winds/trumpet/trumpetplayerB.png",
+            "RA": "img_reorganized/winds/trumpet/trumpetplayerRA.png",
+            "default": "img_reorganized/winds/trumpet/trumpetplayer.png",
+            "RB": "img_reorganized/winds/trumpet/trumpetplayerRB.png"
+        },
+        "menu": "Winds",
+        "submenu": "Trumpet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Piccolo",
+        "category": "wind",
+        "variants": {
+            "L": "img_reorganized/winds/piccolo/piccoloL.png",
+            "R": "img_reorganized/winds/piccolo/piccoloR.png",
+            "default": "img_reorganized/winds/piccolo/piccolo.png",
+            "RA": "img_reorganized/winds/piccolo/piccoloRA.png",
+            "LA": "img_reorganized/winds/piccolo/piccoloLA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Piccolo",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Trumpet",
+        "category": "wind",
+        "variants": {
+            "R": "img_reorganized/winds/trumpet/TrumpetR.png",
+            "L": "img_reorganized/winds/trumpet/TrumpetL.png",
+            "RA": "img_reorganized/winds/trumpet/TrumpetRA.png",
+            "LA": "img_reorganized/winds/trumpet/TrumpetLA.png"
+        },
+        "menu": "Winds",
+        "submenu": "Trumpet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Trumpet",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/winds/trumpet/trumpet.png"
+        },
+        "menu": "Winds",
+        "submenu": "Trumpet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Bagpipes",
+        "category": "wind",
+        "variants": {
+            "default": "img_reorganized/winds/bagpipes/bagpipes.png"
+        },
+        "menu": "Winds",
+        "submenu": "Bagpipes",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Headsetmic",
+        "category": "mic",
+        "variants": {
+            "R": "img_reorganized/mics/headset/headsetmicR.png",
+            "L": "img_reorganized/mics/headset/headsetmicL.png",
+            "LA": "img_reorganized/mics/headset/headsetmicLA.png",
+            "default": "img_reorganized/mics/headset/headsetmic.png",
+            "RA": "img_reorganized/mics/headset/headsetmicRA.png"
+        },
+        "menu": "Mics",
+        "submenu": "Headset",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Wired Mic",
+        "category": "mic",
+        "variants": {
+            "default": "img_reorganized/mics/hand_held/wired_mic.png"
+        },
+        "menu": "Mics",
+        "submenu": "Hand Held",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Wireless Mic",
+        "category": "mic",
+        "variants": {
+            "default": "img_reorganized/mics/hand_held/wireless_mic.png"
+        },
+        "menu": "Mics",
+        "submenu": "Hand Held",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Azerisaz",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/azerisaz/azerisaz.png",
+            "RA": "img_reorganized/guitars/azerisaz/azerisazRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Azerisaz",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Harp",
+        "category": "pluck",
+        "variants": {
+            "L": "img_reorganized/strings/harp/harpL.png",
+            "LA": "img_reorganized/strings/harp/harpLA.png",
+            "R": "img_reorganized/strings/harp/harpR.png",
+            "default": "img_reorganized/strings/harp/harp.png",
+            "RA": "img_reorganized/strings/harp/harpRA.png"
+        },
+        "menu": "Strings",
+        "submenu": "Harp",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Acubassist",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/amps/bass/AcuBassist.png",
+            "RB": "img_reorganized/amps/bass/AcuBassistRB.png",
+            "RA": "img_reorganized/amps/bass/AcuBassistRA.png",
+            "LA": "img_reorganized/amps/bass/AcuBassistLA.png",
+            "L": "img_reorganized/amps/bass/AcuBassistL.png",
+            "LB": "img_reorganized/amps/bass/AcuBassistLB.png",
+            "B": "img_reorganized/amps/bass/AcuBassistB.png",
+            "R": "img_reorganized/amps/bass/AcuBassistR.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Mandoman",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/people/male/mandoman.png",
+            "L": "img_reorganized/people/male/mandomanL.png",
+            "RB": "img_reorganized/people/male/mandomanRB.png",
+            "RA": "img_reorganized/people/male/mandomanRA.png",
+            "LA": "img_reorganized/people/male/mandomanLA.png",
+            "LB": "img_reorganized/people/male/mandomanLB.png",
+            "R": "img_reorganized/people/male/mandomanR.png",
+            "B": "img_reorganized/people/male/mandomanB.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Oud",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/guitars/oud/OudRA.png",
+            "default": "img_reorganized/guitars/oud/Oud.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Oud",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Banjo Guy",
+        "category": "pluck",
+        "variants": {
+            "R": "img_reorganized/guitars/banjo/banjo_guyR.png",
+            "B": "img_reorganized/guitars/banjo/banjo_guyB.png",
+            "default": "img_reorganized/guitars/banjo/banjo_guy.png",
+            "LB": "img_reorganized/guitars/banjo/banjo_guyLB.png",
+            "LA": "img_reorganized/guitars/banjo/banjo_guyLA.png",
+            "RA": "img_reorganized/guitars/banjo/banjo_guyRA.png",
+            "L": "img_reorganized/guitars/banjo/banjo_guyL.png",
+            "RB": "img_reorganized/guitars/banjo/banjo_guyRB.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Banjo",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Ukulele",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/ukulele/Ukulele.png",
+            "RA": "img_reorganized/guitars/ukulele/UkuleleRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Ukulele",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Lapsteel",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/amps/steel/lapsteel.png",
+            "L": "img_reorganized/amps/steel/lapsteelL.png",
+            "RA": "img_reorganized/amps/steel/lapsteelRA.png",
+            "LA": "img_reorganized/amps/steel/lapsteelLA.png",
+            "R": "img_reorganized/amps/steel/lapsteelR.png"
+        },
+        "menu": "Amps",
+        "submenu": "Steel",
+        "item_type": "output"
+    },
+    {
+        "name": "Zinfoniaplayer",
+        "category": "pluck",
+        "variants": {
+            "LA": "img_reorganized/guitars/zinfonia/zinfoniaplayerLA.png",
+            "LB": "img_reorganized/guitars/zinfonia/zinfoniaplayerLB.png",
+            "R": "img_reorganized/guitars/zinfonia/zinfoniaplayerR.png",
+            "RB": "img_reorganized/guitars/zinfonia/zinfoniaplayerRB.png",
+            "RA": "img_reorganized/guitars/zinfonia/zinfoniaplayerRA.png",
+            "B": "img_reorganized/guitars/zinfonia/zinfoniaplayerB.png",
+            "L": "img_reorganized/guitars/zinfonia/zinfoniaplayerL.png",
+            "default": "img_reorganized/guitars/zinfonia/zinfoniaplayer.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Zinfonia",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tumbi",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/guitars/tumbi/tumbiRA.png",
+            "default": "img_reorganized/guitars/tumbi/tumbi.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Tumbi",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Zinfonia",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/zinfonia/zinfonia.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Zinfonia",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Bouzouki",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/bouzouki/bouzouki.png",
+            "RA": "img_reorganized/guitars/bouzouki/bouzoukiRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Bouzouki",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Lute",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/lute/Lute.png",
+            "RA": "img_reorganized/guitars/lute/LuteRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Lute",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Mandolin",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/people/male/mandolinRA.png",
+            "default": "img_reorganized/people/male/mandolin.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Charango",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/guitars/charango/charangoRA.png",
+            "default": "img_reorganized/guitars/charango/charango.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Charango",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Sitar",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/guitars/sitar/SitarRA.png",
+            "default": "img_reorganized/guitars/sitar/Sitar.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Sitar",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Banjo",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/guitars/banjo/BanjoRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Banjo",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Banjo",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/banjo/banjo.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Banjo",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Cuatro",
+        "category": "pluck",
+        "variants": {
+            "RA": "img_reorganized/guitars/cuatro/cuatroRA.png",
+            "default": "img_reorganized/guitars/cuatro/cuatro.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Cuatro",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Balalaika",
+        "category": "pluck",
+        "variants": {
+            "default": "img_reorganized/guitars/balalaika/balalaika.png",
+            "RA": "img_reorganized/guitars/balalaika/balalaikaRA.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Balalaika",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Vx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/VX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "K",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/K.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Cx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/CX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "J",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/J.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Zx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/ZX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "H",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/H.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "I",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/I.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ox",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/OX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Nx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/NX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Z",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/Z.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "M",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/M.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "",
+        "category": "alphabet",
+        "variants": {
+            "L": "img_reorganized/alphabet/L.png",
+            "B": "img_reorganized/alphabet/B.png",
+            "A": "img_reorganized/alphabet/A.png",
+            "R": "img_reorganized/alphabet/R.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Y",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/Y.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Bx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/BX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "N",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/N.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "O",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/O.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "X",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/X.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Wx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/WX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ix",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/IX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Px",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/PX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ex",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/EX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Dx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/DX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Qx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/QX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Hx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/HX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Bee",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/bee.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Kx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/KX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Gx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/GX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Rx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/RX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Sx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/SX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Drum",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/Drum.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Fx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/FX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Jx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/JX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "U",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/U.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ax",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/AX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "C",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/C.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "T",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/T.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Tx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/TX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Mx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/MX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "V",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/V.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "W",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/W.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Xx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/XX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Yx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/YX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "S",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/S.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "E",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/E.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Lx",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/LX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Ux",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/UX.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "G",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/G.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "B0",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/B0.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "P",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/P.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Q",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/Q.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "F",
+        "category": "alphabet",
+        "variants": {
+            "default": "img_reorganized/alphabet/F.png"
+        },
+        "menu": "Alphabet",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Beguitarist",
+        "category": "bass",
+        "variants": {
+            "default": "img_reorganized/players/Beguitarist.png",
+            "L": "img_reorganized/players/BeguitaristL.png",
+            "RB": "img_reorganized/players/BeguitaristRB.png",
+            "RA": "img_reorganized/players/BeguitaristRA.png",
+            "B": "img_reorganized/players/BeguitaristB.png",
+            "LA": "img_reorganized/players/BeguitaristLA.png",
+            "R": "img_reorganized/players/BeguitaristR.png",
+            "LB": "img_reorganized/players/BeguitaristLB.png"
+        },
+        "menu": "Players",
+        "submenu": "Guitar",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Bassist",
+        "category": "bass",
+        "variants": {
+            "LA": "img_reorganized/amps/bass/bassistLA.png",
+            "LB": "img_reorganized/amps/bass/bassistLB.png",
+            "R": "img_reorganized/amps/bass/bassistR.png",
+            "RB": "img_reorganized/amps/bass/bassistRB.png",
+            "default": "img_reorganized/amps/bass/bassist.png",
+            "B": "img_reorganized/amps/bass/bassistB.png",
+            "RA": "img_reorganized/amps/bass/bassistRA.png",
+            "L": "img_reorganized/amps/bass/bassistL.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Bassamp",
+        "category": "bass",
+        "variants": {
+            "L": "img_reorganized/amps/bass/BassAmpL.png",
+            "RA": "img_reorganized/amps/bass/BassAmpRA.png",
+            "LA": "img_reorganized/amps/bass/BassAmpLA.png",
+            "R": "img_reorganized/amps/bass/BassAmpR.png",
+            "default": "img_reorganized/amps/bass/BassAmp.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Ampeg",
+        "category": "bass",
+        "variants": {
+            "LA": "img_reorganized/amps/guitar/AmpegLA.png",
+            "RA": "img_reorganized/amps/guitar/AmpegRA.png",
+            "R": "img_reorganized/amps/guitar/AmpegR.png",
+            "L": "img_reorganized/amps/guitar/AmpegL.png",
+            "default": "img_reorganized/amps/guitar/Ampeg.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Ebassist",
+        "category": "bass",
+        "variants": {
+            "LB": "img_reorganized/amps/bass/ebassistLB.png",
+            "LA": "img_reorganized/amps/bass/ebassistLA.png",
+            "RA": "img_reorganized/amps/bass/ebassistRA.png",
+            "RB": "img_reorganized/amps/bass/ebassistRB.png",
+            "L": "img_reorganized/amps/bass/ebassistL.png",
+            "default": "img_reorganized/amps/bass/ebassist.png",
+            "R": "img_reorganized/amps/bass/ebassistR.png",
+            "B": "img_reorganized/amps/bass/ebassistB.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "P Bass",
+        "category": "bass",
+        "variants": {
+            "RA": "img_reorganized/amps/bass/P_BassRA.png",
+            "default": "img_reorganized/amps/bass/P_Bass.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Blondebassman",
+        "category": "bass",
+        "variants": {
+            "L": "img_reorganized/amps/bass/BlondeBassmanL.png",
+            "default": "img_reorganized/amps/bass/BlondeBassman.png",
+            "R": "img_reorganized/amps/bass/BlondeBassmanR.png",
+            "RA": "img_reorganized/amps/bass/BlondeBassmanRA.png",
+            "LA": "img_reorganized/amps/bass/BlondeBassmanLA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Bassampback",
+        "category": "bass",
+        "variants": {
+            "default": "img_reorganized/amps/bass/BassAmpBack.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Choralriser2",
+        "category": "choir",
+        "variants": {
+            "L": "img_reorganized/stagecraft/riser/choralriser2L.png",
+            "RA": "img_reorganized/stagecraft/riser/choralriser2RA.png",
+            "LA": "img_reorganized/stagecraft/riser/choralriser2LA.png",
+            "default": "img_reorganized/stagecraft/riser/choralriser2.png",
+            "R": "img_reorganized/stagecraft/riser/choralriser2R.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Riser",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Choralriser8",
+        "category": "choir",
+        "variants": {
+            "default": "img_reorganized/stagecraft/riser/choralriser8.png",
+            "L": "img_reorganized/stagecraft/riser/choralriser8L.png",
+            "R": "img_reorganized/stagecraft/riser/choralriser8R.png",
+            "LA": "img_reorganized/stagecraft/riser/choralriser8LA.png",
+            "RA": "img_reorganized/stagecraft/riser/choralriser8RA.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Riser",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Choralriser6",
+        "category": "choir",
+        "variants": {
+            "RA": "img_reorganized/stagecraft/riser/choralriser6RA.png",
+            "R": "img_reorganized/stagecraft/riser/choralriser6R.png",
+            "LA": "img_reorganized/stagecraft/riser/choralriser6LA.png",
+            "L": "img_reorganized/stagecraft/riser/choralriser6L.png",
+            "default": "img_reorganized/stagecraft/riser/choralriser6.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Riser",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Choralriser3",
+        "category": "choir",
+        "variants": {
+            "LA": "img_reorganized/stagecraft/riser/choralriser3LA.png",
+            "L": "img_reorganized/stagecraft/riser/choralriser3L.png",
+            "RA": "img_reorganized/stagecraft/riser/choralriser3RA.png",
+            "default": "img_reorganized/stagecraft/riser/choralriser3.png",
+            "R": "img_reorganized/stagecraft/riser/choralriser3R.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Riser",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Steelpan",
+        "category": "percussion",
+        "variants": {
+            "LA": "img_reorganized/amps/steel/steelpanLA.png",
+            "LB": "img_reorganized/amps/steel/steelpanLB.png",
+            "B": "img_reorganized/amps/steel/steelpanB.png",
+            "R": "img_reorganized/amps/steel/steelpanR.png",
+            "RB": "img_reorganized/amps/steel/steelpanRB.png",
+            "RA": "img_reorganized/amps/steel/steelpanRA.png",
+            "default": "img_reorganized/amps/steel/steelpan.png",
+            "L": "img_reorganized/amps/steel/steelpanL.png"
+        },
+        "menu": "Amps",
+        "submenu": "Steel",
+        "item_type": "output"
+    },
+    {
+        "name": "Sixbass",
+        "category": "percussion",
+        "variants": {
+            "B": "img_reorganized/amps/bass/sixbassB.png",
+            "default": "img_reorganized/amps/bass/sixbass.png",
+            "RA": "img_reorganized/amps/bass/sixbassRA.png",
+            "R": "img_reorganized/amps/bass/sixbassR.png",
+            "RB": "img_reorganized/amps/bass/sixbassRB.png",
+            "LB": "img_reorganized/amps/bass/sixbassLB.png",
+            "LA": "img_reorganized/amps/bass/sixbassLA.png",
+            "L": "img_reorganized/amps/bass/sixbassL.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Bongos",
+        "category": "percussion",
+        "variants": {
+            "RA": "img_reorganized/percussion/bongo/BongosRA.png",
+            "L": "img_reorganized/percussion/bongo/BongosL.png",
+            "default": "img_reorganized/percussion/bongo/Bongos.png",
+            "LA": "img_reorganized/percussion/bongo/BongosLA.png",
+            "R": "img_reorganized/percussion/bongo/BongosR.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Bongo",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Timpani4",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/timpani/timpani4.png",
+            "L": "img_reorganized/percussion/timpani/timpani4L.png",
+            "R": "img_reorganized/percussion/timpani/timpani4R.png",
+            "RB": "img_reorganized/percussion/timpani/timpani4RB.png",
+            "RA": "img_reorganized/percussion/timpani/timpani4RA.png",
+            "B": "img_reorganized/percussion/timpani/timpani4B.png",
+            "LA": "img_reorganized/percussion/timpani/timpani4LA.png",
+            "LB": "img_reorganized/percussion/timpani/timpani4LB.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Timpani",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tenorpan",
+        "category": "percussion",
+        "variants": {
+            "RB": "img_reorganized/percussion/tenorpan/tenorpanRB.png",
+            "L": "img_reorganized/percussion/tenorpan/tenorpanL.png",
+            "RA": "img_reorganized/percussion/tenorpan/tenorpanRA.png",
+            "LA": "img_reorganized/percussion/tenorpan/tenorpanLA.png",
+            "LB": "img_reorganized/percussion/tenorpan/tenorpanLB.png",
+            "default": "img_reorganized/percussion/tenorpan/tenorpan.png",
+            "R": "img_reorganized/percussion/tenorpan/tenorpanR.png",
+            "B": "img_reorganized/percussion/tenorpan/tenorpanB.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Tenorpan",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Timpaniset",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/timpani/TimpaniSet.png",
+            "B": "img_reorganized/percussion/timpani/TimpaniSetB.png",
+            "R": "img_reorganized/percussion/timpani/TimpaniSetR.png",
+            "RB": "img_reorganized/percussion/timpani/TimpaniSetRB.png",
+            "RA": "img_reorganized/percussion/timpani/TimpaniSetRA.png",
+            "LA": "img_reorganized/percussion/timpani/TimpaniSetLA.png",
+            "LB": "img_reorganized/percussion/timpani/TimpaniSetLB.png",
+            "L": "img_reorganized/percussion/timpani/TimpaniSetL.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Timpani",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Gong",
+        "category": "percussion",
+        "variants": {
+            "RA": "img_reorganized/percussion/gong/gongRA.png",
+            "RB": "img_reorganized/percussion/gong/gongRB.png",
+            "default": "img_reorganized/percussion/gong/gong.png",
+            "L": "img_reorganized/percussion/gong/gongL.png",
+            "LB": "img_reorganized/percussion/gong/gongLB.png",
+            "LA": "img_reorganized/percussion/gong/gongLA.png",
+            "B": "img_reorganized/percussion/gong/gongB.png",
+            "R": "img_reorganized/percussion/gong/gongR.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Gong",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Percussionpad",
+        "category": "percussion",
+        "variants": {
+            "RA": "img_reorganized/percussion/percussionpadRA.png",
+            "L": "img_reorganized/percussion/percussionpadL.png",
+            "LA": "img_reorganized/percussion/percussionpadLA.png",
+            "default": "img_reorganized/percussion/percussionpad.png",
+            "R": "img_reorganized/percussion/percussionpadR.png"
+        },
+        "menu": "Percussion",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tabla",
+        "category": "percussion",
+        "variants": {
+            "B": "img_reorganized/percussion/tabla/tablaB.png",
+            "R": "img_reorganized/percussion/tabla/tablaR.png",
+            "LA": "img_reorganized/percussion/tabla/tablaLA.png",
+            "LB": "img_reorganized/percussion/tabla/tablaLB.png",
+            "RB": "img_reorganized/percussion/tabla/tablaRB.png",
+            "RA": "img_reorganized/percussion/tabla/tablaRA.png",
+            "default": "img_reorganized/percussion/tabla/tabla.png",
+            "L": "img_reorganized/percussion/tabla/tablaL.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Tabla",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Conga",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/conga/conga.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Conga",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Timpani1",
+        "category": "percussion",
+        "variants": {
+            "B": "img_reorganized/percussion/timpani/timpani1B.png",
+            "R": "img_reorganized/percussion/timpani/timpani1R.png",
+            "default": "img_reorganized/percussion/timpani/timpani1.png",
+            "LA": "img_reorganized/percussion/timpani/timpani1LA.png",
+            "LB": "img_reorganized/percussion/timpani/timpani1LB.png",
+            "L": "img_reorganized/percussion/timpani/timpani1L.png",
+            "RB": "img_reorganized/percussion/timpani/timpani1RB.png",
+            "RA": "img_reorganized/percussion/timpani/timpani1RA.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Timpani",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Claves",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/claves/claves.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Claves",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Marimba",
+        "category": "percussion",
+        "variants": {
+            "R": "img_reorganized/percussion/marimba/MarimbaR.png",
+            "LA": "img_reorganized/percussion/marimba/MarimbaLA.png",
+            "default": "img_reorganized/percussion/marimba/Marimba.png",
+            "RA": "img_reorganized/percussion/marimba/MarimbaRA.png",
+            "L": "img_reorganized/percussion/marimba/MarimbaL.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Marimba",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Dhumbuk",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/dhumbuk/Dhumbuk.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Dhumbuk",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Timpani2",
+        "category": "percussion",
+        "variants": {
+            "L": "img_reorganized/percussion/timpani/timpani2L.png",
+            "default": "img_reorganized/percussion/timpani/timpani2.png",
+            "RB": "img_reorganized/percussion/timpani/timpani2RB.png",
+            "RA": "img_reorganized/percussion/timpani/timpani2RA.png",
+            "LA": "img_reorganized/percussion/timpani/timpani2LA.png",
+            "LB": "img_reorganized/percussion/timpani/timpani2LB.png",
+            "R": "img_reorganized/percussion/timpani/timpani2R.png",
+            "B": "img_reorganized/percussion/timpani/timpani2B.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Timpani",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Percussionistone",
+        "category": "percussion",
+        "variants": {
+            "R": "img_reorganized/percussion/PercussionistOneR.png",
+            "B": "img_reorganized/percussion/PercussionistOneB.png",
+            "RB": "img_reorganized/percussion/PercussionistOneRB.png",
+            "RA": "img_reorganized/percussion/PercussionistOneRA.png",
+            "default": "img_reorganized/percussion/PercussionistOne.png",
+            "L": "img_reorganized/percussion/PercussionistOneL.png",
+            "LA": "img_reorganized/percussion/PercussionistOneLA.png",
+            "LB": "img_reorganized/percussion/PercussionistOneLB.png"
+        },
+        "menu": "Percussion",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Dholak",
+        "category": "percussion",
+        "variants": {
+            "L": "img_reorganized/percussion/dholak/dholakL.png",
+            "default": "img_reorganized/percussion/dholak/dholak.png",
+            "RA": "img_reorganized/percussion/dholak/dholakRA.png",
+            "LA": "img_reorganized/percussion/dholak/dholakLA.png",
+            "R": "img_reorganized/percussion/dholak/dholakR.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Dholak",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Timpani3",
+        "category": "percussion",
+        "variants": {
+            "L": "img_reorganized/percussion/timpani/timpani3L.png",
+            "default": "img_reorganized/percussion/timpani/timpani3.png",
+            "LB": "img_reorganized/percussion/timpani/timpani3LB.png",
+            "LA": "img_reorganized/percussion/timpani/timpani3LA.png",
+            "B": "img_reorganized/percussion/timpani/timpani3B.png",
+            "RA": "img_reorganized/percussion/timpani/timpani3RA.png",
+            "R": "img_reorganized/percussion/timpani/timpani3R.png",
+            "RB": "img_reorganized/percussion/timpani/timpani3RB.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Timpani",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Conga Double",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/conga/conga_double.png",
+            "L": "img_reorganized/percussion/conga/conga_doubleL.png",
+            "LA": "img_reorganized/percussion/conga/conga_doubleLA.png",
+            "R": "img_reorganized/percussion/conga/conga_doubleR.png",
+            "RA": "img_reorganized/percussion/conga/conga_doubleRA.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Conga",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Percussionist",
+        "category": "percussion",
+        "variants": {
+            "RB": "img_reorganized/percussion/percussionistRB.png",
+            "RA": "img_reorganized/percussion/percussionistRA.png",
+            "R": "img_reorganized/percussion/percussionistR.png",
+            "LA": "img_reorganized/percussion/percussionistLA.png",
+            "LB": "img_reorganized/percussion/percussionistLB.png",
+            "B": "img_reorganized/percussion/percussionistB.png",
+            "L": "img_reorganized/percussion/percussionistL.png",
+            "default": "img_reorganized/percussion/percussionist.png"
+        },
+        "menu": "Percussion",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Steel",
+        "category": "percussion",
+        "variants": {
+            "R": "img_reorganized/amps/steel/SteelR.png",
+            "LA": "img_reorganized/amps/steel/SteelLA.png",
+            "RA": "img_reorganized/amps/steel/SteelRA.png",
+            "default": "img_reorganized/amps/steel/Steel.png",
+            "L": "img_reorganized/amps/steel/SteelL.png"
+        },
+        "menu": "Amps",
+        "submenu": "Steel",
+        "item_type": "output"
+    },
+    {
+        "name": "Chimes",
+        "category": "percussion",
+        "variants": {
+            "L": "img_reorganized/percussion/chimes/chimesL.png",
+            "B": "img_reorganized/percussion/chimes/chimesB.png",
+            "R": "img_reorganized/percussion/chimes/chimesR.png",
+            "RB": "img_reorganized/percussion/chimes/chimesRB.png",
+            "default": "img_reorganized/percussion/chimes/chimes.png",
+            "RA": "img_reorganized/percussion/chimes/chimesRA.png",
+            "LA": "img_reorganized/percussion/chimes/chimesLA.png",
+            "LB": "img_reorganized/percussion/chimes/chimesLB.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Chimes",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Cajon",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/cajon/cajon.png",
+            "LA": "img_reorganized/percussion/cajon/cajonLA.png",
+            "RA": "img_reorganized/percussion/cajon/cajonRA.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Cajon",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Djembe",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/more/dj_gear/Djembe.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Daf",
+        "category": "percussion",
+        "variants": {
+            "default": "img_reorganized/percussion/daf/daf.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Daf",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Guitarsynth",
+        "category": "synth",
+        "variants": {
+            "default": "img_reorganized/guitars/guitarsynth.png",
+            "R": "img_reorganized/guitars/guitarsynthR.png",
+            "L": "img_reorganized/guitars/guitarsynthL.png",
+            "RA": "img_reorganized/guitars/guitarsynthRA.png",
+            "LA": "img_reorganized/guitars/guitarsynthLA.png"
+        },
+        "menu": "Guitars",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Podium",
+        "category": "table",
+        "variants": {
+            "LA": "img_reorganized/more/podium/podiumLA.png",
+            "LB": "img_reorganized/more/podium/podiumLB.png",
+            "RB": "img_reorganized/more/podium/podiumRB.png",
+            "L": "img_reorganized/more/podium/podiumL.png",
+            "RA": "img_reorganized/more/podium/podiumRA.png",
+            "B": "img_reorganized/more/podium/podiumB.png",
+            "R": "img_reorganized/more/podium/podiumR.png",
+            "default": "img_reorganized/more/podium/podium.png"
+        },
+        "menu": "More",
+        "submenu": "Podium",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Table",
+        "category": "table",
+        "variants": {
+            "LA": "img_reorganized/more/table/TableLA.png",
+            "RA": "img_reorganized/more/table/TableRA.png",
+            "default": "img_reorganized/more/table/Table.png"
+        },
+        "menu": "More",
+        "submenu": "Table",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Podium Mic",
+        "category": "table",
+        "variants": {
+            "default": "img_reorganized/more/podium/podium_mic.png",
+            "RB": "img_reorganized/more/podium/podium_micRB.png",
+            "RA": "img_reorganized/more/podium/podium_micRA.png",
+            "LA": "img_reorganized/more/podium/podium_micLA.png",
+            "R": "img_reorganized/more/podium/podium_micR.png",
+            "LB": "img_reorganized/more/podium/podium_micLB.png",
+            "B": "img_reorganized/more/podium/podium_micB.png",
+            "L": "img_reorganized/more/podium/podium_micL.png"
+        },
+        "menu": "More",
+        "submenu": "Podium",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Tambourine",
+        "category": "table",
+        "variants": {
+            "default": "img_reorganized/percussion/tambourine/Tambourine.png"
+        },
+        "menu": "Percussion",
+        "submenu": "Tambourine",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Rectable",
+        "category": "table",
+        "variants": {
+            "RA": "img_reorganized/more/table/rectableRA.png",
+            "LA": "img_reorganized/more/table/rectableLA.png",
+            "R": "img_reorganized/more/table/rectableR.png",
+            "L": "img_reorganized/more/table/rectableL.png",
+            "default": "img_reorganized/more/table/rectable.png"
+        },
+        "menu": "More",
+        "submenu": "Table",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Gobo",
+        "category": "table",
+        "variants": {
+            "L": "img_reorganized/more/gobo/GoboL.png",
+            "R": "img_reorganized/more/gobo/GoboR.png",
+            "B": "img_reorganized/more/gobo/GoboB.png",
+            "LB": "img_reorganized/more/gobo/GoboLB.png",
+            "LA": "img_reorganized/more/gobo/GoboLA.png",
+            "RA": "img_reorganized/more/gobo/GoboRA.png",
+            "RB": "img_reorganized/more/gobo/GoboRB.png",
+            "default": "img_reorganized/more/gobo/Gobo.png"
+        },
+        "menu": "More",
+        "submenu": "Gobo",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Leslie",
+        "category": "table",
+        "variants": {
+            "R": "img_reorganized/keys/leslie/LeslieR.png",
+            "RA": "img_reorganized/keys/leslie/LeslieRA.png",
+            "L": "img_reorganized/keys/leslie/LeslieL.png",
+            "default": "img_reorganized/keys/leslie/Leslie.png",
+            "LA": "img_reorganized/keys/leslie/LeslieLA.png"
+        },
+        "menu": "Keys",
+        "submenu": "Leslie",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Roundtable",
+        "category": "table",
+        "variants": {
+            "default": "img_reorganized/more/table/roundtable.png"
+        },
+        "menu": "More",
+        "submenu": "Table",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Standw2 Lamps",
+        "category": "music_stand",
+        "variants": {
+            "R": "img_reorganized/amps/guitar/standw2lampsR.png",
+            "B": "img_reorganized/amps/guitar/standw2lampsB.png",
+            "default": "img_reorganized/amps/guitar/standw2lamps.png",
+            "RA": "img_reorganized/amps/guitar/standw2lampsRA.png",
+            "RB": "img_reorganized/amps/guitar/standw2lampsRB.png",
+            "L": "img_reorganized/amps/guitar/standw2lampsL.png",
+            "LB": "img_reorganized/amps/guitar/standw2lampsLB.png",
+            "LA": "img_reorganized/amps/guitar/standw2lampsLA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Standwlamp",
+        "category": "music_stand",
+        "variants": {
+            "L": "img_reorganized/amps/guitar/standwlampL.png",
+            "RA": "img_reorganized/amps/guitar/standwlampRA.png",
+            "RB": "img_reorganized/amps/guitar/standwlampRB.png",
+            "R": "img_reorganized/amps/guitar/standwlampR.png",
+            "default": "img_reorganized/amps/guitar/standwlamp.png",
+            "B": "img_reorganized/amps/guitar/standwlampB.png",
+            "LB": "img_reorganized/amps/guitar/standwlampLB.png",
+            "LA": "img_reorganized/amps/guitar/standwlampLA.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Pioneercdj2000",
+        "category": "dj",
+        "variants": {
+            "LB": "img_reorganized/more/dj_gear/PioneerCDJ2000LB.png",
+            "LA": "img_reorganized/more/dj_gear/PioneerCDJ2000LA.png",
+            "default": "img_reorganized/more/dj_gear/PioneerCDJ2000.png",
+            "R": "img_reorganized/more/dj_gear/PioneerCDJ2000R.png",
+            "RA": "img_reorganized/more/dj_gear/PioneerCDJ2000RA.png",
+            "RB": "img_reorganized/more/dj_gear/PioneerCDJ2000RB.png",
+            "B": "img_reorganized/more/dj_gear/PioneerCDJ2000B.png",
+            "L": "img_reorganized/more/dj_gear/PioneerCDJ2000L.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Djsetup",
+        "category": "dj",
+        "variants": {
+            "RA": "img_reorganized/more/dj_gear/DJsetupRA.png",
+            "RB": "img_reorganized/more/dj_gear/DJsetupRB.png",
+            "default": "img_reorganized/more/dj_gear/DJsetup.png",
+            "LB": "img_reorganized/more/dj_gear/DJsetupLB.png",
+            "LA": "img_reorganized/more/dj_gear/DJsetupLA.png",
+            "L": "img_reorganized/more/dj_gear/DJsetupL.png",
+            "B": "img_reorganized/more/dj_gear/DJsetupB.png",
+            "R": "img_reorganized/more/dj_gear/DJsetupR.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Djsetup3",
+        "category": "dj",
+        "variants": {
+            "RA": "img_reorganized/more/dj_gear/DJsetup3RA.png",
+            "L": "img_reorganized/more/dj_gear/DJsetup3L.png",
+            "LA": "img_reorganized/more/dj_gear/DJsetup3LA.png",
+            "default": "img_reorganized/more/dj_gear/DJsetup3.png",
+            "R": "img_reorganized/more/dj_gear/DJsetup3R.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Dj Setup",
+        "category": "dj",
+        "variants": {
+            "LB": "img_reorganized/more/dj_gear/dj_setupLB.png",
+            "LA": "img_reorganized/more/dj_gear/dj_setupLA.png",
+            "L": "img_reorganized/more/dj_gear/dj_setupL.png",
+            "RA": "img_reorganized/more/dj_gear/dj_setupRA.png",
+            "RB": "img_reorganized/more/dj_gear/dj_setupRB.png",
+            "B": "img_reorganized/more/dj_gear/dj_setupB.png",
+            "default": "img_reorganized/more/dj_gear/dj_setup.png",
+            "R": "img_reorganized/more/dj_gear/dj_setupR.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Djm800",
+        "category": "dj",
+        "variants": {
+            "L": "img_reorganized/more/dj_gear/DJM800L.png",
+            "R": "img_reorganized/more/dj_gear/DJM800R.png",
+            "LB": "img_reorganized/more/dj_gear/DJM800LB.png",
+            "LA": "img_reorganized/more/dj_gear/DJM800LA.png",
+            "B": "img_reorganized/more/dj_gear/DJM800B.png",
+            "RA": "img_reorganized/more/dj_gear/DJM800RA.png",
+            "default": "img_reorganized/more/dj_gear/DJM800.png",
+            "RB": "img_reorganized/more/dj_gear/DJM800RB.png"
+        },
+        "menu": "More",
+        "submenu": "DJ Gear",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Fan",
+        "category": "device",
+        "variants": {
+            "default": "img_reorganized/more/fan/fan.png",
+            "R": "img_reorganized/more/fan/fanR.png",
+            "B": "img_reorganized/more/fan/fanB.png",
+            "L": "img_reorganized/more/fan/fanL.png",
+            "LB": "img_reorganized/more/fan/fanLB.png",
+            "LA": "img_reorganized/more/fan/fanLA.png",
+            "RA": "img_reorganized/more/fan/fanRA.png",
+            "RB": "img_reorganized/more/fan/fanRB.png"
+        },
+        "menu": "More",
+        "submenu": "Fan",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Laptop",
+        "category": "device",
+        "variants": {
+            "L": "img_reorganized/more/laptop/LaptopL.png",
+            "LA": "img_reorganized/more/laptop/LaptopLA.png",
+            "LB": "img_reorganized/more/laptop/LaptopLB.png",
+            "default": "img_reorganized/more/laptop/Laptop.png",
+            "R": "img_reorganized/more/laptop/LaptopR.png",
+            "RB": "img_reorganized/more/laptop/LaptopRB.png",
+            "RA": "img_reorganized/more/laptop/LaptopRA.png"
+        },
+        "menu": "More",
+        "submenu": "Laptop",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Ipad",
+        "category": "device",
+        "variants": {
+            "LA": "img_reorganized/more/ipad/ipadLA.png",
+            "RA": "img_reorganized/more/ipad/ipadRA.png",
+            "default": "img_reorganized/more/ipad/ipad.png"
+        },
+        "menu": "More",
+        "submenu": "iPad",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Mixer",
+        "category": "device",
+        "variants": {
+            "RA": "img_reorganized/more/mixer/mixerRA.png",
+            "LA": "img_reorganized/more/mixer/mixerLA.png",
+            "L": "img_reorganized/more/mixer/mixerL.png",
+            "default": "img_reorganized/more/mixer/mixer.png",
+            "R": "img_reorganized/more/mixer/mixerR.png"
+        },
+        "menu": "More",
+        "submenu": "Mixer",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Projector Stage",
+        "category": "device",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/projector_stage.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Compressor",
+        "category": "device",
+        "variants": {
+            "default": "img_reorganized/more/compressor/Compressor.png"
+        },
+        "menu": "More",
+        "submenu": "Compressor",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Sampler",
+        "category": "device",
+        "variants": {
+            "default": "img_reorganized/amps/guitar/sampler.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Laptop",
+        "category": "device",
+        "variants": {
+            "B": "img_reorganized/more/laptop/laptopB.png"
+        },
+        "menu": "More",
+        "submenu": "Laptop",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Flute",
+        "category": "string",
+        "variants": {
+            "L": "img_reorganized/guitars/lute/fluteL.png",
+            "RA": "img_reorganized/guitars/lute/fluteRA.png",
+            "default": "img_reorganized/guitars/lute/flute.png",
+            "LA": "img_reorganized/guitars/lute/fluteLA.png",
+            "R": "img_reorganized/guitars/lute/fluteR.png"
+        },
+        "menu": "Guitars",
+        "submenu": "Lute",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Violinist",
+        "category": "string",
+        "variants": {
+            "R": "img_reorganized/strings/violin/violinistR.png",
+            "B": "img_reorganized/strings/violin/violinistB.png",
+            "RA": "img_reorganized/strings/violin/violinistRA.png",
+            "RB": "img_reorganized/strings/violin/violinistRB.png",
+            "LB": "img_reorganized/strings/violin/violinistLB.png",
+            "LA": "img_reorganized/strings/violin/violinistLA.png",
+            "L": "img_reorganized/strings/violin/violinistL.png",
+            "default": "img_reorganized/strings/violin/violinist.png"
+        },
+        "menu": "Strings",
+        "submenu": "Violin",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Stringbass",
+        "category": "string",
+        "variants": {
+            "default": "img_reorganized/amps/bass/stringbass.png"
+        },
+        "menu": "Amps",
+        "submenu": "Bass",
+        "item_type": "output"
+    },
+    {
+        "name": "Viola",
+        "category": "string",
+        "variants": {
+            "default": "img_reorganized/strings/viola/viola.png"
+        },
+        "menu": "Strings",
+        "submenu": "Viola",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Violin",
+        "category": "string",
+        "variants": {
+            "default": "img_reorganized/strings/violin/Violin.png"
+        },
+        "menu": "Strings",
+        "submenu": "Violin",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Cello",
+        "category": "string",
+        "variants": {
+            "default": "img_reorganized/strings/cello/cello.png"
+        },
+        "menu": "Strings",
+        "submenu": "Cello",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Boomlshortback",
+        "category": "mic_stand",
+        "variants": {
+            "LA": "img_reorganized/mics/boom/BoomLshortBackLA.png",
+            "RA": "img_reorganized/mics/boom/BoomLshortBackRA.png",
+            "default": "img_reorganized/mics/boom/BoomLshortBack.png"
+        },
+        "menu": "Mics",
+        "submenu": "Boom",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Boom57",
+        "category": "mic_stand",
+        "variants": {
+            "L": "img_reorganized/mics/boom/Boom57L.png",
+            "default": "img_reorganized/mics/boom/Boom57.png",
+            "RA": "img_reorganized/mics/boom/Boom57RA.png",
+            "LA": "img_reorganized/mics/boom/Boom57LA.png",
+            "R": "img_reorganized/mics/boom/Boom57R.png"
+        },
+        "menu": "Mics",
+        "submenu": "Boom",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Boomrshort",
+        "category": "mic_stand",
+        "variants": {
+            "R": "img_reorganized/mics/boom/BoomRshortR.png",
+            "default": "img_reorganized/mics/boom/BoomRshort.png",
+            "RA": "img_reorganized/mics/boom/BoomRshortRA.png",
+            "L": "img_reorganized/mics/boom/BoomRshortL.png",
+            "LA": "img_reorganized/mics/boom/BoomRshortLA.png"
+        },
+        "menu": "Mics",
+        "submenu": "Boom",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Straight Short",
+        "category": "mic_stand",
+        "variants": {
+            "default": "img_reorganized/mics/straight/Straight_short.png",
+            "LA": "img_reorganized/mics/straight/Straight_shortLA.png",
+            "RA": "img_reorganized/mics/straight/Straight_shortRA.png",
+            "L": "img_reorganized/mics/straight/Straight_shortL.png",
+            "R": "img_reorganized/mics/straight/Straight_shortR.png"
+        },
+        "menu": "Mics",
+        "submenu": "Straight",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Straight Vocal",
+        "category": "mic_stand",
+        "variants": {
+            "R": "img_reorganized/mics/straight/Straight_VocalR.png",
+            "default": "img_reorganized/mics/straight/Straight_Vocal.png",
+            "RA": "img_reorganized/mics/straight/Straight_VocalRA.png",
+            "LA": "img_reorganized/mics/straight/Straight_VocalLA.png",
+            "L": "img_reorganized/mics/straight/Straight_VocalL.png"
+        },
+        "menu": "Mics",
+        "submenu": "Straight",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Boomlshort",
+        "category": "mic_stand",
+        "variants": {
+            "R": "img_reorganized/mics/boom/BoomLshortR.png",
+            "default": "img_reorganized/mics/boom/BoomLshort.png",
+            "RA": "img_reorganized/mics/boom/BoomLshortRA.png",
+            "L": "img_reorganized/mics/boom/BoomLshortL.png",
+            "LA": "img_reorganized/mics/boom/BoomLshortLA.png"
+        },
+        "menu": "Mics",
+        "submenu": "Boom",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Standstraight No- Mic",
+        "category": "mic_stand",
+        "variants": {
+            "default": "img_reorganized/mics/straight/standstraight_no-mic.png"
+        },
+        "menu": "Mics",
+        "submenu": "Straight",
+        "item_type": "stand"
+    },
+    {
+        "name": "Boomrshortback",
+        "category": "mic_stand",
+        "variants": {
+            "LA": "img_reorganized/mics/boom/BoomRshortBackLA.png",
+            "default": "img_reorganized/mics/boom/BoomRshortBack.png",
+            "RA": "img_reorganized/mics/boom/BoomRshortBackRA.png"
+        },
+        "menu": "Mics",
+        "submenu": "Boom",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Boom57 Back",
+        "category": "mic_stand",
+        "variants": {
+            "default": "img_reorganized/mics/boom/Boom57Back.png",
+            "RA": "img_reorganized/mics/boom/Boom57BackRA.png",
+            "LA": "img_reorganized/mics/boom/Boom57BackLA.png"
+        },
+        "menu": "Mics",
+        "submenu": "Boom",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Straight Shortback",
+        "category": "mic_stand",
+        "variants": {
+            "default": "img_reorganized/mics/straight/Straight_shortBack.png"
+        },
+        "menu": "Mics",
+        "submenu": "Straight",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Projector Truss",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/stagecraft/truss/projector_truss.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Truss",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Sandbag",
+        "category": "equipment",
+        "variants": {
+            "RA": "img_reorganized/more/sandbag/sandbagRA.png",
+            "L": "img_reorganized/more/sandbag/sandbagL.png",
+            "LA": "img_reorganized/more/sandbag/sandbagLA.png",
+            "default": "img_reorganized/more/sandbag/sandbag.png",
+            "R": "img_reorganized/more/sandbag/sandbagR.png"
+        },
+        "menu": "More",
+        "submenu": "Sandbag",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Rackback",
+        "category": "equipment",
+        "variants": {
+            "LA": "img_reorganized/more/rack/RackBackLA.png",
+            "RA": "img_reorganized/more/rack/RackBackRA.png",
+            "default": "img_reorganized/more/rack/RackBack.png"
+        },
+        "menu": "More",
+        "submenu": "Rack",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Riserfront",
+        "category": "equipment",
+        "variants": {
+            "RA": "img_reorganized/stagecraft/riser/riserfrontRA.png",
+            "B": "img_reorganized/stagecraft/riser/riserfrontB.png",
+            "default": "img_reorganized/stagecraft/riser/riserfront.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Riser",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Curtainold",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/stagecraft/curtain/curtainold.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Curtain",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Trussq",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/stagecraft/truss/trussq.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Truss",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Stairs",
+        "category": "equipment",
+        "variants": {
+            "R": "img_reorganized/stagecraft/stairs/stairsR.png",
+            "back": "img_reorganized/stagecraft/stairs/stairsback.png",
+            "L": "img_reorganized/stagecraft/stairs/stairsL.png",
+            "default": "img_reorganized/stagecraft/stairs/stairs.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stairs",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Rack",
+        "category": "equipment",
+        "variants": {
+            "R": "img_reorganized/more/rack/RackR.png",
+            "default": "img_reorganized/more/rack/Rack.png",
+            "L": "img_reorganized/more/rack/RackL.png",
+            "LA": "img_reorganized/more/rack/RackLA.png",
+            "RA": "img_reorganized/more/rack/RackRA.png"
+        },
+        "menu": "More",
+        "submenu": "Rack",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Stagedgef",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stagedgeF.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Barricade",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/more/barricade/barricade.png"
+        },
+        "menu": "More",
+        "submenu": "Barricade",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Truss",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/stagecraft/truss/truss.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Truss",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Stagefront",
+        "category": "equipment",
+        "variants": {
+            "default": "img_reorganized/stagecraft/stage/stagefront.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Stagedge",
+        "category": "equipment",
+        "variants": {
+            "L": "img_reorganized/stagecraft/stage/stagedgeL.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Man1",
+        "category": "artist",
+        "variants": {
+            "RA": "img_reorganized/people/male/Man1RA.png",
+            "RB": "img_reorganized/people/male/Man1RB.png",
+            "L": "img_reorganized/people/male/Man1L.png",
+            "LB": "img_reorganized/people/male/Man1LB.png",
+            "LA": "img_reorganized/people/male/Man1LA.png",
+            "B": "img_reorganized/people/male/Man1B.png",
+            "default": "img_reorganized/people/male/Man1.png",
+            "R": "img_reorganized/people/male/Man1R.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Woman1",
+        "category": "artist",
+        "variants": {
+            "LB": "img_reorganized/people/female/Woman1LB.png",
+            "L": "img_reorganized/people/female/Woman1L.png",
+            "LA": "img_reorganized/people/female/Woman1LA.png",
+            "RA": "img_reorganized/people/female/Woman1RA.png",
+            "RB": "img_reorganized/people/female/Woman1RB.png",
+            "R": "img_reorganized/people/female/Woman1R.png",
+            "default": "img_reorganized/people/female/Woman1.png",
+            "B": "img_reorganized/people/female/Woman1B.png"
+        },
+        "menu": "People",
+        "submenu": "Female",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Woman3",
+        "category": "artist",
+        "variants": {
+            "LA": "img_reorganized/people/female/Woman3LA.png",
+            "LB": "img_reorganized/people/female/Woman3LB.png",
+            "R": "img_reorganized/people/female/Woman3R.png",
+            "B": "img_reorganized/people/female/Woman3B.png",
+            "RB": "img_reorganized/people/female/Woman3RB.png",
+            "RA": "img_reorganized/people/female/Woman3RA.png",
+            "L": "img_reorganized/people/female/Woman3L.png",
+            "default": "img_reorganized/people/female/Woman3.png"
+        },
+        "menu": "People",
+        "submenu": "Female",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Keytarplayer",
+        "category": "artist",
+        "variants": {
+            "R": "img_reorganized/keys/keytar/keytarplayerR.png",
+            "RA": "img_reorganized/keys/keytar/keytarplayerRA.png",
+            "L": "img_reorganized/keys/keytar/keytarplayerL.png",
+            "default": "img_reorganized/keys/keytar/keytarplayer.png",
+            "LA": "img_reorganized/keys/keytar/keytarplayerLA.png"
+        },
+        "menu": "Keys",
+        "submenu": "Keytar",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Man3",
+        "category": "artist",
+        "variants": {
+            "RB": "img_reorganized/people/male/Man3RB.png",
+            "RA": "img_reorganized/people/male/Man3RA.png",
+            "B": "img_reorganized/people/male/Man3B.png",
+            "R": "img_reorganized/people/male/Man3R.png",
+            "LA": "img_reorganized/people/male/Man3LA.png",
+            "LB": "img_reorganized/people/male/Man3LB.png",
+            "default": "img_reorganized/people/male/Man3.png",
+            "L": "img_reorganized/people/male/Man3L.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Woman2",
+        "category": "artist",
+        "variants": {
+            "B": "img_reorganized/people/female/Woman2B.png",
+            "R": "img_reorganized/people/female/Woman2R.png",
+            "RA": "img_reorganized/people/female/Woman2RA.png",
+            "RB": "img_reorganized/people/female/Woman2RB.png",
+            "LB": "img_reorganized/people/female/Woman2LB.png",
+            "LA": "img_reorganized/people/female/Woman2LA.png",
+            "L": "img_reorganized/people/female/Woman2L.png",
+            "default": "img_reorganized/people/female/Woman2.png"
+        },
+        "menu": "People",
+        "submenu": "Female",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Man2",
+        "category": "artist",
+        "variants": {
+            "LB": "img_reorganized/people/male/Man2LB.png",
+            "LA": "img_reorganized/people/male/Man2LA.png",
+            "RA": "img_reorganized/people/male/Man2RA.png",
+            "R": "img_reorganized/people/male/Man2R.png",
+            "RB": "img_reorganized/people/male/Man2RB.png",
+            "B": "img_reorganized/people/male/Man2B.png",
+            "default": "img_reorganized/people/male/Man2.png",
+            "L": "img_reorganized/people/male/Man2L.png"
+        },
+        "menu": "People",
+        "submenu": "Male",
+        "item_type": "symbol"
+    },
+    {
+        "name": "Keytar",
+        "category": "artist",
+        "variants": {
+            "default": "img_reorganized/keys/keytar/keytar.png"
+        },
+        "menu": "Keys",
+        "submenu": "Keytar",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Yamahacp70",
+        "category": "keyboard",
+        "variants": {
+            "L": "img_reorganized/keys/yamahacp70/yamahaCP70L.png",
+            "LA": "img_reorganized/keys/yamahacp70/yamahaCP70LA.png",
+            "LB": "img_reorganized/keys/yamahacp70/yamahaCP70LB.png",
+            "R": "img_reorganized/keys/yamahacp70/yamahaCP70R.png",
+            "RB": "img_reorganized/keys/yamahacp70/yamahaCP70RB.png",
+            "RA": "img_reorganized/keys/yamahacp70/yamahaCP70RA.png",
+            "B": "img_reorganized/keys/yamahacp70/yamahaCP70B.png",
+            "default": "img_reorganized/keys/yamahacp70/yamahaCP70.png"
+        },
+        "menu": "Keys",
+        "submenu": "YamahaCP70",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Clavinet",
+        "category": "keyboard",
+        "variants": {
+            "B": "img_reorganized/keys/clavinet/clavinetB.png",
+            "RA": "img_reorganized/keys/clavinet/clavinetRA.png",
+            "R": "img_reorganized/keys/clavinet/clavinetR.png",
+            "RB": "img_reorganized/keys/clavinet/clavinetRB.png",
+            "LB": "img_reorganized/keys/clavinet/clavinetLB.png",
+            "LA": "img_reorganized/keys/clavinet/clavinetLA.png",
+            "default": "img_reorganized/keys/clavinet/clavinet.png",
+            "L": "img_reorganized/keys/clavinet/clavinetL.png"
+        },
+        "menu": "Keys",
+        "submenu": "Clavinet",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Mellotron",
+        "category": "keyboard",
+        "variants": {
+            "RB": "img_reorganized/keys/mellotron/MellotronRB.png",
+            "RA": "img_reorganized/keys/mellotron/MellotronRA.png",
+            "L": "img_reorganized/keys/mellotron/MellotronL.png",
+            "LA": "img_reorganized/keys/mellotron/MellotronLA.png",
+            "LB": "img_reorganized/keys/mellotron/MellotronLB.png",
+            "default": "img_reorganized/keys/mellotron/Mellotron.png",
+            "B": "img_reorganized/keys/mellotron/MellotronB.png",
+            "R": "img_reorganized/keys/mellotron/MellotronR.png"
+        },
+        "menu": "Keys",
+        "submenu": "Mellotron",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Accordionist",
+        "category": "keyboard",
+        "variants": {
+            "default": "img_reorganized/keys/accordion/accordionist.png",
+            "R": "img_reorganized/keys/accordion/accordionistR.png",
+            "B": "img_reorganized/keys/accordion/accordionistB.png",
+            "LA": "img_reorganized/keys/accordion/accordionistLA.png",
+            "LB": "img_reorganized/keys/accordion/accordionistLB.png",
+            "L": "img_reorganized/keys/accordion/accordionistL.png",
+            "RB": "img_reorganized/keys/accordion/accordionistRB.png",
+            "RA": "img_reorganized/keys/accordion/accordionistRA.png"
+        },
+        "menu": "Keys",
+        "submenu": "Accordion",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Doublekeystand",
+        "category": "keyboard",
+        "variants": {
+            "R": "img_reorganized/keys/doublekeystandR.png",
+            "B": "img_reorganized/keys/doublekeystandB.png",
+            "LB": "img_reorganized/keys/doublekeystandLB.png",
+            "LA": "img_reorganized/keys/doublekeystandLA.png",
+            "L": "img_reorganized/keys/doublekeystandL.png",
+            "default": "img_reorganized/keys/doublekeystand.png",
+            "RA": "img_reorganized/keys/doublekeystandRA.png",
+            "RB": "img_reorganized/keys/doublekeystandRB.png"
+        },
+        "menu": "Keys",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Femkeystand",
+        "category": "keyboard",
+        "variants": {
+            "L": "img_reorganized/keys/femkeystandL.png",
+            "RA": "img_reorganized/keys/femkeystandRA.png",
+            "RB": "img_reorganized/keys/femkeystandRB.png",
+            "LB": "img_reorganized/keys/femkeystandLB.png",
+            "LA": "img_reorganized/keys/femkeystandLA.png",
+            "R": "img_reorganized/keys/femkeystandR.png",
+            "default": "img_reorganized/keys/femkeystand.png",
+            "B": "img_reorganized/keys/femkeystandB.png"
+        },
+        "menu": "Keys",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Yamahagt2",
+        "category": "keyboard",
+        "variants": {
+            "R": "img_reorganized/keys/yamahagt2/YamahaGT2R.png",
+            "RA": "img_reorganized/keys/yamahagt2/YamahaGT2RA.png",
+            "RB": "img_reorganized/keys/yamahagt2/YamahaGT2RB.png",
+            "B": "img_reorganized/keys/yamahagt2/YamahaGT2B.png",
+            "default": "img_reorganized/keys/yamahagt2/YamahaGT2.png",
+            "LB": "img_reorganized/keys/yamahagt2/YamahaGT2LB.png",
+            "LA": "img_reorganized/keys/yamahagt2/YamahaGT2LA.png",
+            "L": "img_reorganized/keys/yamahagt2/YamahaGT2L.png"
+        },
+        "menu": "Keys",
+        "submenu": "YamahaGT2",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Celesta",
+        "category": "keyboard",
+        "variants": {
+            "RA": "img_reorganized/keys/celesta/CelestaRA.png",
+            "RB": "img_reorganized/keys/celesta/CelestaRB.png",
+            "LB": "img_reorganized/keys/celesta/CelestaLB.png",
+            "B": "img_reorganized/keys/celesta/CelestaB.png",
+            "LA": "img_reorganized/keys/celesta/CelestaLA.png",
+            "R": "img_reorganized/keys/celesta/CelestaR.png",
+            "L": "img_reorganized/keys/celesta/CelestaL.png",
+            "default": "img_reorganized/keys/celesta/Celesta.png"
+        },
+        "menu": "Keys",
+        "submenu": "Celesta",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Nordstage88",
+        "category": "keyboard",
+        "variants": {
+            "LA": "img_reorganized/stagecraft/stage/NordStage88LA.png",
+            "LB": "img_reorganized/stagecraft/stage/NordStage88LB.png",
+            "RB": "img_reorganized/stagecraft/stage/NordStage88RB.png",
+            "default": "img_reorganized/stagecraft/stage/NordStage88.png",
+            "RA": "img_reorganized/stagecraft/stage/NordStage88RA.png",
+            "L": "img_reorganized/stagecraft/stage/NordStage88L.png",
+            "B": "img_reorganized/stagecraft/stage/NordStage88B.png",
+            "R": "img_reorganized/stagecraft/stage/NordStage88R.png"
+        },
+        "menu": "Stagecraft",
+        "submenu": "Stage",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Keyamp",
+        "category": "keyboard",
+        "variants": {
+            "L": "img_reorganized/amps/guitar/KeyAmpL.png",
+            "R": "img_reorganized/amps/guitar/KeyAmpR.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Fantom",
+        "category": "keyboard",
+        "variants": {
+            "default": "img_reorganized/more/fan/Fantom.png",
+            "R": "img_reorganized/more/fan/FantomR.png",
+            "B": "img_reorganized/more/fan/FantomB.png",
+            "L": "img_reorganized/more/fan/FantomL.png",
+            "RA": "img_reorganized/more/fan/FantomRA.png",
+            "RB": "img_reorganized/more/fan/FantomRB.png",
+            "LB": "img_reorganized/more/fan/FantomLB.png",
+            "LA": "img_reorganized/more/fan/FantomLA.png"
+        },
+        "menu": "More",
+        "submenu": "Fan",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Keyboardist",
+        "category": "keyboard",
+        "variants": {
+            "L": "img_reorganized/amps/keyboard/keyboardistL.png",
+            "R": "img_reorganized/amps/keyboard/keyboardistR.png",
+            "LB": "img_reorganized/amps/keyboard/keyboardistLB.png",
+            "LA": "img_reorganized/amps/keyboard/keyboardistLA.png",
+            "B": "img_reorganized/amps/keyboard/keyboardistB.png",
+            "RA": "img_reorganized/amps/keyboard/keyboardistRA.png",
+            "default": "img_reorganized/amps/keyboard/keyboardist.png",
+            "RB": "img_reorganized/amps/keyboard/keyboardistRB.png"
+        },
+        "menu": "Amps",
+        "submenu": "Keyboard",
+        "item_type": "output"
+    },
+    {
+        "name": "Accordion",
+        "category": "keyboard",
+        "variants": {
+            "default": "img_reorganized/keys/accordion/Accordion.png",
+            "L": "img_reorganized/keys/accordion/AccordionL.png",
+            "RA": "img_reorganized/keys/accordion/AccordionRA.png",
+            "R": "img_reorganized/keys/accordion/AccordionR.png",
+            "LA": "img_reorganized/keys/accordion/AccordionLA.png"
+        },
+        "menu": "Keys",
+        "submenu": "Accordion",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Keystand",
+        "category": "keyboard",
+        "variants": {
+            "B": "img_reorganized/keys/keystandB.png",
+            "R": "img_reorganized/keys/keystandR.png",
+            "LB": "img_reorganized/keys/keystandLB.png",
+            "LA": "img_reorganized/keys/keystandLA.png",
+            "L": "img_reorganized/keys/keystandL.png",
+            "RA": "img_reorganized/keys/keystandRA.png",
+            "default": "img_reorganized/keys/keystand.png",
+            "RB": "img_reorganized/keys/keystandRB.png"
+        },
+        "menu": "Keys",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Keyamp",
+        "category": "keyboard",
+        "variants": {
+            "RA": "img_reorganized/amps/guitar/keyampRA.png",
+            "LA": "img_reorganized/amps/guitar/keyampLA.png",
+            "default": "img_reorganized/amps/guitar/keyamp.png"
+        },
+        "menu": "Amps",
+        "submenu": "Guitar",
+        "item_type": "output"
+    },
+    {
+        "name": "Sofa",
+        "category": "seat",
+        "variants": {
+            "LB": "img_reorganized/more/sofa/sofaLB.png",
+            "LA": "img_reorganized/more/sofa/sofaLA.png",
+            "R": "img_reorganized/more/sofa/sofaR.png",
+            "RA": "img_reorganized/more/sofa/sofaRA.png",
+            "B": "img_reorganized/more/sofa/sofaB.png",
+            "RB": "img_reorganized/more/sofa/sofaRB.png",
+            "default": "img_reorganized/more/sofa/sofa.png",
+            "L": "img_reorganized/more/sofa/sofaL.png"
+        },
+        "menu": "More",
+        "submenu": "Sofa",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Chairback",
+        "category": "seat",
+        "variants": {
+            "RA": "img_reorganized/more/chair/chairbackRA.png",
+            "LA": "img_reorganized/more/chair/chairbackLA.png"
+        },
+        "menu": "More",
+        "submenu": "Chair",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Chair",
+        "category": "seat",
+        "variants": {
+            "RA": "img_reorganized/more/chair/chairRA.png",
+            "back": "img_reorganized/more/chair/chairback.png",
+            "R": "img_reorganized/more/chair/chairR.png",
+            "LA": "img_reorganized/more/chair/chairLA.png",
+            "default": "img_reorganized/more/chair/chair.png",
+            "L": "img_reorganized/more/chair/chairL.png"
+        },
+        "menu": "More",
+        "submenu": "Chair",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Barstool",
+        "category": "seat",
+        "variants": {
+            "B": "img_reorganized/more/stool/BarStoolB.png",
+            "LB": "img_reorganized/more/stool/BarStoolLB.png",
+            "RB": "img_reorganized/more/stool/BarStoolRB.png"
+        },
+        "menu": "More",
+        "submenu": "Stool",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Barstool",
+        "category": "seat",
+        "variants": {
+            "R": "img_reorganized/more/stool/barstoolR.png",
+            "LA": "img_reorganized/more/stool/barstoolLA.png",
+            "RA": "img_reorganized/more/stool/barstoolRA.png",
+            "default": "img_reorganized/more/stool/barstool.png",
+            "L": "img_reorganized/more/stool/barstoolL.png"
+        },
+        "menu": "More",
+        "submenu": "Stool",
+        "item_type": "accessory"
+    },
+    {
+        "name": "Stool",
+        "category": "seat",
+        "variants": {
+            "default": "img_reorganized/more/stool/Stool.png",
+            "LA": "img_reorganized/more/stool/StoolLA.png",
+            "RA": "img_reorganized/more/stool/StoolRA.png"
+        },
+        "menu": "More",
+        "submenu": "Stool",
+        "item_type": "accessory"
+    }
+]

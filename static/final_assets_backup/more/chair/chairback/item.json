@@ -1,0 +1,8 @@
+{
+    "name": "Chairback",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "chairbackRA.png",
+        "LA": "chairbackLA.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Wireless Mic",
+    "item_type": "input",
+    "variants": {
+        "default": "wireless_mic.png"
+    }
+}

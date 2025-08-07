@@ -1,0 +1,12 @@
+{
+    "name": "Fender Amp",
+    "item_type": "output",
+    "variants": {
+        "default": "FenderAmp.png",
+        "back": "FenderAmpBack.png",
+        "R": "FenderAmpR.png",
+        "RA": "FenderAmpRA.png",
+        "L": "FenderAmpL.png",
+        "LA": "FenderAmpLA.png"
+    }
+}

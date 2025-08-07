@@ -1,0 +1,14 @@
+{
+    "name": "Percussionistone",
+    "item_type": "accessory",
+    "variants": {
+        "R": "PercussionistOneR.png",
+        "B": "PercussionistOneB.png",
+        "RB": "PercussionistOneRB.png",
+        "RA": "PercussionistOneRA.png",
+        "default": "PercussionistOne.png",
+        "L": "PercussionistOneL.png",
+        "LA": "PercussionistOneLA.png",
+        "LB": "PercussionistOneLB.png"
+    }
+}

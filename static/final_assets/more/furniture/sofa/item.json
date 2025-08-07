@@ -1,0 +1,14 @@
+{
+    "name": "Sofa",
+    "item_type": "accessory",
+    "variants": {
+        "LB": "sofaLB.png",
+        "LA": "sofaLA.png",
+        "R": "sofaR.png",
+        "RA": "sofaRA.png",
+        "B": "sofaB.png",
+        "RB": "sofaRB.png",
+        "default": "sofa.png",
+        "L": "sofaL.png"
+    }
+}

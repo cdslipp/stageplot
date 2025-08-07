@@ -1,0 +1,9 @@
+{
+    "name": "Boomlshortback",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "BoomLshortBackLA.png",
+        "RA": "BoomLshortBackRA.png",
+        "default": "BoomLshortBack.png"
+    }
+}

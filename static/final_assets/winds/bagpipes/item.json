@@ -1,0 +1,7 @@
+{
+    "name": "Bagpipes",
+    "item_type": "accessory",
+    "variants": {
+        "default": "bagpipes.png"
+    }
+}

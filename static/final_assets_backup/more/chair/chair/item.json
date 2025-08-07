@@ -1,0 +1,12 @@
+{
+    "name": "Chair",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "chairRA.png",
+        "back": "chairback.png",
+        "R": "chairR.png",
+        "LA": "chairLA.png",
+        "default": "chair.png",
+        "L": "chairL.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Eleven",
+    "item_type": "symbol",
+    "variants": {
+        "default": "eleven.png"
+    }
+}

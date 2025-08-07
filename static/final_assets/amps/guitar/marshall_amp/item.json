@@ -1,0 +1,12 @@
+{
+    "name": "Marshall Amp",
+    "item_type": "output",
+    "variants": {
+        "default": "marshall.png",
+        "back": "marshallback.png",
+        "R": "marshallR.png",
+        "LA": "marshallLA.png",
+        "L": "marshallL.png",
+        "RA": "marshallRA.png"
+    }
+}

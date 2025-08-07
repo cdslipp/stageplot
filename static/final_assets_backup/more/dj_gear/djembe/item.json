@@ -1,0 +1,7 @@
+{
+    "name": "Djembe",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Djembe.png"
+    }
+}

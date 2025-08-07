@@ -1,0 +1,11 @@
+{
+    "name": "Kaval",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "kavalRA.png",
+        "LA": "kavalLA.png",
+        "L": "kavalL.png",
+        "R": "kavalR.png",
+        "default": "kaval.png"
+    }
+}

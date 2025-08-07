@@ -1,0 +1,7 @@
+{
+    "name": "Fortyeight",
+    "item_type": "symbol",
+    "variants": {
+        "default": "fortyeight.png"
+    }
+}

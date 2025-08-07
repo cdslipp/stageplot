@@ -1,0 +1,11 @@
+{
+    "name": "Cornet",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "cornetRA.png",
+        "L": "cornetL.png",
+        "LA": "cornetLA.png",
+        "R": "cornetR.png",
+        "default": "cornet.png"
+    }
+}

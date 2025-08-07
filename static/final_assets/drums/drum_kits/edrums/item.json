@@ -1,0 +1,11 @@
+{
+    "name": "Edrums",
+    "item_type": "input",
+    "variants": {
+        "LA": "edrumsLA.png",
+        "default": "edrums.png",
+        "RA": "edrumsRA.png",
+        "L": "edrumsL.png",
+        "R": "edrumsR.png"
+    }
+}

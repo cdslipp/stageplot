@@ -1,0 +1,8 @@
+{
+    "name": "Oud",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "OudRA.png",
+        "default": "Oud.png"
+    }
+}

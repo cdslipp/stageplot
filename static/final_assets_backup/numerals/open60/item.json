@@ -1,0 +1,7 @@
+{
+    "name": "Open60",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open60.png"
+    }
+}

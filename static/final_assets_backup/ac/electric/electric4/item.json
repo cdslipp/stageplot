@@ -1,0 +1,7 @@
+{
+    "name": "Electric4",
+    "item_type": "accessory",
+    "variants": {
+        "default": "electric4.png"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/gear-preference-1.0.0.json",
+  "title": "Gear Preference",
+  "description": "A prioritized list of gear choices.",
+  "type": "object",
+  "properties": {
+    "preferred": {
+      "type": "array",
+      "items": { "$ref": "gear-1.0.0.json" },
+      "description": "The most desired pieces of gear, in order of preference."
+    },
+    "allowed": {
+      "type": "array",
+      "items": { "$ref": "gear-1.0.0.json" },
+      "description": "Acceptable alternatives if the preferred gear is not available."
+    },
+    "disallowed": {
+      "type": "array",
+      "items": { "$ref": "gear-1.0.0.json" },
+      "description": "Gear that is explicitly not acceptable."
+    }
+  }
+}

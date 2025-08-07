@@ -1,0 +1,64 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+    /* Background colors */
+    --color-bg-primary: #ffffff;
+    --color-bg-secondary: #f9fafb;
+    --color-bg-tertiary: #f3f4f6;
+    
+    /* Text colors */
+    --color-text-primary: #111827;
+    --color-text-secondary: #4b5563;
+    --color-text-tertiary: #6b7280;
+    
+    /* Border colors */
+    --color-border-primary: #e5e7eb;
+    --color-border-secondary: #d1d5db;
+    
+    /* Component colors */
+    --color-surface: #ffffff;
+    --color-surface-hover: #f9fafb;
+    --color-muted: #f3f4f6;
+}
+
+.dark {
+    /* Background colors */
+    --color-bg-primary: #030712;
+    --color-bg-secondary: #111827;
+    --color-bg-tertiary: #1f2937;
+    
+    /* Text colors */
+    --color-text-primary: #f9fafb;
+    --color-text-secondary: #d1d5db;
+    --color-text-tertiary: #9ca3af;
+    
+    /* Border colors */
+    --color-border-primary: #374151;
+    --color-border-secondary: #4b5563;
+    
+    /* Component colors */
+    --color-surface: #111827;
+    --color-surface-hover: #1f2937;
+    --color-muted: #374151;
+}
+
+/* Grid pattern for canvas */
+.bg-grid-pattern {
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, .1) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, .1) 1px, transparent 1px);
+}
+
+.dark .bg-grid-pattern {
+    background-image: 
+        linear-gradient(rgba(255, 255, 255, .1) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, .1) 1px, transparent 1px);
+}
+
+.selectable-item.selected {
+	box-shadow: 0 0 0 2px #3b82f6;
+}

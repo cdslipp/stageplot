@@ -1,0 +1,14 @@
+{
+    "name": "Banjo Guy",
+    "item_type": "accessory",
+    "variants": {
+        "R": "banjo_guyR.png",
+        "B": "banjo_guyB.png",
+        "default": "banjo_guy.png",
+        "LB": "banjo_guyLB.png",
+        "LA": "banjo_guyLA.png",
+        "RA": "banjo_guyRA.png",
+        "L": "banjo_guyL.png",
+        "RB": "banjo_guyRB.png"
+    }
+}

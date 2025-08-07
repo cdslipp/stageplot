@@ -1,0 +1,14 @@
+{
+    "name": "Zinfoniaplayer",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "zinfoniaplayerLA.png",
+        "LB": "zinfoniaplayerLB.png",
+        "R": "zinfoniaplayerR.png",
+        "RB": "zinfoniaplayerRB.png",
+        "RA": "zinfoniaplayerRA.png",
+        "B": "zinfoniaplayerB.png",
+        "L": "zinfoniaplayerL.png",
+        "default": "zinfoniaplayer.png"
+    }
+}

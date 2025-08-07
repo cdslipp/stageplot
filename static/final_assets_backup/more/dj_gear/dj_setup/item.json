@@ -1,0 +1,14 @@
+{
+    "name": "Dj Setup",
+    "item_type": "accessory",
+    "variants": {
+        "LB": "dj_setupLB.png",
+        "LA": "dj_setupLA.png",
+        "L": "dj_setupL.png",
+        "RA": "dj_setupRA.png",
+        "RB": "dj_setupRB.png",
+        "B": "dj_setupB.png",
+        "default": "dj_setup.png",
+        "R": "dj_setupR.png"
+    }
+}

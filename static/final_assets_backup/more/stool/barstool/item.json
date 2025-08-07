@@ -1,0 +1,11 @@
+{
+    "name": "Barstool",
+    "item_type": "accessory",
+    "variants": {
+        "R": "barstoolR.png",
+        "LA": "barstoolLA.png",
+        "RA": "barstoolRA.png",
+        "default": "barstool.png",
+        "L": "barstoolL.png"
+    }
+}

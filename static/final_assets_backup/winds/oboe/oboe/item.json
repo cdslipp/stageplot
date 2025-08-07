@@ -1,0 +1,11 @@
+{
+    "name": "Oboe",
+    "item_type": "accessory",
+    "variants": {
+        "L": "oboeL.png",
+        "LA": "oboeLA.png",
+        "default": "oboe.png",
+        "R": "oboeR.png",
+        "RA": "oboeRA.png"
+    }
+}

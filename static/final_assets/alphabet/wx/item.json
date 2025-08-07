@@ -1,0 +1,7 @@
+{
+    "name": "Wx",
+    "item_type": "symbol",
+    "variants": {
+        "default": "WX.png"
+    }
+}

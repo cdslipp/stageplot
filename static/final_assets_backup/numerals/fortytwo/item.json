@@ -1,0 +1,7 @@
+{
+    "name": "Fortytwo",
+    "item_type": "symbol",
+    "variants": {
+        "default": "fortytwo.png"
+    }
+}

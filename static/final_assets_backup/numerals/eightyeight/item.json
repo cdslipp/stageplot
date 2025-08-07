@@ -1,0 +1,7 @@
+{
+    "name": "Eightyeight",
+    "item_type": "symbol",
+    "variants": {
+        "default": "eightyeight.png"
+    }
+}

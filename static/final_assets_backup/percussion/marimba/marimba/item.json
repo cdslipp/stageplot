@@ -1,0 +1,11 @@
+{
+    "name": "Marimba",
+    "item_type": "accessory",
+    "variants": {
+        "R": "MarimbaR.png",
+        "LA": "MarimbaLA.png",
+        "default": "Marimba.png",
+        "RA": "MarimbaRA.png",
+        "L": "MarimbaL.png"
+    }
+}

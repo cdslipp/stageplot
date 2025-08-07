@@ -1,0 +1,14 @@
+{
+    "name": "Djm800",
+    "item_type": "accessory",
+    "variants": {
+        "L": "DJM800L.png",
+        "R": "DJM800R.png",
+        "LB": "DJM800LB.png",
+        "LA": "DJM800LA.png",
+        "B": "DJM800B.png",
+        "RA": "DJM800RA.png",
+        "default": "DJM800.png",
+        "RB": "DJM800RB.png"
+    }
+}

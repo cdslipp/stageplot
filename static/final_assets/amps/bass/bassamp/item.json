@@ -1,0 +1,29 @@
+
+{
+    "name": "Bass Amp",
+    "item_type": "output",
+    "variants": {
+        "default": "BassAmp.png",
+        "back": "../bassampback/BassAmpBack.png",
+        "L": "BassAmpL.png",
+        "R": "BassAmpR.png",
+        "LA": "BassAmpLA.png",
+        "RA": "BassAmpRA.png"
+    },
+    "inputs": [
+        {
+          "name": "Bass Amp Mic",
+          "short_name": "BsAmpMic",
+          "ideal_device": { "preferred": [{ "name": "Sennheiser MD421" }] },
+          "stand": "short_boom",
+          "phantom_power": false
+        },
+        {
+          "name": "Bass Amp DI",
+          "short_name": "BsAmpDI",
+          "ideal_device": { "preferred": [{ "name": "DI Box" }] },
+          "stand": "none",
+          "phantom_power": true
+        }
+      ]
+}

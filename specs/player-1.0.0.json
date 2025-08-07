@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/player-1.0.0.json",
+  "title": "Player",
+  "description": "A musician or member of the band.",
+  "type": "object",
+  "required": ["id", "person"],
+  "properties": {
+    "id": { "type": "string", "description": "A unique identifier for the player." },
+    "person": {
+      "$ref": "person-1.0.0.json"
+    },
+    "item_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "An array of item IDs this player uses."
+    },
+    "output_ids": {
+        "type": "array",
+        "items": { "type": "string" },
+        "description": "An array of output IDs for this player's monitoring."
+    }
+  }
+}

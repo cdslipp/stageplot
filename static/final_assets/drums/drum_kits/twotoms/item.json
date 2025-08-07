@@ -1,0 +1,11 @@
+{
+    "name": "Twotoms",
+    "item_type": "input",
+    "variants": {
+        "RA": "TwoTomsRA.png",
+        "L": "TwoTomsL.png",
+        "LA": "TwoTomsLA.png",
+        "default": "TwoToms.png",
+        "R": "TwoTomsR.png"
+    }
+}

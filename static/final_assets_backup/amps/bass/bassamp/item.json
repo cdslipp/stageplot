@@ -1,0 +1,11 @@
+{
+    "name": "Bassamp",
+    "item_type": "output",
+    "variants": {
+        "L": "BassAmpL.png",
+        "RA": "BassAmpRA.png",
+        "LA": "BassAmpLA.png",
+        "R": "BassAmpR.png",
+        "default": "BassAmp.png"
+    }
+}

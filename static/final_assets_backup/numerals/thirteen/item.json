@@ -1,0 +1,7 @@
+{
+    "name": "Thirteen",
+    "item_type": "symbol",
+    "variants": {
+        "default": "thirteen.png"
+    }
+}

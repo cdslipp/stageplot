@@ -1,0 +1,14 @@
+{
+    "name": "Timpani1",
+    "item_type": "accessory",
+    "variants": {
+        "B": "timpani1B.png",
+        "R": "timpani1R.png",
+        "default": "timpani1.png",
+        "LA": "timpani1LA.png",
+        "LB": "timpani1LB.png",
+        "L": "timpani1L.png",
+        "RB": "timpani1RB.png",
+        "RA": "timpani1RA.png"
+    }
+}

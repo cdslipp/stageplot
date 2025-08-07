@@ -1,0 +1,7 @@
+{
+    "name": "Snare",
+    "item_type": "accessory",
+    "variants": {
+        "default": "snare.png"
+    }
+}

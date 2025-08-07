@@ -1,0 +1,7 @@
+{
+    "name": "Open86",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open86.png"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Conga Double",
+    "item_type": "accessory",
+    "variants": {
+        "default": "conga_double.png",
+        "L": "conga_doubleL.png",
+        "LA": "conga_doubleLA.png",
+        "R": "conga_doubleR.png",
+        "RA": "conga_doubleRA.png"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Mellotron",
+    "item_type": "accessory",
+    "variants": {
+        "RB": "MellotronRB.png",
+        "RA": "MellotronRA.png",
+        "L": "MellotronL.png",
+        "LA": "MellotronLA.png",
+        "LB": "MellotronLB.png",
+        "default": "Mellotron.png",
+        "B": "MellotronB.png",
+        "R": "MellotronR.png"
+    }
+}

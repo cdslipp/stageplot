@@ -1,0 +1,14 @@
+{
+    "name": "Podium Mic",
+    "item_type": "accessory",
+    "variants": {
+        "default": "podium_mic.png",
+        "RB": "podium_micRB.png",
+        "RA": "podium_micRA.png",
+        "LA": "podium_micLA.png",
+        "R": "podium_micR.png",
+        "LB": "podium_micLB.png",
+        "B": "podium_micB.png",
+        "L": "podium_micL.png"
+    }
+}

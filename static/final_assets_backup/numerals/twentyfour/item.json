@@ -1,0 +1,7 @@
+{
+    "name": "Twentyfour",
+    "item_type": "symbol",
+    "variants": {
+        "default": "twentyfour.png"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Tenorpan",
+    "item_type": "accessory",
+    "variants": {
+        "RB": "tenorpanRB.png",
+        "L": "tenorpanL.png",
+        "RA": "tenorpanRA.png",
+        "LA": "tenorpanLA.png",
+        "LB": "tenorpanLB.png",
+        "default": "tenorpan.png",
+        "R": "tenorpanR.png",
+        "B": "tenorpanB.png"
+    }
+}

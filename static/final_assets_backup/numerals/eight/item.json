@@ -1,0 +1,7 @@
+{
+    "name": "Eight",
+    "item_type": "symbol",
+    "variants": {
+        "default": "eight.png"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bouzouki",
+    "item_type": "accessory",
+    "variants": {
+        "default": "bouzouki.png",
+        "RA": "bouzoukiRA.png"
+    }
+}

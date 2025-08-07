@@ -1,0 +1,9 @@
+{
+    "name": "Boom57 Back",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Boom57Back.png",
+        "RA": "Boom57BackRA.png",
+        "LA": "Boom57BackLA.png"
+    }
+}

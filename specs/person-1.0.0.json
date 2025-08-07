@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/person-1.0.0.json",
+  "title": "Person",
+  "description": "A standard format for a person's contact information.",
+  "type": "object",
+  "required": ["name"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The person's full name."
+    },
+    "role": {
+      "type": "string",
+      "enum": [
+        "Tour Manager",
+        "Production Manager",
+        "Front of House Engineer",
+        "Monitor Engineer",
+        "Backline Tech",
+        "Lighting Designer",
+        "Video Tech",
+        "Other"
+      ],
+      "description": "The role of the contact."
+    },
+    "pronouns": {
+      "type": "string",
+      "description": "The person's pronouns (e.g., she/her, he/him, they/them)."
+    },
+    "phone": {
+      "type": "string",
+      "description": "The person's phone number."
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "The person's email address."
+    }
+  }
+}

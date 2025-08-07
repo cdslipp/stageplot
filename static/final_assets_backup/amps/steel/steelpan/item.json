@@ -1,0 +1,14 @@
+{
+    "name": "Steelpan",
+    "item_type": "output",
+    "variants": {
+        "LA": "steelpanLA.png",
+        "LB": "steelpanLB.png",
+        "B": "steelpanB.png",
+        "R": "steelpanR.png",
+        "RB": "steelpanRB.png",
+        "RA": "steelpanRA.png",
+        "default": "steelpan.png",
+        "L": "steelpanL.png"
+    }
+}

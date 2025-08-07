@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/gear-1.0.0.json",
+  "title": "Gear",
+  "description": "A specific piece of equipment, such as an instrument, amplifier, or microphone.",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string", "description": "A unique identifier for this piece of gear." },
+    "name": { "type": "string", "description": "The common name of the gear (e.g., 'Deluxe Reverb')." },
+    "brand": { "type": "string", "description": "The manufacturer of the gear (e.g., 'Fender')." },
+    "model": { "type": "string", "description": "The model name or number (e.g., 'Deluxe Reverb')." },
+    "version": { "type": "string", "description": "The version, revision, or mark (e.g., '65 Reissue', 'Mk II')." },
+    "release_year": { "type": "integer", "description": "The year the specific version was released." },
+    "power_requirements": { "type": "string", "description": "Details about power needs (e.g., '120V AC', '9V DC')." },
+    "connectors": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["XLR", "TRS", "TS", "TRRS", "MIDI", "USB", "IEC"] }
+    },
+    "notes": { "type": "string", "description": "Any other relevant notes about the gear." }
+  },
+  "required": ["id", "name"]
+}

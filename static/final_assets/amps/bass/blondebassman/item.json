@@ -1,0 +1,11 @@
+{
+    "name": "Blondebassman",
+    "item_type": "output",
+    "variants": {
+        "L": "BlondeBassmanL.png",
+        "default": "BlondeBassman.png",
+        "R": "BlondeBassmanR.png",
+        "RA": "BlondeBassmanRA.png",
+        "LA": "BlondeBassmanLA.png"
+    }
+}

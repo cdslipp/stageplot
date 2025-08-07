@@ -1,0 +1,7 @@
+{
+    "name": "Keytar",
+    "item_type": "accessory",
+    "variants": {
+        "default": "keytar.png"
+    }
+}

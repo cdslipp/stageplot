@@ -1,0 +1,7 @@
+{
+    "name": "Open30",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open30.png"
+    }
+}

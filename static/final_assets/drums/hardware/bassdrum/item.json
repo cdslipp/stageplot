@@ -1,0 +1,14 @@
+{
+    "name": "Bassdrum",
+    "item_type": "accessory",
+    "variants": {
+        "R": "BassdrumR.png",
+        "B": "BassdrumB.png",
+        "default": "Bassdrum.png",
+        "LA": "BassdrumLA.png",
+        "LB": "BassdrumLB.png",
+        "RB": "BassdrumRB.png",
+        "L": "BassdrumL.png",
+        "RA": "BassdrumRA.png"
+    }
+}

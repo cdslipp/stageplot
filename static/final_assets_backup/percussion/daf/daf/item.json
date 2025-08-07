@@ -1,0 +1,7 @@
+{
+    "name": "Daf",
+    "item_type": "accessory",
+    "variants": {
+        "default": "daf.png"
+    }
+}

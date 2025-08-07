@@ -1,0 +1,12 @@
+{
+    "name": "Nashville Amp",
+    "item_type": "output",
+    "variants": {
+        "default": "nashville.png",
+        "back": "nashvilleback.png",
+        "L": "NashvilleL.png",
+        "R": "NashvilleR.png",
+        "LA": "nashvilleLA.png",
+        "RA": "nashvilleRA.png"
+    }
+}

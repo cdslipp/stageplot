@@ -1,0 +1,12 @@
+{
+    "name": "Vox",
+    "item_type": "output",
+    "variants": {
+        "B": "voxB.png",
+        "R": "voxR.png",
+        "default": "vox.png",
+        "RA": "voxRA.png",
+        "LA": "voxLA.png",
+        "L": "voxL.png"
+    }
+}

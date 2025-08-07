@@ -1,0 +1,7 @@
+{
+    "name": "Claves",
+    "item_type": "accessory",
+    "variants": {
+        "default": "claves.png"
+    }
+}

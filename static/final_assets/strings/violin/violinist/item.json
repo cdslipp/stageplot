@@ -1,0 +1,14 @@
+{
+    "name": "Violinist",
+    "item_type": "accessory",
+    "variants": {
+        "R": "violinistR.png",
+        "B": "violinistB.png",
+        "RA": "violinistRA.png",
+        "RB": "violinistRB.png",
+        "LB": "violinistLB.png",
+        "LA": "violinistLA.png",
+        "L": "violinistL.png",
+        "default": "violinist.png"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Bassist",
+    "item_type": "output",
+    "variants": {
+        "LA": "bassistLA.png",
+        "LB": "bassistLB.png",
+        "R": "bassistR.png",
+        "RB": "bassistRB.png",
+        "default": "bassist.png",
+        "B": "bassistB.png",
+        "RA": "bassistRA.png",
+        "L": "bassistL.png"
+    }
+}

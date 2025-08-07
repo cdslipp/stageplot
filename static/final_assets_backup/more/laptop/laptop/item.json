@@ -1,0 +1,7 @@
+{
+    "name": "Laptop",
+    "item_type": "accessory",
+    "variants": {
+        "B": "laptopB.png"
+    }
+}

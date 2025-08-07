@@ -1,0 +1,11 @@
+{
+    "name": "Keytarplayer",
+    "item_type": "accessory",
+    "variants": {
+        "R": "keytarplayerR.png",
+        "RA": "keytarplayerRA.png",
+        "L": "keytarplayerL.png",
+        "default": "keytarplayer.png",
+        "LA": "keytarplayerLA.png"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Threetoms",
+    "item_type": "drumset",
+    "variants": {
+        "L": "ThreeTomsL.png",
+        "default": "ThreeToms.png",
+        "R": "ThreeTomsR.png",
+        "RA": "ThreeTomsRA.png",
+        "LA": "ThreeTomsLA.png"
+    }
+}

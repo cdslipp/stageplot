@@ -1,0 +1,9 @@
+{
+    "name": "National",
+    "item_type": "accessory",
+    "variants": {
+        "R": "NationalR.png",
+        "RA": "NationalRA.png",
+        "default": "National.png"
+    }
+}

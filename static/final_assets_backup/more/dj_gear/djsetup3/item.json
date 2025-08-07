@@ -1,0 +1,11 @@
+{
+    "name": "Djsetup3",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "DJsetup3RA.png",
+        "L": "DJsetup3L.png",
+        "LA": "DJsetup3LA.png",
+        "default": "DJsetup3.png",
+        "R": "DJsetup3R.png"
+    }
+}

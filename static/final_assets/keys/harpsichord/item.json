@@ -1,0 +1,14 @@
+{
+    "name": "Harpsichord",
+    "item_type": "accessory",
+    "variants": {
+        "R": "HarpsichordR.png",
+        "B": "HarpsichordB.png",
+        "default": "Harpsichord.png",
+        "LA": "HarpsichordLA.png",
+        "LB": "HarpsichordLB.png",
+        "L": "HarpsichordL.png",
+        "RB": "HarpsichordRB.png",
+        "RA": "HarpsichordRA.png"
+    }
+}

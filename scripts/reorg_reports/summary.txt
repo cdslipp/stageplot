@@ -1,0 +1,3 @@
+Total items processed: 509
+Mapped items: 509
+Unmapped items: 0

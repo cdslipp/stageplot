@@ -1,0 +1,7 @@
+{
+    "name": "Electric 240 UK",
+    "item_type": "input",
+    "variants": {
+        "default": "electric240_uk_electric240UK.png"
+    }
+}

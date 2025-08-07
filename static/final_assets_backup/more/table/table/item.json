@@ -1,0 +1,9 @@
+{
+    "name": "Table",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "TableLA.png",
+        "RA": "TableRA.png",
+        "default": "Table.png"
+    }
+}

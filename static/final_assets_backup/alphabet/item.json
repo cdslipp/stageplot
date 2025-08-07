@@ -1,0 +1,10 @@
+{
+    "name": "",
+    "item_type": "symbol",
+    "variants": {
+        "L": "L.png",
+        "B": "B.png",
+        "A": "A.png",
+        "R": "R.png"
+    }
+}

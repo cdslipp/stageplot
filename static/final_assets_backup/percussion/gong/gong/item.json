@@ -1,0 +1,14 @@
+{
+    "name": "Gong",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "gongRA.png",
+        "RB": "gongRB.png",
+        "default": "gong.png",
+        "L": "gongL.png",
+        "LB": "gongLB.png",
+        "LA": "gongLA.png",
+        "B": "gongB.png",
+        "R": "gongR.png"
+    }
+}

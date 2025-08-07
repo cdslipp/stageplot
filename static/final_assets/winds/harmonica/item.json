@@ -1,0 +1,14 @@
+{
+    "name": "Harmonica",
+    "item_type": "accessory",
+    "variants": {
+        "L": "harmonicaL.png",
+        "default": "harmonica.png",
+        "LA": "harmonicaLA.png",
+        "LB": "harmonicaLB.png",
+        "R": "harmonicaR.png",
+        "RB": "harmonicaRB.png",
+        "B": "harmonicaB.png",
+        "RA": "harmonicaRA.png"
+    }
+}

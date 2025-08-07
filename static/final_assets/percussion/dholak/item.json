@@ -1,0 +1,11 @@
+{
+    "name": "Dholak",
+    "item_type": "accessory",
+    "variants": {
+        "L": "dholakL.png",
+        "default": "dholak.png",
+        "RA": "dholakRA.png",
+        "LA": "dholakLA.png",
+        "R": "dholakR.png"
+    }
+}

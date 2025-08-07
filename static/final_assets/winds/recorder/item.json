@@ -1,0 +1,11 @@
+{
+    "name": "Recorder",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "recorderRA.png",
+        "R": "recorderR.png",
+        "default": "recorder.png",
+        "LA": "recorderLA.png",
+        "L": "recorderL.png"
+    }
+}

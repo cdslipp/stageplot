@@ -1,0 +1,7 @@
+{
+    "name": "Three",
+    "item_type": "symbol",
+    "variants": {
+        "default": "three.png"
+    }
+}

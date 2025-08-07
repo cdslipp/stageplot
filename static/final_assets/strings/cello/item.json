@@ -1,0 +1,7 @@
+{
+    "name": "Cello",
+    "item_type": "accessory",
+    "variants": {
+        "default": "cello.png"
+    }
+}

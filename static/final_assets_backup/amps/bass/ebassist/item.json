@@ -1,0 +1,14 @@
+{
+    "name": "Ebassist",
+    "item_type": "output",
+    "variants": {
+        "LB": "ebassistLB.png",
+        "LA": "ebassistLA.png",
+        "RA": "ebassistRA.png",
+        "RB": "ebassistRB.png",
+        "L": "ebassistL.png",
+        "default": "ebassist.png",
+        "R": "ebassistR.png",
+        "B": "ebassistB.png"
+    }
+}

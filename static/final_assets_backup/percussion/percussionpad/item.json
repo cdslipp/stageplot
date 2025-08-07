@@ -1,0 +1,11 @@
+{
+    "name": "Percussionpad",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "percussionpadRA.png",
+        "L": "percussionpadL.png",
+        "LA": "percussionpadLA.png",
+        "default": "percussionpad.png",
+        "R": "percussionpadR.png"
+    }
+}

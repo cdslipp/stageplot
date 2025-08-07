@@ -1,0 +1,7 @@
+{
+    "name": "Curtainold",
+    "item_type": "symbol",
+    "variants": {
+        "default": "curtainold.png"
+    }
+}

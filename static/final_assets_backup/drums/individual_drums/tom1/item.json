@@ -1,0 +1,7 @@
+{
+    "name": "Tom1",
+    "item_type": "accessory",
+    "variants": {
+        "default": "tom1.png"
+    }
+}

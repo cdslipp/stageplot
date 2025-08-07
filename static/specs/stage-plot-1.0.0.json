@@ -1,0 +1,182 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/stage-plot-1.0.0.json",
+  "title": "StagePlot",
+  "description": "Standardized stage plot format with item positioning - Version 1.0.0",
+  "type": "object",
+  "required": ["version", "type", "plot_name", "canvas", "stage", "items"],
+  "properties": {
+    "version": { 
+      "type": "string",
+      "description": "Schema version (e.g., 1.0.0)",
+      "pattern": "^(0|[1-9]\\d*)\\.(0|[1-9]\\d*)\\.(0|[1-9]\\d*)(?:-((?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\\.(?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\\+([0-9a-zA-Z-]+(?:\\.[0-9a-zA-Z-]+)*))?$"
+    },
+    "type": { 
+      "type": "string",
+      "enum": ["stage_plot"],
+      "description": "Document type identifier"
+    },
+    "plot_name": { 
+      "type": "string",
+      "description": "Name of the stage plot (typically band name)"
+    },
+    "revision_date": { 
+      "type": "string", 
+      "format": "date",
+      "description": "Date when the plot was last modified"
+    },
+    "canvas": {
+      "type": "object",
+      "description": "Canvas (paper) format and dimensions",
+      "properties": {
+        "format": { 
+          "type": "string", 
+          "enum": ["letter"],
+          "description": "Paper format (letter=8.5x11 inches)"
+        },
+        "orientation": { 
+          "type": "string", 
+          "enum": ["landscape", "portrait"],
+          "description": "Paper orientation"
+        },
+        "width": { 
+          "type": "number", 
+          "description": "Canvas width in pixels (read-only, derived from format)"
+        },
+        "height": { 
+          "type": "number", 
+          "description": "Canvas height in pixels (read-only, derived from format)"
+        },
+        "dpi": { 
+          "type": "number", 
+          "default": 96,
+          "description": "Dots per inch for pixel calculations"
+        }
+      },
+      "required": ["format", "orientation", "width", "height"]
+    },
+    "stage": {
+      "type": "object",
+      "description": "Stage area within the canvas",
+      "properties": {
+        "x": { 
+          "type": "number", 
+          "description": "Stage area X offset from canvas origin"
+        },
+        "y": { 
+          "type": "number", 
+          "description": "Stage area Y offset from canvas origin"
+        },
+        "width": { 
+          "type": "number", 
+          "minimum": 100,
+          "description": "Stage area width in pixels"
+        },
+        "height": { 
+          "type": "number", 
+          "minimum": 100,
+          "description": "Stage area height in pixels"
+        },
+        "margins": {
+          "type": "object",
+          "description": "Margins around stage area for titles, legends, etc.",
+          "properties": {
+            "top": { "type": "number", "default": 50 },
+            "right": { "type": "number", "default": 50 },
+            "bottom": { "type": "number", "default": 100 },
+            "left": { "type": "number", "default": 50 }
+          }
+        }
+      },
+      "required": ["x", "y", "width", "height"]
+    },
+    "items": {
+      "type": "array",
+      "description": "Items placed on the stage plot",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "type", "position"],
+        "properties": {
+          "id": { 
+            "type": "integer", 
+            "description": "Unique identifier for the item"
+          },
+          "name": { 
+            "type": "string",
+            "description": "Display name for the item"
+          },
+          "type": { 
+            "type": "string",
+            "description": "Item type/category (e.g., 'egt', 'drum', 'mic')"
+          },
+          "category": { 
+            "type": "string",
+            "description": "Item category for grouping"
+          },
+          "currentVariant": { 
+            "type": "string",
+            "description": "Current visual variant of the item"
+          },
+          "position": {
+            "type": "object",
+            "description": "Item position and dimensions on canvas",
+            "required": ["x", "y", "width", "height"],
+            "properties": {
+              "x": { "type": "number", "description": "X coordinate within stage area" },
+              "y": { "type": "number", "description": "Y coordinate within stage area" },
+              "width": { "type": "number", "minimum": 1 },
+              "height": { "type": "number", "minimum": 1 },
+              "zone": { 
+                "type": "string",
+                "enum": ["DSL", "DSC", "DSR", "USL", "USC", "USR"],
+                "description": "Stage zone where item is positioned"
+              },
+              "relativeX": { 
+                "type": "number",
+                "description": "X position relative to downstage center edge"
+              },
+              "relativeY": { 
+                "type": "number",
+                "description": "Y position relative to downstage edge"
+              }
+            }
+          },
+          "channel": { 
+            "type": "string",
+            "description": "Audio channel assignment"
+          },
+          "musician": { 
+            "type": "string",
+            "description": "Assigned musician name"
+          },
+          "itemData": {
+            "type": "object",
+            "description": "Original item metadata from catalog",
+            "additionalProperties": true
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "musicians": {
+      "type": "array",
+      "description": "List of musicians associated with the stage plot",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "instrument"],
+        "properties": {
+          "id": { "type": "integer" },
+          "name": { "type": "string" },
+          "instrument": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional metadata for the stage plot",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

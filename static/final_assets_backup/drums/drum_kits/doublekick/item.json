@@ -1,0 +1,11 @@
+{
+    "name": "Doublekick",
+    "item_type": "drumset",
+    "variants": {
+        "RA": "doublekickRA.png",
+        "L": "doublekickL.png",
+        "LA": "doublekickLA.png",
+        "default": "doublekick.png",
+        "R": "doublekickR.png"
+    }
+}

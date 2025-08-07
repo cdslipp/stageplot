@@ -1,0 +1,7 @@
+{
+    "name": "Dhumbuk",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Dhumbuk.png"
+    }
+}

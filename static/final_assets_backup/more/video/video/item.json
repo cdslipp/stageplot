@@ -1,0 +1,7 @@
+{
+    "name": "Video",
+    "item_type": "accessory",
+    "variants": {
+        "default": "video.png"
+    }
+}

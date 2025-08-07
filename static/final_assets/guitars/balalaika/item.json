@@ -1,0 +1,8 @@
+{
+    "name": "Balalaika",
+    "item_type": "accessory",
+    "variants": {
+        "default": "balalaika.png",
+        "RA": "balalaikaRA.png"
+    }
+}

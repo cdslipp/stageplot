@@ -1,0 +1,3015 @@
+[
+  {
+    "name": "Steel",
+    "item_type": "output",
+    "variants": {
+      "R": "SteelR.png",
+      "LA": "SteelLA.png",
+      "RA": "SteelRA.png",
+      "default": "Steel.png",
+      "L": "SteelL.png"
+    },
+    "path": "amps/steel/steel"
+  },
+  {
+    "name": "Steelpan",
+    "item_type": "output",
+    "variants": {
+      "LA": "steelpanLA.png",
+      "LB": "steelpanLB.png",
+      "B": "steelpanB.png",
+      "R": "steelpanR.png",
+      "RB": "steelpanRB.png",
+      "RA": "steelpanRA.png",
+      "default": "steelpan.png",
+      "L": "steelpanL.png"
+    },
+    "path": "amps/steel/steelpan"
+  },
+  {
+    "name": "Lapsteel",
+    "item_type": "output",
+    "variants": {
+      "default": "lapsteel.png",
+      "L": "lapsteelL.png",
+      "RA": "lapsteelRA.png",
+      "LA": "lapsteelLA.png",
+      "R": "lapsteelR.png"
+    },
+    "path": "amps/steel/lapsteel"
+  },
+  {
+    "name": "Standwlamp",
+    "item_type": "output",
+    "variants": {
+      "L": "standwlampL.png",
+      "RA": "standwlampRA.png",
+      "RB": "standwlampRB.png",
+      "R": "standwlampR.png",
+      "default": "standwlamp.png",
+      "B": "standwlampB.png",
+      "LB": "standwlampLB.png",
+      "LA": "standwlampLA.png"
+    },
+    "path": "amps/guitar/standwlamp"
+  },
+  {
+    "name": "Marshallhead",
+    "item_type": "output",
+    "variants": {
+      "default": "marshallhead.png"
+    },
+    "path": "amps/guitar/marshallhead"
+  },
+  {
+    "name": "Standw2 Lamps",
+    "item_type": "output",
+    "variants": {
+      "R": "standw2lampsR.png",
+      "B": "standw2lampsB.png",
+      "default": "standw2lamps.png",
+      "RA": "standw2lampsRA.png",
+      "RB": "standw2lampsRB.png",
+      "L": "standw2lampsL.png",
+      "LB": "standw2lampsLB.png",
+      "LA": "standw2lampsLA.png"
+    },
+    "path": "amps/guitar/standw2_lamps"
+  },
+  {
+    "name": "Fenderampback",
+    "item_type": "output",
+    "variants": {
+      "default": "FenderAmpBack.png"
+    },
+    "path": "amps/guitar/fenderampback"
+  },
+  {
+    "name": "Vox",
+    "item_type": "output",
+    "variants": {
+      "B": "voxB.png",
+      "R": "voxR.png",
+      "default": "vox.png",
+      "RA": "voxRA.png",
+      "LA": "voxLA.png",
+      "L": "voxL.png"
+    },
+    "path": "amps/guitar/vox"
+  },
+  {
+    "name": "Sampler",
+    "item_type": "output",
+    "variants": {
+      "default": "sampler.png"
+    },
+    "path": "amps/guitar/sampler"
+  },
+  {
+    "name": "Ampeg",
+    "item_type": "output",
+    "variants": {
+      "LA": "AmpegLA.png",
+      "RA": "AmpegRA.png",
+      "R": "AmpegR.png",
+      "L": "AmpegL.png",
+      "default": "Ampeg.png"
+    },
+    "path": "amps/guitar/ampeg"
+  },
+  {
+    "name": "Keyamp",
+    "item_type": "output",
+    "variants": {
+      "RA": "keyampRA.png",
+      "LA": "keyampLA.png",
+      "default": "keyamp.png"
+    },
+    "path": "amps/guitar/keyamp"
+  },
+  {
+    "name": "Guitaronstand",
+    "item_type": "output",
+    "variants": {
+      "R": "guitaronstandR.png",
+      "L": "guitaronstandL.png",
+      "LA": "guitaronstandLA.png",
+      "default": "guitaronstand.png",
+      "RA": "guitaronstandRA.png"
+    },
+    "path": "amps/guitar/guitaronstand"
+  },
+  {
+    "name": "Nashville Amp",
+    "item_type": "output",
+    "variants": {
+      "default": "nashville.png",
+      "back": "nashvilleback.png",
+      "L": "NashvilleL.png",
+      "R": "NashvilleR.png",
+      "LA": "nashvilleLA.png",
+      "RA": "nashvilleRA.png"
+    },
+    "path": "amps/guitar/nashville_amp"
+  },
+  {
+    "name": "Marshallcabs",
+    "item_type": "output",
+    "variants": {
+      "default": "MarshallCabs.png"
+    },
+    "path": "amps/guitar/marshallcabs"
+  },
+  {
+    "name": "Fender Amp",
+    "item_type": "output",
+    "variants": {
+      "default": "FenderAmp.png",
+      "back": "FenderAmpBack.png",
+      "R": "FenderAmpR.png",
+      "RA": "FenderAmpRA.png",
+      "L": "FenderAmpL.png",
+      "LA": "FenderAmpLA.png"
+    },
+    "path": "amps/guitar/fender_amp"
+  },
+  {
+    "name": "Electricguitar",
+    "item_type": "output",
+    "variants": {
+      "default": "electricguitar.png"
+    },
+    "path": "amps/guitar/electricguitar"
+  },
+  {
+    "name": "Marshall Amp",
+    "item_type": "output",
+    "variants": {
+      "default": "marshall.png",
+      "back": "marshallback.png",
+      "R": "marshallR.png",
+      "LA": "marshallLA.png",
+      "L": "marshallL.png",
+      "RA": "marshallRA.png"
+    },
+    "path": "amps/guitar/marshall_amp"
+  },
+  {
+    "name": "Marshall412 A",
+    "item_type": "output",
+    "variants": {
+      "R": "Marshall412AR.png",
+      "LA": "Marshall412ALA.png",
+      "L": "Marshall412AL.png",
+      "RA": "Marshall412ARA.png"
+    },
+    "path": "amps/guitar/marshall412_a"
+  },
+  {
+    "name": "Marshall412",
+    "item_type": "output",
+    "variants": {
+      "A": "Marshall412A.png"
+    },
+    "path": "amps/guitar/marshall412"
+  },
+  {
+    "name": "Bassamp",
+    "item_type": "output",
+    "variants": {
+      "L": "BassAmpL.png",
+      "RA": "BassAmpRA.png",
+      "LA": "BassAmpLA.png",
+      "R": "BassAmpR.png",
+      "default": "BassAmp.png"
+    },
+    "path": "amps/bass/bassamp"
+  },
+  {
+    "name": "Blondebassman",
+    "item_type": "output",
+    "variants": {
+      "L": "BlondeBassmanL.png",
+      "default": "BlondeBassman.png",
+      "R": "BlondeBassmanR.png",
+      "RA": "BlondeBassmanRA.png",
+      "LA": "BlondeBassmanLA.png"
+    },
+    "path": "amps/bass/blondebassman"
+  },
+  {
+    "name": "Bassampback",
+    "item_type": "output",
+    "variants": {
+      "default": "BassAmpBack.png"
+    },
+    "path": "amps/bass/bassampback"
+  },
+  {
+    "name": "Cello",
+    "item_type": "accessory",
+    "variants": {
+      "default": "cello.png"
+    },
+    "path": "strings/cello"
+  },
+  {
+    "name": "Violin",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Violin.png"
+    },
+    "path": "strings/violin/violin"
+  },
+  {
+    "name": "Violinist",
+    "item_type": "accessory",
+    "variants": {
+      "R": "violinistR.png",
+      "B": "violinistB.png",
+      "RA": "violinistRA.png",
+      "RB": "violinistRB.png",
+      "LB": "violinistLB.png",
+      "LA": "violinistLA.png",
+      "L": "violinistL.png",
+      "default": "violinist.png"
+    },
+    "path": "strings/violin/violinist"
+  },
+  {
+    "name": "Harp",
+    "item_type": "accessory",
+    "variants": {
+      "L": "harpL.png",
+      "LA": "harpLA.png",
+      "R": "harpR.png",
+      "default": "harp.png",
+      "RA": "harpRA.png"
+    },
+    "path": "strings/harp"
+  },
+  {
+    "name": "Viola",
+    "item_type": "accessory",
+    "variants": {
+      "default": "viola.png"
+    },
+    "path": "strings/viola"
+  },
+  {
+    "name": "Electric 4",
+    "item_type": "input",
+    "variants": {
+      "default": "electric4.png"
+    },
+    "path": "ac/electric/electric4"
+  },
+  {
+    "name": "Electric 240 UK 4",
+    "item_type": "input",
+    "variants": {
+      "default": "electric240_uk4_electric240UK4.png"
+    },
+    "path": "ac/electric/electric240_uk4"
+  },
+  {
+    "name": "Electric",
+    "item_type": "input",
+    "variants": {
+      "default": "electric.png"
+    },
+    "path": "ac/electric/electric"
+  },
+  {
+    "name": "Electric 240 UK",
+    "item_type": "input",
+    "variants": {
+      "default": "electric240_uk_electric240UK.png"
+    },
+    "path": "ac/electric/electric240_uk"
+  },
+  {
+    "name": "Curtainold",
+    "item_type": "symbol",
+    "variants": {
+      "default": "curtainold.png"
+    },
+    "path": "stagecraft/curtain"
+  },
+  {
+    "name": "Curtainold",
+    "item_type": "symbol",
+    "variants": {
+      "default": "curtainold.png"
+    },
+    "path": "stagecraft/curtain/curtainold"
+  },
+  {
+    "name": "Projector Stage",
+    "item_type": "symbol",
+    "variants": {
+      "default": "projector_stage.png"
+    },
+    "path": "stagecraft/stage/projector_stage"
+  },
+  {
+    "name": "Stagebox8",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stagebox8.png"
+    },
+    "path": "stagecraft/stage/stagebox8"
+  },
+  {
+    "name": "Stagebox16",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stagebox16.png"
+    },
+    "path": "stagecraft/stage/stagebox16"
+  },
+  {
+    "name": "Stageplotprologo",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stageplotprologo.png"
+    },
+    "path": "stagecraft/stage/stageplotprologo"
+  },
+  {
+    "name": "Stageplotproleft",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stageplotproleft.png"
+    },
+    "path": "stagecraft/stage/stageplotproleft"
+  },
+  {
+    "name": "Nordstage88",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "NordStage88LA.png",
+      "LB": "NordStage88LB.png",
+      "RB": "NordStage88RB.png",
+      "default": "NordStage88.png",
+      "RA": "NordStage88RA.png",
+      "L": "NordStage88L.png",
+      "B": "NordStage88B.png",
+      "R": "NordStage88R.png"
+    },
+    "path": "stagecraft/stage/nordstage88"
+  },
+  {
+    "name": "Stagebox24",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stagebox24.png"
+    },
+    "path": "stagecraft/stage/stagebox24"
+  },
+  {
+    "name": "Stagebox12",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stagebox12.png"
+    },
+    "path": "stagecraft/stage/stagebox12"
+  },
+  {
+    "name": "Stagedgef",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stagedgeF.png"
+    },
+    "path": "stagecraft/stage/stagedgef"
+  },
+  {
+    "name": "Stagedge",
+    "item_type": "symbol",
+    "variants": {
+      "L": "stagedgeL.png"
+    },
+    "path": "stagecraft/stage/stagedge"
+  },
+  {
+    "name": "Stagefront",
+    "item_type": "symbol",
+    "variants": {
+      "default": "stagefront.png"
+    },
+    "path": "stagecraft/stage/stagefront"
+  },
+  {
+    "name": "Riserfront",
+    "item_type": "symbol",
+    "variants": {
+      "RA": "riserfrontRA.png",
+      "B": "riserfrontB.png",
+      "default": "riserfront.png"
+    },
+    "path": "stagecraft/riser/riserfront"
+  },
+  {
+    "name": "Choralriser8",
+    "item_type": "accessory",
+    "variants": {
+      "default": "choralriser8.png",
+      "L": "choralriser8L.png",
+      "R": "choralriser8R.png",
+      "LA": "choralriser8LA.png",
+      "RA": "choralriser8RA.png"
+    },
+    "path": "stagecraft/riser/choralriser8"
+  },
+  {
+    "name": "Choralriser6",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "choralriser6RA.png",
+      "R": "choralriser6R.png",
+      "LA": "choralriser6LA.png",
+      "L": "choralriser6L.png",
+      "default": "choralriser6.png"
+    },
+    "path": "stagecraft/riser/choralriser6"
+  },
+  {
+    "name": "Choralriser2",
+    "item_type": "accessory",
+    "variants": {
+      "L": "choralriser2L.png",
+      "RA": "choralriser2RA.png",
+      "LA": "choralriser2LA.png",
+      "default": "choralriser2.png",
+      "R": "choralriser2R.png"
+    },
+    "path": "stagecraft/riser/choralriser2"
+  },
+  {
+    "name": "Choralriser3",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "choralriser3LA.png",
+      "L": "choralriser3L.png",
+      "RA": "choralriser3RA.png",
+      "default": "choralriser3.png",
+      "R": "choralriser3R.png"
+    },
+    "path": "stagecraft/riser/choralriser3"
+  },
+  {
+    "name": "Subwoofer",
+    "item_type": "output",
+    "variants": {
+      "default": "Subwoofer.png"
+    },
+    "path": "stagecraft/subwoofer"
+  },
+  {
+    "name": "Stairs",
+    "item_type": "symbol",
+    "variants": {
+      "R": "stairsR.png",
+      "back": "stairsback.png",
+      "L": "stairsL.png",
+      "default": "stairs.png"
+    },
+    "path": "stagecraft/stairs"
+  },
+  {
+    "name": "Headsetmic",
+    "item_type": "accessory",
+    "variants": {
+      "R": "headsetmicR.png",
+      "L": "headsetmicL.png",
+      "LA": "headsetmicLA.png",
+      "default": "headsetmic.png",
+      "RA": "headsetmicRA.png"
+    },
+    "path": "mics/headset"
+  },
+  {
+    "name": "Headsetmic",
+    "item_type": "accessory",
+    "variants": {
+      "R": "headsetmicR.png",
+      "L": "headsetmicL.png",
+      "LA": "headsetmicLA.png",
+      "default": "headsetmic.png",
+      "RA": "headsetmicRA.png"
+    },
+    "path": "mics/headset/headsetmic"
+  },
+  {
+    "name": "Straight Vocal",
+    "item_type": "accessory",
+    "variants": {
+      "R": "Straight_VocalR.png",
+      "default": "Straight_Vocal.png",
+      "RA": "Straight_VocalRA.png",
+      "LA": "Straight_VocalLA.png",
+      "L": "Straight_VocalL.png"
+    },
+    "path": "mics/straight/straight_vocal"
+  },
+  {
+    "name": "Straight Short",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Straight_short.png",
+      "LA": "Straight_shortLA.png",
+      "RA": "Straight_shortRA.png",
+      "L": "Straight_shortL.png",
+      "R": "Straight_shortR.png"
+    },
+    "path": "mics/straight/straight_short"
+  },
+  {
+    "name": "Straight Shortback",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Straight_shortBack.png"
+    },
+    "path": "mics/straight/straight_shortback"
+  },
+  {
+    "name": "Standstraight No- Mic",
+    "item_type": "stand",
+    "variants": {
+      "default": "standstraight_no-mic.png"
+    },
+    "path": "mics/straight/standstraight_no-_mic"
+  },
+  {
+    "name": "Wired Mic",
+    "item_type": "input",
+    "variants": {
+      "default": "wired_mic.png"
+    },
+    "path": "mics/hand_held/wired_mic"
+  },
+  {
+    "name": "Wireless Mic",
+    "item_type": "input",
+    "variants": {
+      "default": "wireless_mic.png"
+    },
+    "path": "mics/hand_held/wireless_mic"
+  },
+  {
+    "name": "Boomrshort",
+    "item_type": "accessory",
+    "variants": {
+      "R": "BoomRshortR.png",
+      "default": "BoomRshort.png",
+      "RA": "BoomRshortRA.png",
+      "L": "BoomRshortL.png",
+      "LA": "BoomRshortLA.png"
+    },
+    "path": "mics/boom/boomrshort"
+  },
+  {
+    "name": "Boomlshortback",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "BoomLshortBackLA.png",
+      "RA": "BoomLshortBackRA.png",
+      "default": "BoomLshortBack.png"
+    },
+    "path": "mics/boom/boomlshortback"
+  },
+  {
+    "name": "Boomlshort",
+    "item_type": "accessory",
+    "variants": {
+      "R": "BoomLshortR.png",
+      "default": "BoomLshort.png",
+      "RA": "BoomLshortRA.png",
+      "L": "BoomLshortL.png",
+      "LA": "BoomLshortLA.png"
+    },
+    "path": "mics/boom/boomlshort"
+  },
+  {
+    "name": "Boomrshortback",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "BoomRshortBackLA.png",
+      "default": "BoomRshortBack.png",
+      "RA": "BoomRshortBackRA.png"
+    },
+    "path": "mics/boom/boomrshortback"
+  },
+  {
+    "name": "Boom57",
+    "item_type": "input",
+    "variants": {
+      "L": "Boom57L.png",
+      "default": "Boom57.png",
+      "RA": "Boom57RA.png",
+      "LA": "Boom57LA.png",
+      "R": "Boom57R.png",
+      "back": "Boom57Back.png",
+      "backRA": "Boom57BackRA.png",
+      "backLA": "Boom57BackLA.png"
+    },
+    "path": "mics/boom/boom57"
+  },
+  {
+    "name": "Cymbal",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "cymbalRA.png",
+      "LA": "cymbalLA.png",
+      "default": "cymbal.png"
+    },
+    "path": "drums/cymbals/cymbal"
+  },
+  {
+    "name": "Hihat",
+    "item_type": "accessory",
+    "variants": {
+      "default": "hihat.png"
+    },
+    "path": "drums/hardware/hihat"
+  },
+  {
+    "name": "Drummat",
+    "item_type": "accessory",
+    "variants": {
+      "default": "drummat.png"
+    },
+    "path": "drums/hardware/drummat"
+  },
+  {
+    "name": "Ride",
+    "item_type": "accessory",
+    "variants": {
+      "default": "ride.png"
+    },
+    "path": "drums/hardware/ride"
+  },
+  {
+    "name": "Crash",
+    "item_type": "accessory",
+    "variants": {
+      "default": "crash.png"
+    },
+    "path": "drums/hardware/crash"
+  },
+  {
+    "name": "Throne",
+    "item_type": "accessory",
+    "variants": {
+      "default": "throne.png"
+    },
+    "path": "drums/hardware/throne"
+  },
+  {
+    "name": "Drumshield Three",
+    "item_type": "accessory",
+    "variants": {
+      "default": "drumshield_three.png"
+    },
+    "path": "drums/hardware/drumshield_three"
+  },
+  {
+    "name": "Bassdrum",
+    "item_type": "accessory",
+    "variants": {
+      "R": "BassdrumR.png",
+      "B": "BassdrumB.png",
+      "default": "Bassdrum.png",
+      "LA": "BassdrumLA.png",
+      "LB": "BassdrumLB.png",
+      "RB": "BassdrumRB.png",
+      "L": "BassdrumL.png",
+      "RA": "BassdrumRA.png"
+    },
+    "path": "drums/hardware/bassdrum"
+  },
+  {
+    "name": "Cowbell",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Cowbell.png"
+    },
+    "path": "drums/hardware/cowbell"
+  },
+  {
+    "name": "Drumshield Two",
+    "item_type": "accessory",
+    "variants": {
+      "default": "drumshield_two.png"
+    },
+    "path": "drums/hardware/drumshield_two"
+  },
+  {
+    "name": "Drumshield One",
+    "item_type": "accessory",
+    "variants": {
+      "default": "drumshield_one.png"
+    },
+    "path": "drums/hardware/drumshield_one"
+  },
+  {
+    "name": "Edrums",
+    "item_type": "input",
+    "variants": {
+      "LA": "edrumsLA.png",
+      "default": "edrums.png",
+      "RA": "edrumsRA.png",
+      "L": "edrumsL.png",
+      "R": "edrumsR.png"
+    },
+    "path": "drums/drum_kits/edrums"
+  },
+  {
+    "name": "Rototomset",
+    "item_type": "input",
+    "variants": {
+      "default": "rototomset.png",
+      "L": "rototomsetL.png",
+      "RA": "rototomsetRA.png",
+      "LA": "rototomsetLA.png",
+      "R": "rototomsetR.png"
+    },
+    "path": "drums/drum_kits/rototomset"
+  },
+  {
+    "name": "Doublekick",
+    "item_type": "input",
+    "variants": {
+      "RA": "doublekickRA.png",
+      "L": "doublekickL.png",
+      "LA": "doublekickLA.png",
+      "default": "doublekick.png",
+      "R": "doublekickR.png"
+    },
+    "path": "drums/drum_kits/doublekick"
+  },
+  {
+    "name": "Twotoms",
+    "item_type": "input",
+    "variants": {
+      "RA": "TwoTomsRA.png",
+      "L": "TwoTomsL.png",
+      "LA": "TwoTomsLA.png",
+      "default": "TwoToms.png",
+      "R": "TwoTomsR.png"
+    },
+    "path": "drums/drum_kits/twotoms"
+  },
+  {
+    "name": "Fourtoms",
+    "item_type": "input",
+    "variants": {
+      "R": "FourTomsR.png",
+      "LA": "FourTomsLA.png",
+      "L": "FourTomsL.png",
+      "default": "FourToms.png",
+      "RA": "FourTomsRA.png"
+    },
+    "path": "drums/drum_kits/fourtoms"
+  },
+  {
+    "name": "Drum Kit - Three Toms",
+    "item_type": "drumset",
+    "default_inputs": [
+      {
+        "ch": 1,
+        "name": "Kick In",
+        "short": "Kick In",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 2,
+        "name": "Kick Out",
+        "short": "Kick Out",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 3,
+        "name": "Snare Top",
+        "short": "Sn Top",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 4,
+        "name": "Snare Bottom",
+        "short": "Sn Bot",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 5,
+        "name": "Hi-Hat",
+        "short": "HH",
+        "position": "DSC",
+        "48V": true
+      },
+      {
+        "ch": 6,
+        "name": "Tom 1",
+        "short": "T1",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 7,
+        "name": "Tom 2",
+        "short": "T2",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 8,
+        "name": "Tom 3",
+        "short": "T3",
+        "position": "DSC",
+        "48V": false
+      },
+      {
+        "ch": 9,
+        "name": "Overhead L",
+        "short": "OH L",
+        "position": "USC",
+        "48V": true
+      },
+      {
+        "ch": 10,
+        "name": "Overhead R",
+        "short": "OH R",
+        "position": "USC",
+        "48V": true
+      }
+    ],
+    "variants": {
+      "L": "ThreeTomsL.png",
+      "default": "ThreeToms.png",
+      "R": "ThreeTomsR.png",
+      "RA": "ThreeTomsRA.png",
+      "LA": "ThreeTomsLA.png"
+    },
+    "path": "drums/drum_kits/threetoms"
+  },
+  {
+    "name": "Zx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "ZX.png"
+    },
+    "path": "alphabet/zx"
+  },
+  {
+    "name": "Px",
+    "item_type": "symbol",
+    "variants": {
+      "default": "PX.png"
+    },
+    "path": "alphabet/px"
+  },
+  {
+    "name": "Yx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "YX.png"
+    },
+    "path": "alphabet/yx"
+  },
+  {
+    "name": "Sx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "SX.png"
+    },
+    "path": "alphabet/sx"
+  },
+  {
+    "name": "Ax",
+    "item_type": "symbol",
+    "variants": {
+      "default": "AX.png"
+    },
+    "path": "alphabet/ax"
+  },
+  {
+    "name": "Kx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "KX.png"
+    },
+    "path": "alphabet/kx"
+  },
+  {
+    "name": "Bx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "BX.png"
+    },
+    "path": "alphabet/bx"
+  },
+  {
+    "name": "Bee",
+    "item_type": "symbol",
+    "variants": {
+      "default": "bee.png"
+    },
+    "path": "alphabet/bee"
+  },
+  {
+    "name": "Hx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "HX.png"
+    },
+    "path": "alphabet/hx"
+  },
+  {
+    "name": "Fx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "FX.png"
+    },
+    "path": "alphabet/fx"
+  },
+  {
+    "name": "Lx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "LX.png"
+    },
+    "path": "alphabet/lx"
+  },
+  {
+    "name": "Ex",
+    "item_type": "symbol",
+    "variants": {
+      "default": "EX.png"
+    },
+    "path": "alphabet/ex"
+  },
+  {
+    "name": "Drum",
+    "item_type": "symbol",
+    "variants": {
+      "default": "Drum.png"
+    },
+    "path": "alphabet/drum"
+  },
+  {
+    "name": "Ox",
+    "item_type": "symbol",
+    "variants": {
+      "default": "OX.png"
+    },
+    "path": "alphabet/ox"
+  },
+  {
+    "name": "R",
+    "item_type": "symbol",
+    "variants": {
+      "default": "R.png"
+    },
+    "path": "alphabet/R"
+  },
+  {
+    "name": "U",
+    "item_type": "symbol",
+    "variants": {
+      "default": "U.png"
+    },
+    "path": "alphabet/u"
+  },
+  {
+    "name": "I",
+    "item_type": "symbol",
+    "variants": {
+      "default": "I.png"
+    },
+    "path": "alphabet/i"
+  },
+  {
+    "name": "N",
+    "item_type": "symbol",
+    "variants": {
+      "default": "N.png"
+    },
+    "path": "alphabet/n"
+  },
+  {
+    "name": "G",
+    "item_type": "symbol",
+    "variants": {
+      "default": "G.png"
+    },
+    "path": "alphabet/g"
+  },
+  {
+    "name": "Wx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "WX.png"
+    },
+    "path": "alphabet/wx"
+  },
+  {
+    "name": "Z",
+    "item_type": "symbol",
+    "variants": {
+      "default": "Z.png"
+    },
+    "path": "alphabet/z"
+  },
+  {
+    "name": "T",
+    "item_type": "symbol",
+    "variants": {
+      "default": "T.png"
+    },
+    "path": "alphabet/t"
+  },
+  {
+    "name": "S",
+    "item_type": "symbol",
+    "variants": {
+      "default": "S.png"
+    },
+    "path": "alphabet/s"
+  },
+  {
+    "name": "A",
+    "item_type": "symbol",
+    "variants": {
+      "default": "A.png"
+    },
+    "path": "alphabet/A"
+  },
+  {
+    "name": "F",
+    "item_type": "symbol",
+    "variants": {
+      "default": "F.png"
+    },
+    "path": "alphabet/f"
+  },
+  {
+    "name": "O",
+    "item_type": "symbol",
+    "variants": {
+      "default": "O.png"
+    },
+    "path": "alphabet/o"
+  },
+  {
+    "name": "H",
+    "item_type": "symbol",
+    "variants": {
+      "default": "H.png"
+    },
+    "path": "alphabet/h"
+  },
+  {
+    "name": "Tx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "TX.png"
+    },
+    "path": "alphabet/tx"
+  },
+  {
+    "name": "Ux",
+    "item_type": "symbol",
+    "variants": {
+      "default": "UX.png"
+    },
+    "path": "alphabet/ux"
+  },
+  {
+    "name": "Vx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "VX.png"
+    },
+    "path": "alphabet/vx"
+  },
+  {
+    "name": "Dx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "DX.png"
+    },
+    "path": "alphabet/dx"
+  },
+  {
+    "name": "Nx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "NX.png"
+    },
+    "path": "alphabet/nx"
+  },
+  {
+    "name": "Gx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "GX.png"
+    },
+    "path": "alphabet/gx"
+  },
+  {
+    "name": "Mx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "MX.png"
+    },
+    "path": "alphabet/mx"
+  },
+  {
+    "name": "B0",
+    "item_type": "symbol",
+    "variants": {
+      "default": "B0.png"
+    },
+    "path": "alphabet/b0"
+  },
+  {
+    "name": "Cx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "CX.png"
+    },
+    "path": "alphabet/cx"
+  },
+  {
+    "name": "Ix",
+    "item_type": "symbol",
+    "variants": {
+      "default": "IX.png"
+    },
+    "path": "alphabet/ix"
+  },
+  {
+    "name": "Jx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "JX.png"
+    },
+    "path": "alphabet/jx"
+  },
+  {
+    "name": "M",
+    "item_type": "symbol",
+    "variants": {
+      "default": "M.png"
+    },
+    "path": "alphabet/m"
+  },
+  {
+    "name": "J",
+    "item_type": "symbol",
+    "variants": {
+      "default": "J.png"
+    },
+    "path": "alphabet/j"
+  },
+  {
+    "name": "C",
+    "item_type": "symbol",
+    "variants": {
+      "default": "C.png"
+    },
+    "path": "alphabet/c"
+  },
+  {
+    "name": "Xx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "XX.png"
+    },
+    "path": "alphabet/xx"
+  },
+  {
+    "name": "V",
+    "item_type": "symbol",
+    "variants": {
+      "default": "V.png"
+    },
+    "path": "alphabet/v"
+  },
+  {
+    "name": "Rx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "RX.png"
+    },
+    "path": "alphabet/rx"
+  },
+  {
+    "name": "Q",
+    "item_type": "symbol",
+    "variants": {
+      "default": "Q.png"
+    },
+    "path": "alphabet/q"
+  },
+  {
+    "name": "X",
+    "item_type": "symbol",
+    "variants": {
+      "default": "X.png"
+    },
+    "path": "alphabet/x"
+  },
+  {
+    "name": "E",
+    "item_type": "symbol",
+    "variants": {
+      "default": "E.png"
+    },
+    "path": "alphabet/e"
+  },
+  {
+    "name": "B",
+    "item_type": "symbol",
+    "variants": {
+      "default": "B.png"
+    },
+    "path": "alphabet/B"
+  },
+  {
+    "name": "K",
+    "item_type": "symbol",
+    "variants": {
+      "default": "K.png"
+    },
+    "path": "alphabet/k"
+  },
+  {
+    "name": "L",
+    "item_type": "symbol",
+    "variants": {
+      "default": "L.png"
+    },
+    "path": "alphabet/L"
+  },
+  {
+    "name": "Qx",
+    "item_type": "symbol",
+    "variants": {
+      "default": "QX.png"
+    },
+    "path": "alphabet/qx"
+  },
+  {
+    "name": "Y",
+    "item_type": "symbol",
+    "variants": {
+      "default": "Y.png"
+    },
+    "path": "alphabet/y"
+  },
+  {
+    "name": "P",
+    "item_type": "symbol",
+    "variants": {
+      "default": "P.png"
+    },
+    "path": "alphabet/p"
+  },
+  {
+    "name": "W",
+    "item_type": "symbol",
+    "variants": {
+      "default": "W.png"
+    },
+    "path": "alphabet/w"
+  },
+  {
+    "name": "Video",
+    "item_type": "accessory",
+    "variants": {
+      "default": "video.png"
+    },
+    "path": "more/video"
+  },
+  {
+    "name": "Adjy",
+    "item_type": "accessory",
+    "variants": {
+      "default": "adjy.png"
+    },
+    "path": "more/dj_gear/adjy"
+  },
+  {
+    "name": "Djsetup",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "DJsetupRA.png",
+      "RB": "DJsetupRB.png",
+      "default": "DJsetup.png",
+      "LB": "DJsetupLB.png",
+      "LA": "DJsetupLA.png",
+      "L": "DJsetupL.png",
+      "B": "DJsetupB.png",
+      "R": "DJsetupR.png"
+    },
+    "path": "more/dj_gear/djsetup"
+  },
+  {
+    "name": "Adjlw",
+    "item_type": "accessory",
+    "variants": {
+      "default": "adjlw.png"
+    },
+    "path": "more/dj_gear/adjlw"
+  },
+  {
+    "name": "Dj Setup",
+    "item_type": "accessory",
+    "variants": {
+      "LB": "dj_setupLB.png",
+      "LA": "dj_setupLA.png",
+      "L": "dj_setupL.png",
+      "RA": "dj_setupRA.png",
+      "RB": "dj_setupRB.png",
+      "B": "dj_setupB.png",
+      "default": "dj_setup.png",
+      "R": "dj_setupR.png"
+    },
+    "path": "more/dj_gear/dj_setup"
+  },
+  {
+    "name": "Djsetup3",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "DJsetup3RA.png",
+      "L": "DJsetup3L.png",
+      "LA": "DJsetup3LA.png",
+      "default": "DJsetup3.png",
+      "R": "DJsetup3R.png"
+    },
+    "path": "more/dj_gear/djsetup3"
+  },
+  {
+    "name": "Djm800",
+    "item_type": "accessory",
+    "variants": {
+      "L": "DJM800L.png",
+      "R": "DJM800R.png",
+      "LB": "DJM800LB.png",
+      "LA": "DJM800LA.png",
+      "B": "DJM800B.png",
+      "RA": "DJM800RA.png",
+      "default": "DJM800.png",
+      "RB": "DJM800RB.png"
+    },
+    "path": "more/dj_gear/djm800"
+  },
+  {
+    "name": "Adjrw",
+    "item_type": "accessory",
+    "variants": {
+      "default": "adjrw.png"
+    },
+    "path": "more/dj_gear/adjrw"
+  },
+  {
+    "name": "Djembe",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Djembe.png"
+    },
+    "path": "more/dj_gear/djembe"
+  },
+  {
+    "name": "Pioneercdj2000",
+    "item_type": "accessory",
+    "variants": {
+      "LB": "PioneerCDJ2000LB.png",
+      "LA": "PioneerCDJ2000LA.png",
+      "default": "PioneerCDJ2000.png",
+      "R": "PioneerCDJ2000R.png",
+      "RA": "PioneerCDJ2000RA.png",
+      "RB": "PioneerCDJ2000RB.png",
+      "B": "PioneerCDJ2000B.png",
+      "L": "PioneerCDJ2000L.png"
+    },
+    "path": "more/dj_gear/pioneercdj2000"
+  },
+  {
+    "name": "Podium",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "podiumLA.png",
+      "LB": "podiumLB.png",
+      "RB": "podiumRB.png",
+      "L": "podiumL.png",
+      "RA": "podiumRA.png",
+      "B": "podiumB.png",
+      "R": "podiumR.png",
+      "default": "podium.png"
+    },
+    "path": "more/podium/podium"
+  },
+  {
+    "name": "Podium Mic",
+    "item_type": "accessory",
+    "variants": {
+      "default": "podium_mic.png",
+      "RB": "podium_micRB.png",
+      "RA": "podium_micRA.png",
+      "LA": "podium_micLA.png",
+      "R": "podium_micR.png",
+      "LB": "podium_micLB.png",
+      "B": "podium_micB.png",
+      "L": "podium_micL.png"
+    },
+    "path": "more/podium/podium_mic"
+  },
+  {
+    "name": "Compressor",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Compressor.png"
+    },
+    "path": "more/compressor"
+  },
+  {
+    "name": "Sandbag",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "sandbagRA.png",
+      "L": "sandbagL.png",
+      "LA": "sandbagLA.png",
+      "default": "sandbag.png",
+      "R": "sandbagR.png"
+    },
+    "path": "more/sandbag"
+  },
+  {
+    "name": "Gobo",
+    "item_type": "accessory",
+    "variants": {
+      "L": "GoboL.png",
+      "R": "GoboR.png",
+      "B": "GoboB.png",
+      "LB": "GoboLB.png",
+      "LA": "GoboLA.png",
+      "RA": "GoboRA.png",
+      "RB": "GoboRB.png",
+      "default": "Gobo.png"
+    },
+    "path": "more/gobo"
+  },
+  {
+    "name": "Barstool",
+    "item_type": "accessory",
+    "variants": {
+      "R": "barstoolR.png",
+      "LA": "barstoolLA.png",
+      "RA": "barstoolRA.png",
+      "default": "barstool.png",
+      "L": "barstoolL.png"
+    },
+    "path": "more/furniture/stool/barstool"
+  },
+  {
+    "name": "Stool",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Stool.png",
+      "LA": "StoolLA.png",
+      "RA": "StoolRA.png"
+    },
+    "path": "more/furniture/stool/stool"
+  },
+  {
+    "name": "Chair",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "chairRA.png",
+      "back": "chairback.png",
+      "R": "chairR.png",
+      "LA": "chairLA.png",
+      "default": "chair.png",
+      "L": "chairL.png"
+    },
+    "path": "more/furniture/chair/chair"
+  },
+  {
+    "name": "Chairback",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "chairbackRA.png",
+      "LA": "chairbackLA.png"
+    },
+    "path": "more/furniture/chair/chairback"
+  },
+  {
+    "name": "Sofa",
+    "item_type": "accessory",
+    "variants": {
+      "LB": "sofaLB.png",
+      "LA": "sofaLA.png",
+      "R": "sofaR.png",
+      "RA": "sofaRA.png",
+      "B": "sofaB.png",
+      "RB": "sofaRB.png",
+      "default": "sofa.png",
+      "L": "sofaL.png"
+    },
+    "path": "more/furniture/sofa"
+  },
+  {
+    "name": "Rectable",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "rectableRA.png",
+      "LA": "rectableLA.png",
+      "R": "rectableR.png",
+      "L": "rectableL.png",
+      "default": "rectable.png"
+    },
+    "path": "more/furniture/table/rectable"
+  },
+  {
+    "name": "Table",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "TableLA.png",
+      "RA": "TableRA.png",
+      "default": "Table.png"
+    },
+    "path": "more/furniture/table/table"
+  },
+  {
+    "name": "Roundtable",
+    "item_type": "accessory",
+    "variants": {
+      "default": "roundtable.png"
+    },
+    "path": "more/furniture/table/roundtable"
+  },
+  {
+    "name": "Barricade",
+    "item_type": "accessory",
+    "variants": {
+      "default": "barricade.png"
+    },
+    "path": "more/barricade"
+  },
+  {
+    "name": "Gunrack",
+    "item_type": "accessory",
+    "variants": {
+      "R": "gunrackR.png",
+      "default": "gunrack.png",
+      "RA": "gunrackRA.png",
+      "LA": "gunrackLA.png",
+      "L": "gunrackL.png"
+    },
+    "path": "more/rack/gunrack"
+  },
+  {
+    "name": "Rack",
+    "item_type": "accessory",
+    "variants": {
+      "R": "RackR.png",
+      "default": "Rack.png",
+      "L": "RackL.png",
+      "LA": "RackLA.png",
+      "RA": "RackRA.png"
+    },
+    "path": "more/rack/rack"
+  },
+  {
+    "name": "Rackback",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "RackBackLA.png",
+      "RA": "RackBackRA.png",
+      "default": "RackBack.png"
+    },
+    "path": "more/rack/rackback"
+  },
+  {
+    "name": "Fantom",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Fantom.png",
+      "R": "FantomR.png",
+      "B": "FantomB.png",
+      "L": "FantomL.png",
+      "RA": "FantomRA.png",
+      "RB": "FantomRB.png",
+      "LB": "FantomLB.png",
+      "LA": "FantomLA.png"
+    },
+    "path": "more/fan/fantom"
+  },
+  {
+    "name": "Fan",
+    "item_type": "accessory",
+    "variants": {
+      "default": "fan.png",
+      "R": "fanR.png",
+      "B": "fanB.png",
+      "L": "fanL.png",
+      "LB": "fanLB.png",
+      "LA": "fanLA.png",
+      "RA": "fanRA.png",
+      "RB": "fanRB.png"
+    },
+    "path": "more/fan/fan"
+  },
+  {
+    "name": "Ipad",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "ipadLA.png",
+      "RA": "ipadRA.png",
+      "default": "ipad.png"
+    },
+    "path": "more/ipad"
+  },
+  {
+    "name": "Mixer",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "mixerRA.png",
+      "LA": "mixerLA.png",
+      "L": "mixerL.png",
+      "default": "mixer.png",
+      "R": "mixerR.png"
+    },
+    "path": "more/mixer"
+  },
+  {
+    "name": "Laptop",
+    "item_type": "input",
+    "variants": {
+      "B": "laptopB.png"
+    },
+    "path": "more/laptop"
+  },
+  {
+    "name": "Tenorpan",
+    "item_type": "accessory",
+    "variants": {
+      "RB": "tenorpanRB.png",
+      "L": "tenorpanL.png",
+      "RA": "tenorpanRA.png",
+      "LA": "tenorpanLA.png",
+      "LB": "tenorpanLB.png",
+      "default": "tenorpan.png",
+      "R": "tenorpanR.png",
+      "B": "tenorpanB.png"
+    },
+    "path": "percussion/tenorpan"
+  },
+  {
+    "name": "Tabla",
+    "item_type": "accessory",
+    "variants": {
+      "B": "tablaB.png",
+      "R": "tablaR.png",
+      "LA": "tablaLA.png",
+      "LB": "tablaLB.png",
+      "RB": "tablaRB.png",
+      "RA": "tablaRA.png",
+      "default": "tabla.png",
+      "L": "tablaL.png"
+    },
+    "path": "percussion/tabla"
+  },
+  {
+    "name": "Bongos",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "BongosRA.png",
+      "L": "BongosL.png",
+      "default": "Bongos.png",
+      "LA": "BongosLA.png",
+      "R": "BongosR.png"
+    },
+    "path": "percussion/bongo"
+  },
+  {
+    "name": "Bongos",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "BongosRA.png",
+      "L": "BongosL.png",
+      "default": "Bongos.png",
+      "LA": "BongosLA.png",
+      "R": "BongosR.png"
+    },
+    "path": "percussion/bongo/bongos"
+  },
+  {
+    "name": "Conga",
+    "item_type": "accessory",
+    "variants": {
+      "default": "conga.png"
+    },
+    "path": "percussion/conga/conga"
+  },
+  {
+    "name": "Conga Double",
+    "item_type": "accessory",
+    "variants": {
+      "default": "conga_double.png",
+      "L": "conga_doubleL.png",
+      "LA": "conga_doubleLA.png",
+      "R": "conga_doubleR.png",
+      "RA": "conga_doubleRA.png"
+    },
+    "path": "percussion/conga/conga_double"
+  },
+  {
+    "name": "Dholak",
+    "item_type": "accessory",
+    "variants": {
+      "L": "dholakL.png",
+      "default": "dholak.png",
+      "RA": "dholakRA.png",
+      "LA": "dholakLA.png",
+      "R": "dholakR.png"
+    },
+    "path": "percussion/dholak"
+  },
+  {
+    "name": "Dhumbuk",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Dhumbuk.png"
+    },
+    "path": "percussion/dhumbuk"
+  },
+  {
+    "name": "Daf",
+    "item_type": "accessory",
+    "variants": {
+      "default": "daf.png"
+    },
+    "path": "percussion/daf"
+  },
+  {
+    "name": "Claves",
+    "item_type": "accessory",
+    "variants": {
+      "default": "claves.png"
+    },
+    "path": "percussion/claves"
+  },
+  {
+    "name": "Tambourine",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Tambourine.png"
+    },
+    "path": "percussion/tambourine"
+  },
+  {
+    "name": "Cajon",
+    "item_type": "accessory",
+    "variants": {
+      "default": "cajon.png",
+      "LA": "cajonLA.png",
+      "RA": "cajonRA.png"
+    },
+    "path": "percussion/cajon"
+  },
+  {
+    "name": "Chimes",
+    "item_type": "accessory",
+    "variants": {
+      "L": "chimesL.png",
+      "B": "chimesB.png",
+      "R": "chimesR.png",
+      "RB": "chimesRB.png",
+      "default": "chimes.png",
+      "RA": "chimesRA.png",
+      "LA": "chimesLA.png",
+      "LB": "chimesLB.png"
+    },
+    "path": "percussion/chimes"
+  },
+  {
+    "name": "Marimba",
+    "item_type": "accessory",
+    "variants": {
+      "R": "MarimbaR.png",
+      "LA": "MarimbaLA.png",
+      "default": "Marimba.png",
+      "RA": "MarimbaRA.png",
+      "L": "MarimbaL.png"
+    },
+    "path": "percussion/marimba"
+  },
+  {
+    "name": "Timpaniset",
+    "item_type": "accessory",
+    "variants": {
+      "default": "TimpaniSet.png",
+      "B": "TimpaniSetB.png",
+      "R": "TimpaniSetR.png",
+      "RB": "TimpaniSetRB.png",
+      "RA": "TimpaniSetRA.png",
+      "LA": "TimpaniSetLA.png",
+      "LB": "TimpaniSetLB.png",
+      "L": "TimpaniSetL.png"
+    },
+    "path": "percussion/timpani/timpaniset"
+  },
+  {
+    "name": "Timpani4",
+    "item_type": "accessory",
+    "variants": {
+      "default": "timpani4.png",
+      "L": "timpani4L.png",
+      "R": "timpani4R.png",
+      "RB": "timpani4RB.png",
+      "RA": "timpani4RA.png",
+      "B": "timpani4B.png",
+      "LA": "timpani4LA.png",
+      "LB": "timpani4LB.png"
+    },
+    "path": "percussion/timpani/timpani4"
+  },
+  {
+    "name": "Timpani3",
+    "item_type": "accessory",
+    "variants": {
+      "L": "timpani3L.png",
+      "default": "timpani3.png",
+      "LB": "timpani3LB.png",
+      "LA": "timpani3LA.png",
+      "B": "timpani3B.png",
+      "RA": "timpani3RA.png",
+      "R": "timpani3R.png",
+      "RB": "timpani3RB.png"
+    },
+    "path": "percussion/timpani/timpani3"
+  },
+  {
+    "name": "Timpani2",
+    "item_type": "accessory",
+    "variants": {
+      "L": "timpani2L.png",
+      "default": "timpani2.png",
+      "RB": "timpani2RB.png",
+      "RA": "timpani2RA.png",
+      "LA": "timpani2LA.png",
+      "LB": "timpani2LB.png",
+      "R": "timpani2R.png",
+      "B": "timpani2B.png"
+    },
+    "path": "percussion/timpani/timpani2"
+  },
+  {
+    "name": "Timpani1",
+    "item_type": "accessory",
+    "variants": {
+      "B": "timpani1B.png",
+      "R": "timpani1R.png",
+      "default": "timpani1.png",
+      "LA": "timpani1LA.png",
+      "LB": "timpani1LB.png",
+      "L": "timpani1L.png",
+      "RB": "timpani1RB.png",
+      "RA": "timpani1RA.png"
+    },
+    "path": "percussion/timpani/timpani1"
+  },
+  {
+    "name": "Gong",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "gongRA.png",
+      "RB": "gongRB.png",
+      "default": "gong.png",
+      "L": "gongL.png",
+      "LB": "gongLB.png",
+      "LA": "gongLA.png",
+      "B": "gongB.png",
+      "R": "gongR.png"
+    },
+    "path": "percussion/gong"
+  },
+  {
+    "name": "Percussionpad",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "percussionpadRA.png",
+      "L": "percussionpadL.png",
+      "LA": "percussionpadLA.png",
+      "default": "percussionpad.png",
+      "R": "percussionpadR.png"
+    },
+    "path": "percussion/percussionpad"
+  },
+  {
+    "name": "Percussionistone",
+    "item_type": "accessory",
+    "variants": {
+      "R": "PercussionistOneR.png",
+      "B": "PercussionistOneB.png",
+      "RB": "PercussionistOneRB.png",
+      "RA": "PercussionistOneRA.png",
+      "default": "PercussionistOne.png",
+      "L": "PercussionistOneL.png",
+      "LA": "PercussionistOneLA.png",
+      "LB": "PercussionistOneLB.png"
+    },
+    "path": "people/players/percussionistone"
+  },
+  {
+    "name": "Keytarplayer",
+    "item_type": "accessory",
+    "variants": {
+      "R": "keytarplayerR.png",
+      "RA": "keytarplayerRA.png",
+      "L": "keytarplayerL.png",
+      "default": "keytarplayer.png",
+      "LA": "keytarplayerLA.png"
+    },
+    "path": "people/players/keytarplayer"
+  },
+  {
+    "name": "Acubassist",
+    "item_type": "output",
+    "variants": {
+      "default": "AcuBassist.png",
+      "RB": "AcuBassistRB.png",
+      "RA": "AcuBassistRA.png",
+      "LA": "AcuBassistLA.png",
+      "L": "AcuBassistL.png",
+      "LB": "AcuBassistLB.png",
+      "B": "AcuBassistB.png",
+      "R": "AcuBassistR.png"
+    },
+    "path": "people/players/AcuBassist"
+  },
+  {
+    "name": "Drummer",
+    "item_type": "accessory",
+    "variants": {
+      "default": "drummer.png",
+      "R": "drummerR.png",
+      "LA": "drummerLA.png",
+      "RA": "drummerRA.png",
+      "L": "drummerL.png"
+    },
+    "path": "people/players/drummer"
+  },
+  {
+    "name": "Drummerafrican",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "DrummerAfricanLA.png",
+      "R": "DrummerAfricanR.png",
+      "default": "DrummerAfrican.png",
+      "RA": "DrummerAfricanRA.png",
+      "L": "DrummerAfricanL.png"
+    },
+    "path": "people/players/drummerafrican"
+  },
+  {
+    "name": "Ebassist",
+    "item_type": "output",
+    "variants": {
+      "LB": "ebassistLB.png",
+      "LA": "ebassistLA.png",
+      "RA": "ebassistRA.png",
+      "RB": "ebassistRB.png",
+      "L": "ebassistL.png",
+      "default": "ebassist.png",
+      "R": "ebassistR.png",
+      "B": "ebassistB.png"
+    },
+    "path": "people/players/ebassist"
+  },
+  {
+    "name": "Femguitarist",
+    "item_type": "output",
+    "variants": {
+      "B": "femguitaristB.png",
+      "R": "femguitaristR.png",
+      "LB": "femguitaristLB.png",
+      "LA": "femguitaristLA.png",
+      "L": "femguitaristL.png",
+      "default": "femguitarist.png",
+      "RA": "femguitaristRA.png",
+      "RB": "femguitaristRB.png"
+    },
+    "path": "people/players/femguitarist"
+  },
+  {
+    "name": "Beguitarist",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Beguitarist.png",
+      "L": "BeguitaristL.png",
+      "RB": "BeguitaristRB.png",
+      "RA": "BeguitaristRA.png",
+      "B": "BeguitaristB.png",
+      "LA": "BeguitaristLA.png",
+      "R": "BeguitaristR.png",
+      "LB": "BeguitaristLB.png"
+    },
+    "path": "people/players/beguitarist"
+  },
+  {
+    "name": "Violinist",
+    "item_type": "output",
+    "variants": {
+      "default": "violinist.png"
+    },
+    "path": "people/players/violinist"
+  },
+  {
+    "name": "Keyboardist",
+    "item_type": "output",
+    "variants": {
+      "L": "keyboardistL.png",
+      "R": "keyboardistR.png",
+      "LB": "keyboardistLB.png",
+      "LA": "keyboardistLA.png",
+      "B": "keyboardistB.png",
+      "RA": "keyboardistRA.png",
+      "default": "keyboardist.png",
+      "RB": "keyboardistRB.png"
+    },
+    "path": "people/players/keyboardist"
+  },
+  {
+    "name": "Eguitarist",
+    "item_type": "output",
+    "variants": {
+      "L": "eguitaristL.png",
+      "RB": "eguitaristRB.png",
+      "RA": "eguitaristRA.png",
+      "LA": "eguitaristLA.png",
+      "default": "eguitarist.png",
+      "LB": "eguitaristLB.png",
+      "R": "eguitaristR.png",
+      "B": "eguitaristB.png"
+    },
+    "path": "people/players/eguitarist"
+  },
+  {
+    "name": "Percussionist",
+    "item_type": "accessory",
+    "variants": {
+      "RB": "percussionistRB.png",
+      "RA": "percussionistRA.png",
+      "R": "percussionistR.png",
+      "LA": "percussionistLA.png",
+      "LB": "percussionistLB.png",
+      "B": "percussionistB.png",
+      "L": "percussionistL.png",
+      "default": "percussionist.png"
+    },
+    "path": "people/players/percussionist"
+  },
+  {
+    "name": "Bassist",
+    "item_type": "output",
+    "variants": {
+      "LA": "bassistLA.png",
+      "LB": "bassistLB.png",
+      "R": "bassistR.png",
+      "RB": "bassistRB.png",
+      "default": "bassist.png",
+      "B": "bassistB.png",
+      "RA": "bassistRA.png",
+      "L": "bassistL.png"
+    },
+    "path": "people/players/bassist"
+  },
+  {
+    "name": "Guitarist",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "GuitaristRA.png",
+      "RB": "GuitaristRB.png",
+      "default": "Guitarist.png",
+      "LB": "GuitaristLB.png",
+      "L": "GuitaristL.png",
+      "LA": "GuitaristLA.png",
+      "B": "GuitaristB.png",
+      "R": "GuitaristR.png"
+    },
+    "path": "people/players/guitarist"
+  },
+  {
+    "name": "Xlrmale",
+    "item_type": "symbol",
+    "variants": {
+      "default": "XLRmale.png"
+    },
+    "path": "people/male/xlrmale"
+  },
+  {
+    "name": "Quartermale",
+    "item_type": "symbol",
+    "variants": {
+      "default": "quartermale.png"
+    },
+    "path": "people/male/quartermale"
+  },
+  {
+    "name": "Man2",
+    "item_type": "symbol",
+    "variants": {
+      "LB": "Man2LB.png",
+      "LA": "Man2LA.png",
+      "RA": "Man2RA.png",
+      "R": "Man2R.png",
+      "RB": "Man2RB.png",
+      "B": "Man2B.png",
+      "default": "Man2.png",
+      "L": "Man2L.png"
+    },
+    "path": "people/male/man2"
+  },
+  {
+    "name": "Man3",
+    "item_type": "symbol",
+    "variants": {
+      "RB": "Man3RB.png",
+      "RA": "Man3RA.png",
+      "B": "Man3B.png",
+      "R": "Man3R.png",
+      "LA": "Man3LA.png",
+      "LB": "Man3LB.png",
+      "default": "Man3.png",
+      "L": "Man3L.png"
+    },
+    "path": "people/male/man3"
+  },
+  {
+    "name": "Femalexlrtoquarter",
+    "item_type": "symbol",
+    "variants": {
+      "default": "femaleXLRtoquarter.png"
+    },
+    "path": "people/male/femalexlrtoquarter"
+  },
+  {
+    "name": "Maletodoublefemale",
+    "item_type": "symbol",
+    "variants": {
+      "default": "maletodoublefemale.png"
+    },
+    "path": "people/male/maletodoublefemale"
+  },
+  {
+    "name": "Quartertrstomalexl",
+    "item_type": "symbol",
+    "variants": {
+      "R": "quartertrstomaleXLR.png"
+    },
+    "path": "people/male/quartertrstomalexl"
+  },
+  {
+    "name": "Mandolin",
+    "item_type": "symbol",
+    "variants": {
+      "RA": "mandolinRA.png",
+      "default": "mandolin.png"
+    },
+    "path": "people/male/mandolin"
+  },
+  {
+    "name": "Doublemalexl",
+    "item_type": "symbol",
+    "variants": {
+      "R": "doublemaleXLR.png"
+    },
+    "path": "people/male/doublemalexl"
+  },
+  {
+    "name": "Mandoman",
+    "item_type": "symbol",
+    "variants": {
+      "default": "mandoman.png",
+      "L": "mandomanL.png",
+      "RB": "mandomanRB.png",
+      "RA": "mandomanRA.png",
+      "LA": "mandomanLA.png",
+      "LB": "mandomanLB.png",
+      "R": "mandomanR.png",
+      "B": "mandomanB.png"
+    },
+    "path": "people/male/mandoman"
+  },
+  {
+    "name": "Man1",
+    "item_type": "symbol",
+    "variants": {
+      "RA": "Man1RA.png",
+      "RB": "Man1RB.png",
+      "L": "Man1L.png",
+      "LB": "Man1LB.png",
+      "LA": "Man1LA.png",
+      "B": "Man1B.png",
+      "default": "Man1.png",
+      "R": "Man1R.png"
+    },
+    "path": "people/male/man1"
+  },
+  {
+    "name": "Femalexlrtoquartertrs",
+    "item_type": "symbol",
+    "variants": {
+      "default": "femaleXLRtoquartertrs.png"
+    },
+    "path": "people/male/femalexlrtoquartertrs"
+  },
+  {
+    "name": "Quartertomalexl",
+    "item_type": "symbol",
+    "variants": {
+      "R": "quartertomaleXLR.png"
+    },
+    "path": "people/male/quartertomalexl"
+  },
+  {
+    "name": "Doublefemalexl",
+    "item_type": "symbol",
+    "variants": {
+      "R": "doublefemaleXLR.png"
+    },
+    "path": "people/male/doublefemalexl"
+  },
+  {
+    "name": "Quartermale Balanced",
+    "item_type": "symbol",
+    "variants": {
+      "default": "quartermale_balanced.png"
+    },
+    "path": "people/male/quartermale_balanced"
+  },
+  {
+    "name": "Woman2",
+    "item_type": "symbol",
+    "variants": {
+      "B": "Woman2B.png",
+      "R": "Woman2R.png",
+      "RA": "Woman2RA.png",
+      "RB": "Woman2RB.png",
+      "LB": "Woman2LB.png",
+      "LA": "Woman2LA.png",
+      "L": "Woman2L.png",
+      "default": "Woman2.png"
+    },
+    "path": "people/female/woman2"
+  },
+  {
+    "name": "Woman3",
+    "item_type": "symbol",
+    "variants": {
+      "LA": "Woman3LA.png",
+      "LB": "Woman3LB.png",
+      "R": "Woman3R.png",
+      "B": "Woman3B.png",
+      "RB": "Woman3RB.png",
+      "RA": "Woman3RA.png",
+      "L": "Woman3L.png",
+      "default": "Woman3.png"
+    },
+    "path": "people/female/woman3"
+  },
+  {
+    "name": "Woman1",
+    "item_type": "symbol",
+    "variants": {
+      "LB": "Woman1LB.png",
+      "L": "Woman1L.png",
+      "LA": "Woman1LA.png",
+      "RA": "Woman1RA.png",
+      "RB": "Woman1RB.png",
+      "R": "Woman1R.png",
+      "default": "Woman1.png",
+      "B": "Woman1B.png"
+    },
+    "path": "people/female/woman1"
+  },
+  {
+    "name": "Clavinet",
+    "item_type": "accessory",
+    "variants": {
+      "B": "clavinetB.png",
+      "RA": "clavinetRA.png",
+      "R": "clavinetR.png",
+      "RB": "clavinetRB.png",
+      "LB": "clavinetLB.png",
+      "LA": "clavinetLA.png",
+      "default": "clavinet.png",
+      "L": "clavinetL.png"
+    },
+    "path": "keys/clavinet"
+  },
+  {
+    "name": "Doublekeystand",
+    "item_type": "accessory",
+    "variants": {
+      "R": "doublekeystandR.png",
+      "B": "doublekeystandB.png",
+      "LB": "doublekeystandLB.png",
+      "LA": "doublekeystandLA.png",
+      "L": "doublekeystandL.png",
+      "default": "doublekeystand.png",
+      "RA": "doublekeystandRA.png",
+      "RB": "doublekeystandRB.png"
+    },
+    "path": "keys/doublekeystand"
+  },
+  {
+    "name": "Harpsichord",
+    "item_type": "accessory",
+    "variants": {
+      "R": "HarpsichordR.png",
+      "B": "HarpsichordB.png",
+      "default": "Harpsichord.png",
+      "LA": "HarpsichordLA.png",
+      "LB": "HarpsichordLB.png",
+      "L": "HarpsichordL.png",
+      "RB": "HarpsichordRB.png",
+      "RA": "HarpsichordRA.png"
+    },
+    "path": "keys/harpsichord"
+  },
+  {
+    "name": "Accordion",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Accordion.png",
+      "L": "AccordionL.png",
+      "RA": "AccordionRA.png",
+      "R": "AccordionR.png",
+      "LA": "AccordionLA.png"
+    },
+    "path": "keys/accordion/accordion"
+  },
+  {
+    "name": "Accordionist",
+    "item_type": "accessory",
+    "variants": {
+      "default": "accordionist.png",
+      "R": "accordionistR.png",
+      "B": "accordionistB.png",
+      "LA": "accordionistLA.png",
+      "LB": "accordionistLB.png",
+      "L": "accordionistL.png",
+      "RB": "accordionistRB.png",
+      "RA": "accordionistRA.png"
+    },
+    "path": "keys/accordion/accordionist"
+  },
+  {
+    "name": "Celesta",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "CelestaRA.png",
+      "RB": "CelestaRB.png",
+      "LB": "CelestaLB.png",
+      "B": "CelestaB.png",
+      "LA": "CelestaLA.png",
+      "R": "CelestaR.png",
+      "L": "CelestaL.png",
+      "default": "Celesta.png"
+    },
+    "path": "keys/celesta"
+  },
+  {
+    "name": "Keystand",
+    "item_type": "accessory",
+    "variants": {
+      "B": "keystandB.png",
+      "R": "keystandR.png",
+      "LB": "keystandLB.png",
+      "LA": "keystandLA.png",
+      "L": "keystandL.png",
+      "RA": "keystandRA.png",
+      "default": "keystand.png",
+      "RB": "keystandRB.png"
+    },
+    "path": "keys/keystand"
+  },
+  {
+    "name": "Mellotron",
+    "item_type": "accessory",
+    "variants": {
+      "RB": "MellotronRB.png",
+      "RA": "MellotronRA.png",
+      "L": "MellotronL.png",
+      "LA": "MellotronLA.png",
+      "LB": "MellotronLB.png",
+      "default": "Mellotron.png",
+      "B": "MellotronB.png",
+      "R": "MellotronR.png"
+    },
+    "path": "keys/mellotron"
+  },
+  {
+    "name": "Femkeystand",
+    "item_type": "accessory",
+    "variants": {
+      "L": "femkeystandL.png",
+      "RA": "femkeystandRA.png",
+      "RB": "femkeystandRB.png",
+      "LB": "femkeystandLB.png",
+      "LA": "femkeystandLA.png",
+      "R": "femkeystandR.png",
+      "default": "femkeystand.png",
+      "B": "femkeystandB.png"
+    },
+    "path": "keys/femkeystand"
+  },
+  {
+    "name": "Leslie",
+    "item_type": "accessory",
+    "variants": {
+      "R": "LeslieR.png",
+      "RA": "LeslieRA.png",
+      "L": "LeslieL.png",
+      "default": "Leslie.png",
+      "LA": "LeslieLA.png"
+    },
+    "path": "keys/leslie"
+  },
+  {
+    "name": "Keytar",
+    "item_type": "accessory",
+    "variants": {
+      "default": "keytar.png"
+    },
+    "path": "keys/keytar/keytar"
+  },
+  {
+    "name": "Yamahacp70",
+    "item_type": "accessory",
+    "variants": {
+      "L": "yamahaCP70L.png",
+      "LA": "yamahaCP70LA.png",
+      "LB": "yamahaCP70LB.png",
+      "R": "yamahaCP70R.png",
+      "RB": "yamahaCP70RB.png",
+      "RA": "yamahaCP70RA.png",
+      "B": "yamahaCP70B.png",
+      "default": "yamahaCP70.png"
+    },
+    "path": "keys/yamahacp70"
+  },
+  {
+    "name": "Yamahagt2",
+    "item_type": "accessory",
+    "variants": {
+      "R": "YamahaGT2R.png",
+      "RA": "YamahaGT2RA.png",
+      "RB": "YamahaGT2RB.png",
+      "B": "YamahaGT2B.png",
+      "default": "YamahaGT2.png",
+      "LB": "YamahaGT2LB.png",
+      "LA": "YamahaGT2LA.png",
+      "L": "YamahaGT2L.png"
+    },
+    "path": "keys/yamahagt2"
+  },
+  {
+    "name": "Banjo",
+    "item_type": "accessory",
+    "variants": {
+      "default": "banjo.png"
+    },
+    "path": "guitars/banjo/banjo"
+  },
+  {
+    "name": "Banjo Guy",
+    "item_type": "accessory",
+    "variants": {
+      "R": "banjo_guyR.png",
+      "B": "banjo_guyB.png",
+      "default": "banjo_guy.png",
+      "LB": "banjo_guyLB.png",
+      "LA": "banjo_guyLA.png",
+      "RA": "banjo_guyRA.png",
+      "L": "banjo_guyL.png",
+      "RB": "banjo_guyRB.png"
+    },
+    "path": "guitars/banjo/banjo_guy"
+  },
+  {
+    "name": "Tiple",
+    "item_type": "accessory",
+    "variants": {
+      "default": "tiple.png",
+      "RA": "tipleRA.png"
+    },
+    "path": "guitars/tiple"
+  },
+  {
+    "name": "Tumbi",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "tumbiRA.png",
+      "default": "tumbi.png"
+    },
+    "path": "guitars/tumbi"
+  },
+  {
+    "name": "Acousticguitar",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "acousticguitarRA.png",
+      "default": "acousticguitar.png"
+    },
+    "path": "guitars/acoustic/acousticguitar"
+  },
+  {
+    "name": "Femacoustic",
+    "item_type": "accessory",
+    "variants": {
+      "L": "femacousticL.png",
+      "LB": "femacousticLB.png",
+      "LA": "femacousticLA.png",
+      "RA": "femacousticRA.png",
+      "RB": "femacousticRB.png",
+      "R": "femacousticR.png",
+      "default": "femacoustic.png",
+      "B": "femacousticB.png"
+    },
+    "path": "guitars/acoustic/femacoustic"
+  },
+  {
+    "name": "Guitarstand",
+    "item_type": "accessory",
+    "variants": {
+      "default": "guitarstand.png",
+      "B": "guitarstandB.png",
+      "R": "guitarstandR.png",
+      "RB": "guitarstandRB.png",
+      "RA": "guitarstandRA.png",
+      "L": "guitarstandL.png",
+      "LA": "guitarstandLA.png",
+      "LB": "guitarstandLB.png"
+    },
+    "path": "guitars/guitarstand"
+  },
+  {
+    "name": "Guitarsynth",
+    "item_type": "accessory",
+    "variants": {
+      "default": "guitarsynth.png",
+      "R": "guitarsynthR.png",
+      "L": "guitarsynthL.png",
+      "RA": "guitarsynthRA.png",
+      "LA": "guitarsynthLA.png"
+    },
+    "path": "guitars/guitarsynth"
+  },
+  {
+    "name": "Zinfonia",
+    "item_type": "accessory",
+    "variants": {
+      "default": "zinfonia.png"
+    },
+    "path": "guitars/zinfonia/zinfonia"
+  },
+  {
+    "name": "Zinfoniaplayer",
+    "item_type": "accessory",
+    "variants": {
+      "LA": "zinfoniaplayerLA.png",
+      "LB": "zinfoniaplayerLB.png",
+      "R": "zinfoniaplayerR.png",
+      "RB": "zinfoniaplayerRB.png",
+      "RA": "zinfoniaplayerRA.png",
+      "B": "zinfoniaplayerB.png",
+      "L": "zinfoniaplayerL.png",
+      "default": "zinfoniaplayer.png"
+    },
+    "path": "guitars/zinfonia/zinfoniaplayer"
+  },
+  {
+    "name": "Charango",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "charangoRA.png",
+      "default": "charango.png"
+    },
+    "path": "guitars/charango"
+  },
+  {
+    "name": "P Bass",
+    "item_type": "input",
+    "variants": {
+      "RA": "P_BassRA.png",
+      "default": "P_Bass.png"
+    },
+    "path": "guitars/bass/p_bass"
+  },
+  {
+    "name": "Sixbass",
+    "item_type": "input",
+    "variants": {
+      "B": "sixbassB.png",
+      "default": "sixbass.png",
+      "RA": "sixbassRA.png",
+      "R": "sixbassR.png",
+      "RB": "sixbassRB.png",
+      "LB": "sixbassLB.png",
+      "LA": "sixbassLA.png",
+      "L": "sixbassL.png"
+    },
+    "path": "guitars/bass/sixbass"
+  },
+  {
+    "name": "Stringbass",
+    "item_type": "input",
+    "variants": {
+      "default": "stringbass.png"
+    },
+    "path": "guitars/bass/stringbass"
+  },
+  {
+    "name": "Lute",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Lute.png",
+      "RA": "LuteRA.png"
+    },
+    "path": "guitars/lute/lute"
+  },
+  {
+    "name": "Flute",
+    "item_type": "accessory",
+    "variants": {
+      "L": "fluteL.png",
+      "RA": "fluteRA.png",
+      "default": "flute.png",
+      "LA": "fluteLA.png",
+      "R": "fluteR.png"
+    },
+    "path": "guitars/lute/flute"
+  },
+  {
+    "name": "Oud",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "OudRA.png",
+      "default": "Oud.png"
+    },
+    "path": "guitars/oud"
+  },
+  {
+    "name": "Azerisaz",
+    "item_type": "accessory",
+    "variants": {
+      "default": "azerisaz.png",
+      "RA": "azerisazRA.png"
+    },
+    "path": "guitars/azerisaz"
+  },
+  {
+    "name": "Cuatro",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "cuatroRA.png",
+      "default": "cuatro.png"
+    },
+    "path": "guitars/cuatro"
+  },
+  {
+    "name": "Ukulele",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Ukulele.png",
+      "RA": "UkuleleRA.png"
+    },
+    "path": "guitars/ukulele"
+  },
+  {
+    "name": "Balalaika",
+    "item_type": "accessory",
+    "variants": {
+      "default": "balalaika.png",
+      "RA": "balalaikaRA.png"
+    },
+    "path": "guitars/balalaika"
+  },
+  {
+    "name": "National",
+    "item_type": "accessory",
+    "variants": {
+      "R": "NationalR.png",
+      "RA": "NationalRA.png",
+      "default": "National.png"
+    },
+    "path": "guitars/national"
+  },
+  {
+    "name": "Guitarron",
+    "item_type": "accessory",
+    "variants": {
+      "default": "guitarron.png",
+      "RA": "guitarronRA.png"
+    },
+    "path": "guitars/guitarron"
+  },
+  {
+    "name": "Bouzouki",
+    "item_type": "accessory",
+    "variants": {
+      "default": "bouzouki.png",
+      "RA": "bouzoukiRA.png"
+    },
+    "path": "guitars/bouzouki"
+  },
+  {
+    "name": "Sitar",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "SitarRA.png",
+      "default": "Sitar.png"
+    },
+    "path": "guitars/sitar"
+  },
+  {
+    "name": "IEM Wired",
+    "item_type": "output",
+    "variants": {
+      "default": "IEMwired.png"
+    },
+    "path": "outputs/monitors"
+  },
+  {
+    "name": "Trombone",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "tromboneRA.png",
+      "R": "tromboneR.png",
+      "LA": "tromboneLA.png",
+      "L": "tromboneL.png",
+      "default": "trombone.png"
+    },
+    "path": "winds/trombone"
+  },
+  {
+    "name": "Cornet",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "cornetRA.png",
+      "L": "cornetL.png",
+      "LA": "cornetLA.png",
+      "R": "cornetR.png",
+      "default": "cornet.png"
+    },
+    "path": "winds/cornet"
+  },
+  {
+    "name": "Bassoon",
+    "item_type": "output",
+    "variants": {
+      "default": "Bassoon.png",
+      "L": "BassoonL.png",
+      "LA": "BassoonLA.png",
+      "R": "BassoonR.png",
+      "RA": "BassoonRA.png"
+    },
+    "path": "winds/bassoon"
+  },
+  {
+    "name": "Clarinet",
+    "item_type": "accessory",
+    "variants": {
+      "default": "clarinet.png",
+      "L": "clarinetL.png",
+      "RA": "clarinetRA.png",
+      "R": "clarinetR.png",
+      "LA": "clarinetLA.png"
+    },
+    "path": "winds/clarinet/clarinet"
+  },
+  {
+    "name": "Contraclarinet",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "contraclarinetRA.png",
+      "LA": "contraclarinetLA.png",
+      "R": "contraclarinetR.png",
+      "L": "contraclarinetL.png",
+      "default": "contraclarinet.png"
+    },
+    "path": "winds/clarinet/contraclarinet"
+  },
+  {
+    "name": "Ocarina",
+    "item_type": "accessory",
+    "variants": {
+      "default": "ocarina.png"
+    },
+    "path": "winds/ocarina"
+  },
+  {
+    "name": "Oboe",
+    "item_type": "accessory",
+    "variants": {
+      "L": "oboeL.png",
+      "LA": "oboeLA.png",
+      "default": "oboe.png",
+      "R": "oboeR.png",
+      "RA": "oboeRA.png"
+    },
+    "path": "winds/oboe"
+  },
+  {
+    "name": "Gajda",
+    "item_type": "accessory",
+    "variants": {
+      "L": "GajdaL.png",
+      "RA": "GajdaRA.png",
+      "default": "Gajda.png",
+      "LA": "GajdaLA.png",
+      "R": "GajdaR.png"
+    },
+    "path": "winds/gajda"
+  },
+  {
+    "name": "Trumpetplayer",
+    "item_type": "accessory",
+    "variants": {
+      "L": "trumpetplayerL.png",
+      "LB": "trumpetplayerLB.png",
+      "LA": "trumpetplayerLA.png",
+      "R": "trumpetplayerR.png",
+      "B": "trumpetplayerB.png",
+      "RA": "trumpetplayerRA.png",
+      "default": "trumpetplayer.png",
+      "RB": "trumpetplayerRB.png"
+    },
+    "path": "winds/trumpet/trumpetplayer"
+  },
+  {
+    "name": "Trumpet",
+    "item_type": "accessory",
+    "variants": {
+      "default": "trumpet.png"
+    },
+    "path": "winds/trumpet/trumpet"
+  },
+  {
+    "name": "Harmonica",
+    "item_type": "accessory",
+    "variants": {
+      "L": "harmonicaL.png",
+      "default": "harmonica.png",
+      "LA": "harmonicaLA.png",
+      "LB": "harmonicaLB.png",
+      "R": "harmonicaR.png",
+      "RB": "harmonicaRB.png",
+      "B": "harmonicaB.png",
+      "RA": "harmonicaRA.png"
+    },
+    "path": "winds/harmonica"
+  },
+  {
+    "name": "Contrabassoon",
+    "item_type": "output",
+    "variants": {
+      "LA": "contrabassoonLA.png",
+      "R": "contrabassoonR.png",
+      "RA": "contrabassoonRA.png",
+      "L": "contrabassoonL.png",
+      "default": "contrabassoon.png"
+    },
+    "path": "winds/contrabassoon"
+  },
+  {
+    "name": "Piccolo",
+    "item_type": "accessory",
+    "variants": {
+      "L": "piccoloL.png",
+      "R": "piccoloR.png",
+      "default": "piccolo.png",
+      "RA": "piccoloRA.png",
+      "LA": "piccoloLA.png"
+    },
+    "path": "winds/piccolo"
+  },
+  {
+    "name": "Kaval",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "kavalRA.png",
+      "LA": "kavalLA.png",
+      "L": "kavalL.png",
+      "R": "kavalR.png",
+      "default": "kaval.png"
+    },
+    "path": "winds/kaval"
+  },
+  {
+    "name": "Tuba",
+    "item_type": "accessory",
+    "variants": {
+      "L": "TubaL.png",
+      "default": "Tuba.png",
+      "LA": "TubaLA.png",
+      "R": "TubaR.png",
+      "RA": "TubaRA.png"
+    },
+    "path": "winds/tuba"
+  },
+  {
+    "name": "Recorder",
+    "item_type": "accessory",
+    "variants": {
+      "RA": "recorderRA.png",
+      "R": "recorderR.png",
+      "default": "recorder.png",
+      "LA": "recorderLA.png",
+      "L": "recorderL.png"
+    },
+    "path": "winds/recorder"
+  },
+  {
+    "name": "Euphonium",
+    "item_type": "accessory",
+    "variants": {
+      "default": "Euphonium.png",
+      "R": "EuphoniumR.png",
+      "L": "EuphoniumL.png",
+      "LA": "EuphoniumLA.png",
+      "RA": "EuphoniumRA.png"
+    },
+    "path": "winds/euphonium"
+  },
+  {
+    "name": "Bagpipes",
+    "item_type": "accessory",
+    "variants": {
+      "default": "bagpipes.png"
+    },
+    "path": "winds/bagpipes"
+  },
+  {
+    "name": "Bassclarinet",
+    "item_type": "input",
+    "variants": {
+      "default": "bassclarinet.png",
+      "RA": "bassclarinetRA.png",
+      "L": "bassclarinetL.png",
+      "LA": "bassclarinetLA.png",
+      "R": "bassclarinetR.png"
+    },
+    "path": "winds/bassclarinet"
+  }
+]

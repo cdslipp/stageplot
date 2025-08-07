@@ -1,0 +1,8 @@
+{
+    "name": "Acousticguitar",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "acousticguitarRA.png",
+        "default": "acousticguitar.png"
+    }
+}

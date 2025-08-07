@@ -1,0 +1,7 @@
+{
+    "name": "Electric 4",
+    "item_type": "input",
+    "variants": {
+        "default": "electric4.png"
+    }
+}

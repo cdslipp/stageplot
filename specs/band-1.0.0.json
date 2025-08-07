@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/band-1.0.0.json",
+  "title": "Band",
+  "description": "The root object representing a musical group's technical requirements.",
+  "type": "object",
+  "required": ["version", "type", "name", "players", "items", "inputs", "outputs"],
+  "properties": {
+    "version": { "type": "string", "pattern": "^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)" },
+    "type": { "type": "string", "enum": ["band"] },
+    "name": { "type": "string", "description": "The name of the band or artist." },
+    "players": {
+      "type": "array",
+      "items": { "$ref": "player-1.0.0.json" }
+    },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "item-1.0.0.json" }
+    },
+    "inputs": {
+      "type": "array",
+      "items": { "$ref": "input-1.0.0.json" }
+    },
+    "outputs": {
+      "type": "array",
+      "items": { "$ref": "output-1.0.0.json" }
+    },
+    "channels": {
+      "type": "array",
+      "items": { "$ref": "channel-1.0.0.json" }
+    },
+    "monitor_mixes": {
+        "type": "array",
+        "items": { "$ref": "monitormix-1.0.0.json" }
+    },
+    "contacts": {
+        "type": "array",
+        "items": { "$ref": "person-1.0.0.json" }
+    }
+  }
+}

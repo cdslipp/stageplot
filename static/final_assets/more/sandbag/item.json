@@ -1,0 +1,11 @@
+{
+    "name": "Sandbag",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "sandbagRA.png",
+        "L": "sandbagL.png",
+        "LA": "sandbagLA.png",
+        "default": "sandbag.png",
+        "R": "sandbagR.png"
+    }
+}

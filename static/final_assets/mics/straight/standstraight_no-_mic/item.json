@@ -1,0 +1,7 @@
+{
+    "name": "Standstraight No- Mic",
+    "item_type": "stand",
+    "variants": {
+        "default": "standstraight_no-mic.png"
+    }
+}

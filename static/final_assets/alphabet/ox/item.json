@@ -1,0 +1,7 @@
+{
+    "name": "Ox",
+    "item_type": "symbol",
+    "variants": {
+        "default": "OX.png"
+    }
+}

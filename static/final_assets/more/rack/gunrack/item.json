@@ -1,0 +1,11 @@
+{
+    "name": "Gunrack",
+    "item_type": "accessory",
+    "variants": {
+        "R": "gunrackR.png",
+        "default": "gunrack.png",
+        "RA": "gunrackRA.png",
+        "LA": "gunrackLA.png",
+        "L": "gunrackL.png"
+    }
+}

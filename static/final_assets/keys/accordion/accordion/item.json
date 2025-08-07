@@ -1,0 +1,11 @@
+{
+    "name": "Accordion",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Accordion.png",
+        "L": "AccordionL.png",
+        "RA": "AccordionRA.png",
+        "R": "AccordionR.png",
+        "LA": "AccordionLA.png"
+    }
+}

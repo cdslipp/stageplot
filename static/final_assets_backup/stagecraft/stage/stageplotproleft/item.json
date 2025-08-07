@@ -1,0 +1,7 @@
+{
+    "name": "Stageplotproleft",
+    "item_type": "symbol",
+    "variants": {
+        "default": "stageplotproleft.png"
+    }
+}

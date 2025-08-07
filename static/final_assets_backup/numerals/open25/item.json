@@ -1,0 +1,7 @@
+{
+    "name": "Open25",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open25.png"
+    }
+}

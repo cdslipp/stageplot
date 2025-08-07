@@ -1,0 +1,7 @@
+{
+    "name": "Six",
+    "item_type": "symbol",
+    "variants": {
+        "default": "six.png"
+    }
+}

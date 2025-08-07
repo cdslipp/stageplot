@@ -1,0 +1,8 @@
+{
+    "name": "Charango",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "charangoRA.png",
+        "default": "charango.png"
+    }
+}

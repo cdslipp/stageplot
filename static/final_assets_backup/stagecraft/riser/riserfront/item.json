@@ -1,0 +1,9 @@
+{
+    "name": "Riserfront",
+    "item_type": "symbol",
+    "variants": {
+        "RA": "riserfrontRA.png",
+        "B": "riserfrontB.png",
+        "default": "riserfront.png"
+    }
+}

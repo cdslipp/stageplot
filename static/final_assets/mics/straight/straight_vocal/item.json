@@ -1,0 +1,11 @@
+{
+    "name": "Straight Vocal",
+    "item_type": "accessory",
+    "variants": {
+        "R": "Straight_VocalR.png",
+        "default": "Straight_Vocal.png",
+        "RA": "Straight_VocalRA.png",
+        "LA": "Straight_VocalLA.png",
+        "L": "Straight_VocalL.png"
+    }
+}

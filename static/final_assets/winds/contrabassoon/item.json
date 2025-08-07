@@ -1,0 +1,11 @@
+{
+    "name": "Contrabassoon",
+    "item_type": "output",
+    "variants": {
+        "LA": "contrabassoonLA.png",
+        "R": "contrabassoonR.png",
+        "RA": "contrabassoonRA.png",
+        "L": "contrabassoonL.png",
+        "default": "contrabassoon.png"
+    }
+}

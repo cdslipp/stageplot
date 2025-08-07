@@ -1,0 +1,7 @@
+{
+    "name": "Adjy",
+    "item_type": "accessory",
+    "variants": {
+        "default": "adjy.png"
+    }
+}

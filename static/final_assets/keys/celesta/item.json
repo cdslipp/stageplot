@@ -1,0 +1,14 @@
+{
+    "name": "Celesta",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "CelestaRA.png",
+        "RB": "CelestaRB.png",
+        "LB": "CelestaLB.png",
+        "B": "CelestaB.png",
+        "LA": "CelestaLA.png",
+        "R": "CelestaR.png",
+        "L": "CelestaL.png",
+        "default": "Celesta.png"
+    }
+}

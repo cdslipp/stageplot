@@ -1,0 +1,7 @@
+{
+    "name": "Stagedge",
+    "item_type": "symbol",
+    "variants": {
+        "L": "stagedgeL.png"
+    }
+}

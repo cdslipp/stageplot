@@ -1,0 +1,11 @@
+{
+    "name": "Guitarsynth",
+    "item_type": "accessory",
+    "variants": {
+        "default": "guitarsynth.png",
+        "R": "guitarsynthR.png",
+        "L": "guitarsynthL.png",
+        "RA": "guitarsynthRA.png",
+        "LA": "guitarsynthLA.png"
+    }
+}

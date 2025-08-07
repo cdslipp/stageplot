@@ -1,0 +1,7 @@
+{
+    "name": "Fx",
+    "item_type": "symbol",
+    "variants": {
+        "default": "FX.png"
+    }
+}

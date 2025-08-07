@@ -1,0 +1,14 @@
+{
+    "name": "Doublekeystand",
+    "item_type": "accessory",
+    "variants": {
+        "R": "doublekeystandR.png",
+        "B": "doublekeystandB.png",
+        "LB": "doublekeystandLB.png",
+        "LA": "doublekeystandLA.png",
+        "L": "doublekeystandL.png",
+        "default": "doublekeystand.png",
+        "RA": "doublekeystandRA.png",
+        "RB": "doublekeystandRB.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Two2",
+    "item_type": "symbol",
+    "variants": {
+        "default": "two2.png"
+    }
+}

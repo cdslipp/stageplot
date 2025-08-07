@@ -1,0 +1,11 @@
+{
+    "name": "Fourtoms",
+    "item_type": "drumset",
+    "variants": {
+        "R": "FourTomsR.png",
+        "LA": "FourTomsLA.png",
+        "L": "FourTomsL.png",
+        "default": "FourToms.png",
+        "RA": "FourTomsRA.png"
+    }
+}

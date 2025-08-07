@@ -1,0 +1,11 @@
+{
+    "name": "Tuba",
+    "item_type": "accessory",
+    "variants": {
+        "L": "TubaL.png",
+        "default": "Tuba.png",
+        "LA": "TubaLA.png",
+        "R": "TubaR.png",
+        "RA": "TubaRA.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Cowbell",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Cowbell.png"
+    }
+}

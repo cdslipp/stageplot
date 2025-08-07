@@ -1,0 +1,7 @@
+{
+    "name": "Tx",
+    "item_type": "symbol",
+    "variants": {
+        "default": "TX.png"
+    }
+}

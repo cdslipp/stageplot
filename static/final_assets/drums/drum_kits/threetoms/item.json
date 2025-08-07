@@ -1,0 +1,24 @@
+{
+    "name": "Drum Kit - Three Toms",
+    "item_type": "drumset",
+    "default_inputs": [
+        { "ch": 1, "name": "Kick In", "short": "Kick In", "position": "DSC", "48V": false },
+        { "ch": 2, "name": "Kick Out", "short": "Kick Out", "position": "DSC", "48V": false },
+        { "ch": 3, "name": "Snare Top", "short": "Sn Top", "position": "DSC", "48V": false },
+        { "ch": 4, "name": "Snare Bottom", "short": "Sn Bot", "position": "DSC", "48V": false },
+        { "ch": 5, "name": "Hi-Hat", "short": "HH", "position": "DSC", "48V": true },
+        { "ch": 6, "name": "Tom 1", "short": "T1", "position": "DSC", "48V": false },
+        { "ch": 7, "name": "Tom 2", "short": "T2", "position": "DSC", "48V": false },
+        { "ch": 8, "name": "Tom 3", "short": "T3", "position": "DSC", "48V": false },
+        { "ch": 9, "name": "Overhead L", "short": "OH L", "position": "USC", "48V": true },
+        { "ch": 10, "name": "Overhead R", "short": "OH R", "position": "USC", "48V": true }
+    ],
+
+    "variants": {
+        "L": "ThreeTomsL.png",
+        "default": "ThreeToms.png",
+        "R": "ThreeTomsR.png",
+        "RA": "ThreeTomsRA.png",
+        "LA": "ThreeTomsLA.png"
+    }
+}

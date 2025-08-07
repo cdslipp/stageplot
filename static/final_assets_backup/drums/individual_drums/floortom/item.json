@@ -1,0 +1,7 @@
+{
+    "name": "Floortom",
+    "item_type": "accessory",
+    "variants": {
+        "default": "floortom.png"
+    }
+}

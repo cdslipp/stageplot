@@ -1,0 +1,7 @@
+{
+    "name": "Banjo",
+    "item_type": "accessory",
+    "variants": {
+        "default": "banjo.png"
+    }
+}

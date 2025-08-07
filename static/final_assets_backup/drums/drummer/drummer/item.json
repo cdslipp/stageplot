@@ -1,0 +1,11 @@
+{
+    "name": "Drummer",
+    "item_type": "accessory",
+    "variants": {
+        "default": "drummer.png",
+        "R": "drummerR.png",
+        "LA": "drummerLA.png",
+        "RA": "drummerRA.png",
+        "L": "drummerL.png"
+    }
+}

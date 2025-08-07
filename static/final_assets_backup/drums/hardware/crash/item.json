@@ -1,0 +1,7 @@
+{
+    "name": "Crash",
+    "item_type": "accessory",
+    "variants": {
+        "default": "crash.png"
+    }
+}

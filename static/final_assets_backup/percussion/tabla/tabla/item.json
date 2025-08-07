@@ -1,0 +1,14 @@
+{
+    "name": "Tabla",
+    "item_type": "accessory",
+    "variants": {
+        "B": "tablaB.png",
+        "R": "tablaR.png",
+        "LA": "tablaLA.png",
+        "LB": "tablaLB.png",
+        "RB": "tablaRB.png",
+        "RA": "tablaRA.png",
+        "default": "tabla.png",
+        "L": "tablaL.png"
+    }
+}

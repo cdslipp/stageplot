@@ -1,0 +1,7 @@
+{
+    "name": "Stringbass",
+    "item_type": "input",
+    "variants": {
+        "default": "stringbass.png"
+    }
+}

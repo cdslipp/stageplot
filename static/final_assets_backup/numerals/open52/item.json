@@ -1,0 +1,7 @@
+{
+    "name": "Open52",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open52.png"
+    }
+}

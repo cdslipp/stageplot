@@ -1,0 +1,11 @@
+{
+    "name": "Boomlshort",
+    "item_type": "accessory",
+    "variants": {
+        "R": "BoomLshortR.png",
+        "default": "BoomLshort.png",
+        "RA": "BoomLshortRA.png",
+        "L": "BoomLshortL.png",
+        "LA": "BoomLshortLA.png"
+    }
+}

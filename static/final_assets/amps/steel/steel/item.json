@@ -1,0 +1,11 @@
+{
+    "name": "Steel",
+    "item_type": "output",
+    "variants": {
+        "R": "SteelR.png",
+        "LA": "SteelLA.png",
+        "RA": "SteelRA.png",
+        "default": "Steel.png",
+        "L": "SteelL.png"
+    }
+}

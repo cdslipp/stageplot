@@ -1,0 +1,11 @@
+{
+    "name": "Trombone",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "tromboneRA.png",
+        "R": "tromboneR.png",
+        "LA": "tromboneLA.png",
+        "L": "tromboneL.png",
+        "default": "trombone.png"
+    }
+}

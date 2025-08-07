@@ -1,0 +1,14 @@
+{
+    "name": "Acubassist",
+    "item_type": "output",
+    "variants": {
+        "default": "AcuBassist.png",
+        "RB": "AcuBassistRB.png",
+        "RA": "AcuBassistRA.png",
+        "LA": "AcuBassistLA.png",
+        "L": "AcuBassistL.png",
+        "LB": "AcuBassistLB.png",
+        "B": "AcuBassistB.png",
+        "R": "AcuBassistR.png"
+    }
+}

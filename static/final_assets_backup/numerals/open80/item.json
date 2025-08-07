@@ -1,0 +1,7 @@
+{
+    "name": "Open80",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open80.png"
+    }
+}

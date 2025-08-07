@@ -1,0 +1,8 @@
+{
+    "name": "Guitarron",
+    "item_type": "accessory",
+    "variants": {
+        "default": "guitarron.png",
+        "RA": "guitarronRA.png"
+    }
+}

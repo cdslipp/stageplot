@@ -1,0 +1,14 @@
+{
+    "name": "Fan",
+    "item_type": "accessory",
+    "variants": {
+        "default": "fan.png",
+        "R": "fanR.png",
+        "B": "fanB.png",
+        "L": "fanL.png",
+        "LB": "fanLB.png",
+        "LA": "fanLA.png",
+        "RA": "fanRA.png",
+        "RB": "fanRB.png"
+    }
+}

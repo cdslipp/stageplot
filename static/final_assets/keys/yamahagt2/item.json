@@ -1,0 +1,14 @@
+{
+    "name": "Yamahagt2",
+    "item_type": "accessory",
+    "variants": {
+        "R": "YamahaGT2R.png",
+        "RA": "YamahaGT2RA.png",
+        "RB": "YamahaGT2RB.png",
+        "B": "YamahaGT2B.png",
+        "default": "YamahaGT2.png",
+        "LB": "YamahaGT2LB.png",
+        "LA": "YamahaGT2LA.png",
+        "L": "YamahaGT2L.png"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Wired Mic",
+    "item_type": "accessory",
+    "variants": {
+        "default": "wired_mic.png"
+    }
+}

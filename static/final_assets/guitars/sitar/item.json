@@ -1,0 +1,8 @@
+{
+    "name": "Sitar",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "SitarRA.png",
+        "default": "Sitar.png"
+    }
+}

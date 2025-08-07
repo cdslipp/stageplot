@@ -1,0 +1,7 @@
+{
+    "name": "Open64",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open64.png"
+    }
+}

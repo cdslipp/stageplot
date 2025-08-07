@@ -1,0 +1,7 @@
+{
+    "name": "Twentyone",
+    "item_type": "symbol",
+    "variants": {
+        "default": "twentyone.png"
+    }
+}

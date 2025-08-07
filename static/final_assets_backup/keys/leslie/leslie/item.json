@@ -1,0 +1,11 @@
+{
+    "name": "Leslie",
+    "item_type": "accessory",
+    "variants": {
+        "R": "LeslieR.png",
+        "RA": "LeslieRA.png",
+        "L": "LeslieL.png",
+        "default": "Leslie.png",
+        "LA": "LeslieLA.png"
+    }
+}

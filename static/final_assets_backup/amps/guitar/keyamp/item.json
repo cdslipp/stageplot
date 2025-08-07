@@ -1,0 +1,9 @@
+{
+    "name": "Keyamp",
+    "item_type": "output",
+    "variants": {
+        "RA": "keyampRA.png",
+        "LA": "keyampLA.png",
+        "default": "keyamp.png"
+    }
+}

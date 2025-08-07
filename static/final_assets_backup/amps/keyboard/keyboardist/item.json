@@ -1,0 +1,14 @@
+{
+    "name": "Keyboardist",
+    "item_type": "output",
+    "variants": {
+        "L": "keyboardistL.png",
+        "R": "keyboardistR.png",
+        "LB": "keyboardistLB.png",
+        "LA": "keyboardistLA.png",
+        "B": "keyboardistB.png",
+        "RA": "keyboardistRA.png",
+        "default": "keyboardist.png",
+        "RB": "keyboardistRB.png"
+    }
+}

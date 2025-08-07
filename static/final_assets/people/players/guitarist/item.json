@@ -1,0 +1,14 @@
+{
+    "name": "Guitarist",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "GuitaristRA.png",
+        "RB": "GuitaristRB.png",
+        "default": "Guitarist.png",
+        "LB": "GuitaristLB.png",
+        "L": "GuitaristL.png",
+        "LA": "GuitaristLA.png",
+        "B": "GuitaristB.png",
+        "R": "GuitaristR.png"
+    }
+}

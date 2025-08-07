@@ -1,0 +1,14 @@
+{
+    "name": "Fantom",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Fantom.png",
+        "R": "FantomR.png",
+        "B": "FantomB.png",
+        "L": "FantomL.png",
+        "RA": "FantomRA.png",
+        "RB": "FantomRB.png",
+        "LB": "FantomLB.png",
+        "LA": "FantomLA.png"
+    }
+}

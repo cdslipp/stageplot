@@ -1,0 +1,7 @@
+{
+    "name": "Straight Shortback",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Straight_shortBack.png"
+    }
+}

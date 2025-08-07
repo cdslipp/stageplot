@@ -1,0 +1,14 @@
+{
+    "name": "Keystand",
+    "item_type": "accessory",
+    "variants": {
+        "B": "keystandB.png",
+        "R": "keystandR.png",
+        "LB": "keystandLB.png",
+        "LA": "keystandLA.png",
+        "L": "keystandL.png",
+        "RA": "keystandRA.png",
+        "default": "keystand.png",
+        "RB": "keystandRB.png"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Ukulele",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Ukulele.png",
+        "RA": "UkuleleRA.png"
+    }
+}

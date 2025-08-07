@@ -1,0 +1,7 @@
+{
+    "name": "Compressor",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Compressor.png"
+    }
+}

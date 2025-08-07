@@ -1,0 +1,7 @@
+{
+    "name": "Marshallhead",
+    "item_type": "output",
+    "variants": {
+        "default": "marshallhead.png"
+    }
+}

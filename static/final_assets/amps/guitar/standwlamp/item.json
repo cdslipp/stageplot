@@ -1,0 +1,14 @@
+{
+    "name": "Standwlamp",
+    "item_type": "output",
+    "variants": {
+        "L": "standwlampL.png",
+        "RA": "standwlampRA.png",
+        "RB": "standwlampRB.png",
+        "R": "standwlampR.png",
+        "default": "standwlamp.png",
+        "B": "standwlampB.png",
+        "LB": "standwlampLB.png",
+        "LA": "standwlampLA.png"
+    }
+}

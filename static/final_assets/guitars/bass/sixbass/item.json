@@ -1,0 +1,14 @@
+{
+    "name": "Sixbass",
+    "item_type": "input",
+    "variants": {
+        "B": "sixbassB.png",
+        "default": "sixbass.png",
+        "RA": "sixbassRA.png",
+        "R": "sixbassR.png",
+        "RB": "sixbassRB.png",
+        "LB": "sixbassLB.png",
+        "LA": "sixbassLA.png",
+        "L": "sixbassL.png"
+    }
+}

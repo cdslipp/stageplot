@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Tom2",
+        "item_type": "accessory",
+        "variants": {
+            "default": "tom2.png"
+        }
+    },
+    {
+        "name": "Tom1",
+        "item_type": "accessory",
+        "variants": {
+            "default": "tom1.png"
+        }
+    },
+    {
+        "name": "Floortom",
+        "item_type": "accessory",
+        "variants": {
+            "default": "floortom.png"
+        }
+    },
+    {
+        "name": "Kick",
+        "item_type": "accessory",
+        "variants": {
+            "default": "kick.png"
+        }
+    },
+    {
+        "name": "Snare",
+        "item_type": "accessory",
+        "variants": {
+            "default": "snare.png"
+        }
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "name": "Rototomset",
+    "item_type": "input",
+    "variants": {
+        "default": "rototomset.png",
+        "L": "rototomsetL.png",
+        "RA": "rototomsetRA.png",
+        "LA": "rototomsetLA.png",
+        "R": "rototomsetR.png"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Cuatro",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "cuatroRA.png",
+        "default": "cuatro.png"
+    }
+}

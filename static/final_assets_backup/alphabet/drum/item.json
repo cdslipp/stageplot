@@ -1,0 +1,7 @@
+{
+    "name": "Drum",
+    "item_type": "symbol",
+    "variants": {
+        "default": "Drum.png"
+    }
+}

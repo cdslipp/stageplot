@@ -1,0 +1,14 @@
+{
+    "name": "Woman1",
+    "item_type": "symbol",
+    "variants": {
+        "LB": "Woman1LB.png",
+        "L": "Woman1L.png",
+        "LA": "Woman1LA.png",
+        "RA": "Woman1RA.png",
+        "RB": "Woman1RB.png",
+        "R": "Woman1R.png",
+        "default": "Woman1.png",
+        "B": "Woman1B.png"
+    }
+}

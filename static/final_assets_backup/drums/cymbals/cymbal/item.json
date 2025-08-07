@@ -1,0 +1,9 @@
+{
+    "name": "Cymbal",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "cymbalRA.png",
+        "LA": "cymbalLA.png",
+        "default": "cymbal.png"
+    }
+}

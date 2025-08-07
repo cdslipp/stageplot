@@ -1,0 +1,14 @@
+{
+    "name": "Mandoman",
+    "item_type": "symbol",
+    "variants": {
+        "default": "mandoman.png",
+        "L": "mandomanL.png",
+        "RB": "mandomanRB.png",
+        "RA": "mandomanRA.png",
+        "LA": "mandomanLA.png",
+        "LB": "mandomanLB.png",
+        "R": "mandomanR.png",
+        "B": "mandomanB.png"
+    }
+}

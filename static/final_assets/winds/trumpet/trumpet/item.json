@@ -1,0 +1,7 @@
+{
+    "name": "Trumpet",
+    "item_type": "accessory",
+    "variants": {
+        "default": "trumpet.png"
+    }
+}

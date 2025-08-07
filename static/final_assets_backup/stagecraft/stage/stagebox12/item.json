@@ -1,0 +1,7 @@
+{
+    "name": "Stagebox12",
+    "item_type": "symbol",
+    "variants": {
+        "default": "stagebox12.png"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Femkeystand",
+    "item_type": "accessory",
+    "variants": {
+        "L": "femkeystandL.png",
+        "RA": "femkeystandRA.png",
+        "RB": "femkeystandRB.png",
+        "LB": "femkeystandLB.png",
+        "LA": "femkeystandLA.png",
+        "R": "femkeystandR.png",
+        "default": "femkeystand.png",
+        "B": "femkeystandB.png"
+    }
+}

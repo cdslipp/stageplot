@@ -1,0 +1,7 @@
+{
+    "name": "Projector Truss",
+    "item_type": "accessory",
+    "variants": {
+        "default": "projector_truss.png"
+    }
+}

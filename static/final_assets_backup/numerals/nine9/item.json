@@ -1,0 +1,7 @@
+{
+    "name": "Nine9",
+    "item_type": "symbol",
+    "variants": {
+        "default": "nine9.png"
+    }
+}

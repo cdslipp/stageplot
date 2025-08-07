@@ -1,0 +1,11 @@
+{
+    "name": "Clarinet",
+    "item_type": "accessory",
+    "variants": {
+        "default": "clarinet.png",
+        "L": "clarinetL.png",
+        "RA": "clarinetRA.png",
+        "R": "clarinetR.png",
+        "LA": "clarinetLA.png"
+    }
+}

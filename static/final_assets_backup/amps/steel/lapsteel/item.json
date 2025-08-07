@@ -1,0 +1,11 @@
+{
+    "name": "Lapsteel",
+    "item_type": "output",
+    "variants": {
+        "default": "lapsteel.png",
+        "L": "lapsteelL.png",
+        "RA": "lapsteelRA.png",
+        "LA": "lapsteelLA.png",
+        "R": "lapsteelR.png"
+    }
+}

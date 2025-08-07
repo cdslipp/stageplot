@@ -1,0 +1,14 @@
+{
+    "name": "Beguitarist",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Beguitarist.png",
+        "L": "BeguitaristL.png",
+        "RB": "BeguitaristRB.png",
+        "RA": "BeguitaristRA.png",
+        "B": "BeguitaristB.png",
+        "LA": "BeguitaristLA.png",
+        "R": "BeguitaristR.png",
+        "LB": "BeguitaristLB.png"
+    }
+}

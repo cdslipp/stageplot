@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/inputlist-1.0.0.json",
+  "title": "InputList",
+  "description": "Standardized input lists for live sound applications - Version 1.0.0",
+  "type": "object",
+  "required": ["version", "band_name", "inputs"],
+  "properties": {
+    "version": { 
+      "type": "string",
+      "description": "Schema version (e.g., 1.0.0)",
+      "pattern": "^(0|[1-9]\\d*)\\.(0|[1-9]\\d*)\\.(0|[1-9]\\d*)(?:-((?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*)(?:\\.(?:0|[1-9]\\d*|\\d*[a-zA-Z-][0-9a-zA-Z-]*))*))?(?:\\+([0-9a-zA-Z-]+(?:\\.[0-9a-zA-Z-]+)*))?$"
+    },
+    "band_name": { "type": "string" },
+    "event_name": { "type": "string" },
+    "revision_date": { "type": "string", "format": "date" },
+    "contacts": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "role": { "type": "string" },
+          "phone": { "type": "string" },
+          "email": { "type": "string", "format": "email" }
+        },
+        "required": ["name"]
+      }
+    },
+    "stage_plot": {
+      "type": "object",
+      "properties": {
+        "url": { "type": "string", "format": "uri" },
+        "revision_date": { "type": "string", "format": "date" }
+      },
+      "required": ["url"]
+    },
+    "inputs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ch", "name", "short", "position", "48V"],
+        "properties": {
+          "ch": { "type": "integer", "minimum": 1 },
+          "name": { "type": "string" },
+          "short": { "type": "string" },
+          "color": { 
+            "type": "string",
+            "description": "Color coding using simple basic colors that most audio consoles support",
+            "enum": ["red", "green", "blue", "yellow", "purple", "pink", "white", "black", "orange", "cyan"]
+          },
+          "group": { "type": "string" },
+          "subgroup": { "type": "string" },
+          "position": { "enum": ["DSL", "DSC", "DSR", "USL", "USC", "USR"] },
+          "source": { "type": "string" },
+          "48V": { "type": "boolean", "description": "Requires 48V phantom power" },
+          "link_to": { "type": "integer", "minimum": 1 },
+          "stereo_pair": { "type": "boolean" }
+        },
+        "additionalProperties": false
+      },
+      "minItems": 1
+    },
+    "outputs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "type"],
+        "properties": {
+          "name": { "type": "string" },
+          "type": { "enum": ["wedge", "iem", "sidefill", "cue", "record", "matrix", "other"] },
+          "bus": { "type": "integer", "minimum": 1 },
+          "destination": { "type": "string" },
+          "color": { 
+            "type": "string",
+            "description": "Color coding using simple basic colors that most audio consoles support",
+            "enum": ["red", "green", "blue", "yellow", "purple", "pink", "white", "black", "orange", "cyan"]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Open12",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open12.png"
+    }
+}

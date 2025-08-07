@@ -1,0 +1,7 @@
+{
+    "name": "Roundtable",
+    "item_type": "accessory",
+    "variants": {
+        "default": "roundtable.png"
+    }
+}

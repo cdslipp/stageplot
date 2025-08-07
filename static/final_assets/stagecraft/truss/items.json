@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Projector Truss",
+        "item_type": "accessory",
+        "variants": {
+            "default": "projector_truss.png"
+        }
+    },
+    {
+        "name": "Trussq",
+        "item_type": "accessory",
+        "variants": {
+            "default": "trussq.png"
+        }
+    },
+    {
+        "name": "Truss",
+        "item_type": "accessory",
+        "variants": {
+            "default": "truss.png"
+        }
+    }
+]

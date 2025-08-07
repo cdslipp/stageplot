@@ -1,0 +1,7 @@
+{
+    "name": "Marshallcabs",
+    "item_type": "output",
+    "variants": {
+        "default": "MarshallCabs.png"
+    }
+}

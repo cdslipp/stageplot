@@ -1,0 +1,7 @@
+{
+    "name": "Barricade",
+    "item_type": "accessory",
+    "variants": {
+        "default": "barricade.png"
+    }
+}

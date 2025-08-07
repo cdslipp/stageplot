@@ -1,0 +1,14 @@
+{
+    "name": "Nordstage88",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "NordStage88LA.png",
+        "LB": "NordStage88LB.png",
+        "RB": "NordStage88RB.png",
+        "default": "NordStage88.png",
+        "RA": "NordStage88RA.png",
+        "L": "NordStage88L.png",
+        "B": "NordStage88B.png",
+        "R": "NordStage88R.png"
+    }
+}

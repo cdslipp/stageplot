@@ -1,0 +1,11 @@
+{
+    "name": "Drummerafrican",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "DrummerAfricanLA.png",
+        "R": "DrummerAfricanR.png",
+        "default": "DrummerAfrican.png",
+        "RA": "DrummerAfricanRA.png",
+        "L": "DrummerAfricanL.png"
+    }
+}

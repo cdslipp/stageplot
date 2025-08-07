@@ -1,0 +1,7 @@
+{
+    "name": "Violinist",
+    "item_type": "output",
+    "variants": {
+        "default": "violinist.png"
+    }
+}

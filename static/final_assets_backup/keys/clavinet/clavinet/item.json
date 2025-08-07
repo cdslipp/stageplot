@@ -1,0 +1,14 @@
+{
+    "name": "Clavinet",
+    "item_type": "accessory",
+    "variants": {
+        "B": "clavinetB.png",
+        "RA": "clavinetRA.png",
+        "R": "clavinetR.png",
+        "RB": "clavinetRB.png",
+        "LB": "clavinetLB.png",
+        "LA": "clavinetLA.png",
+        "default": "clavinet.png",
+        "L": "clavinetL.png"
+    }
+}

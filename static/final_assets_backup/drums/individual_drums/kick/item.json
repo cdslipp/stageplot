@@ -1,0 +1,7 @@
+{
+    "name": "Kick",
+    "item_type": "accessory",
+    "variants": {
+        "default": "kick.png"
+    }
+}

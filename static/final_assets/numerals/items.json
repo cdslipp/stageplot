@@ -1,0 +1,1556 @@
+[
+    {
+        "name": "Sixtyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtyfive.png"
+        }
+    },
+    {
+        "name": "Open94",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open94.png"
+        }
+    },
+    {
+        "name": "Open80",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open80.png"
+        }
+    },
+    {
+        "name": "Eightyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightyseven.png"
+        }
+    },
+    {
+        "name": "Open57",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open57.png"
+        }
+    },
+    {
+        "name": "Open43",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open43.png"
+        }
+    },
+    {
+        "name": "Fifteen15",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fifteen15.png"
+        }
+    },
+    {
+        "name": "Open4",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open4.png"
+        }
+    },
+    {
+        "name": "Open5",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open5.png"
+        }
+    },
+    {
+        "name": "Ninetyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetyfour.png"
+        }
+    },
+    {
+        "name": "Twentyfour24",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyfour24.png"
+        }
+    },
+    {
+        "name": "Open42",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open42.png"
+        }
+    },
+    {
+        "name": "Open56",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open56.png"
+        }
+    },
+    {
+        "name": "Open81",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open81.png"
+        }
+    },
+    {
+        "name": "Open95",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open95.png"
+        }
+    },
+    {
+        "name": "Thirteen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirteen.png"
+        }
+    },
+    {
+        "name": "Ten",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ten.png"
+        }
+    },
+    {
+        "name": "Fiftythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftythree.png"
+        }
+    },
+    {
+        "name": "Open83",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open83.png"
+        }
+    },
+    {
+        "name": "Open97",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open97.png"
+        }
+    },
+    {
+        "name": "Open68",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open68.png"
+        }
+    },
+    {
+        "name": "Eleven11",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eleven11.png"
+        }
+    },
+    {
+        "name": "Open40",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open40.png"
+        }
+    },
+    {
+        "name": "Open54",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open54.png"
+        }
+    },
+    {
+        "name": "Fortyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortyfour.png"
+        }
+    },
+    {
+        "name": "Open7",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open7.png"
+        }
+    },
+    {
+        "name": "Open6",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open6.png"
+        }
+    },
+    {
+        "name": "Thirtyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtyeight.png"
+        }
+    },
+    {
+        "name": "Eightyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightyfive.png"
+        }
+    },
+    {
+        "name": "Thirteen13",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirteen13.png"
+        }
+    },
+    {
+        "name": "Open55",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open55.png"
+        }
+    },
+    {
+        "name": "Open41",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open41.png"
+        }
+    },
+    {
+        "name": "Open69",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open69.png"
+        }
+    },
+    {
+        "name": "Open96",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open96.png"
+        }
+    },
+    {
+        "name": "Open82",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open82.png"
+        }
+    },
+    {
+        "name": "Fiftynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftynine.png"
+        }
+    },
+    {
+        "name": "Seventyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventyone.png"
+        }
+    },
+    {
+        "name": "Twentynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentynine.png"
+        }
+    },
+    {
+        "name": "Twentytwo22",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentytwo22.png"
+        }
+    },
+    {
+        "name": "Open86",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open86.png"
+        }
+    },
+    {
+        "name": "Open92",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open92.png"
+        }
+    },
+    {
+        "name": "Fortythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortythree.png"
+        }
+    },
+    {
+        "name": "Open45",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open45.png"
+        }
+    },
+    {
+        "name": "Thirtynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtynine.png"
+        }
+    },
+    {
+        "name": "Open51",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open51.png"
+        }
+    },
+    {
+        "name": "Open79",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open79.png"
+        }
+    },
+    {
+        "name": "Open2",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open2.png"
+        }
+    },
+    {
+        "name": "Open3",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open3.png"
+        }
+    },
+    {
+        "name": "Seventy",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventy.png"
+        }
+    },
+    {
+        "name": "Three",
+        "item_type": "symbol",
+        "variants": {
+            "default": "three.png"
+        }
+    },
+    {
+        "name": "Open78",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open78.png"
+        }
+    },
+    {
+        "name": "Open50",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open50.png"
+        }
+    },
+    {
+        "name": "Ninetytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetytwo.png"
+        }
+    },
+    {
+        "name": "Open44",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open44.png"
+        }
+    },
+    {
+        "name": "Open93",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open93.png"
+        }
+    },
+    {
+        "name": "Open87",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open87.png"
+        }
+    },
+    {
+        "name": "Ninetysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetysix.png"
+        }
+    },
+    {
+        "name": "Twentysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentysix.png"
+        }
+    },
+    {
+        "name": "Five5",
+        "item_type": "symbol",
+        "variants": {
+            "default": "five5.png"
+        }
+    },
+    {
+        "name": "Open91",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open91.png"
+        }
+    },
+    {
+        "name": "Open85",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open85.png"
+        }
+    },
+    {
+        "name": "Twentytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentytwo.png"
+        }
+    },
+    {
+        "name": "Open52",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open52.png"
+        }
+    },
+    {
+        "name": "Open46",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open46.png"
+        }
+    },
+    {
+        "name": "Twentyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyseven.png"
+        }
+    },
+    {
+        "name": "Seventyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventyfive.png"
+        }
+    },
+    {
+        "name": "Open1",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open1.png"
+        }
+    },
+    {
+        "name": "Sixteen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixteen.png"
+        }
+    },
+    {
+        "name": "Ten10",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ten10.png"
+        }
+    },
+    {
+        "name": "Open47",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open47.png"
+        }
+    },
+    {
+        "name": "Open53",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open53.png"
+        }
+    },
+    {
+        "name": "Eightysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightysix.png"
+        }
+    },
+    {
+        "name": "Forty",
+        "item_type": "symbol",
+        "variants": {
+            "default": "forty.png"
+        }
+    },
+    {
+        "name": "Open84",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open84.png"
+        }
+    },
+    {
+        "name": "Open90",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open90.png"
+        }
+    },
+    {
+        "name": "Eightytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightytwo.png"
+        }
+    },
+    {
+        "name": "Sixteen16",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixteen16.png"
+        }
+    },
+    {
+        "name": "Open34",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open34.png"
+        }
+    },
+    {
+        "name": "Open20",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open20.png"
+        }
+    },
+    {
+        "name": "Thirtysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtysix.png"
+        }
+    },
+    {
+        "name": "Thirtyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtyseven.png"
+        }
+    },
+    {
+        "name": "Thirtytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtytwo.png"
+        }
+    },
+    {
+        "name": "Sixtynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtynine.png"
+        }
+    },
+    {
+        "name": "Fifteen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fifteen.png"
+        }
+    },
+    {
+        "name": "Thirty",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirty.png"
+        }
+    },
+    {
+        "name": "Open21",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open21.png"
+        }
+    },
+    {
+        "name": "Open35",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open35.png"
+        }
+    },
+    {
+        "name": "Sixtysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtysix.png"
+        }
+    },
+    {
+        "name": "Sixtytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtytwo.png"
+        }
+    },
+    {
+        "name": "Twentythree23",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentythree23.png"
+        }
+    },
+    {
+        "name": "Eightynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightynine.png"
+        }
+    },
+    {
+        "name": "Open23",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open23.png"
+        }
+    },
+    {
+        "name": "Open37",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open37.png"
+        }
+    },
+    {
+        "name": "Seventythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventythree.png"
+        }
+    },
+    {
+        "name": "Fourteen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fourteen.png"
+        }
+    },
+    {
+        "name": "Fiftyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftyfive.png"
+        }
+    },
+    {
+        "name": "Three3",
+        "item_type": "symbol",
+        "variants": {
+            "default": "three3.png"
+        }
+    },
+    {
+        "name": "Open36",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open36.png"
+        }
+    },
+    {
+        "name": "Open22",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open22.png"
+        }
+    },
+    {
+        "name": "Eightyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightyeight.png"
+        }
+    },
+    {
+        "name": "Eighteen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eighteen.png"
+        }
+    },
+    {
+        "name": "Six",
+        "item_type": "symbol",
+        "variants": {
+            "default": "six.png"
+        }
+    },
+    {
+        "name": "Two",
+        "item_type": "symbol",
+        "variants": {
+            "default": "two.png"
+        }
+    },
+    {
+        "name": "Open26",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open26.png"
+        }
+    },
+    {
+        "name": "Open32",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open32.png"
+        }
+    },
+    {
+        "name": "One1",
+        "item_type": "symbol",
+        "variants": {
+            "default": "one1.png"
+        }
+    },
+    {
+        "name": "Twentyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyfive.png"
+        }
+    },
+    {
+        "name": "Thirtyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtyfive.png"
+        }
+    },
+    {
+        "name": "Open33",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open33.png"
+        }
+    },
+    {
+        "name": "Open27",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open27.png"
+        }
+    },
+    {
+        "name": "Sixtythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtythree.png"
+        }
+    },
+    {
+        "name": "Twentyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyeight.png"
+        }
+    },
+    {
+        "name": "Four",
+        "item_type": "symbol",
+        "variants": {
+            "default": "four.png"
+        }
+    },
+    {
+        "name": "Open31",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open31.png"
+        }
+    },
+    {
+        "name": "Open25",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open25.png"
+        }
+    },
+    {
+        "name": "Open19",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open19.png"
+        }
+    },
+    {
+        "name": "Twelve",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twelve.png"
+        }
+    },
+    {
+        "name": "Ninetythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetythree.png"
+        }
+    },
+    {
+        "name": "Twenty",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twenty.png"
+        }
+    },
+    {
+        "name": "Seventeen17",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventeen17.png"
+        }
+    },
+    {
+        "name": "Fiftyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftyone.png"
+        }
+    },
+    {
+        "name": "Open18",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open18.png"
+        }
+    },
+    {
+        "name": "Open24",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open24.png"
+        }
+    },
+    {
+        "name": "Nineteen19",
+        "item_type": "symbol",
+        "variants": {
+            "default": "nineteen19.png"
+        }
+    },
+    {
+        "name": "Open30",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open30.png"
+        }
+    },
+    {
+        "name": "Seventynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventynine.png"
+        }
+    },
+    {
+        "name": "Twelve12",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twelve12.png"
+        }
+    },
+    {
+        "name": "Fortyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortyone.png"
+        }
+    },
+    {
+        "name": "Fiftyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftyfour.png"
+        }
+    },
+    {
+        "name": "Sixtyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtyone.png"
+        }
+    },
+    {
+        "name": "Open29",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open29.png"
+        }
+    },
+    {
+        "name": "Open15",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open15.png"
+        }
+    },
+    {
+        "name": "Fortynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortynine.png"
+        }
+    },
+    {
+        "name": "Thirtyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtyone.png"
+        }
+    },
+    {
+        "name": "Two2",
+        "item_type": "symbol",
+        "variants": {
+            "default": "two2.png"
+        }
+    },
+    {
+        "name": "Sixtyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtyseven.png"
+        }
+    },
+    {
+        "name": "Open14",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open14.png"
+        }
+    },
+    {
+        "name": "Open28",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open28.png"
+        }
+    },
+    {
+        "name": "Eight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eight.png"
+        }
+    },
+    {
+        "name": "Ninetyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetyseven.png"
+        }
+    },
+    {
+        "name": "Open16",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open16.png"
+        }
+    },
+    {
+        "name": "Ninetynine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetynine.png"
+        }
+    },
+    {
+        "name": "Fortyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortyeight.png"
+        }
+    },
+    {
+        "name": "Open17",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open17.png"
+        }
+    },
+    {
+        "name": "Thirtythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtythree.png"
+        }
+    },
+    {
+        "name": "Open13",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open13.png"
+        }
+    },
+    {
+        "name": "Five",
+        "item_type": "symbol",
+        "variants": {
+            "default": "five.png"
+        }
+    },
+    {
+        "name": "Open12",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open12.png"
+        }
+    },
+    {
+        "name": "One",
+        "item_type": "symbol",
+        "variants": {
+            "default": "one.png"
+        }
+    },
+    {
+        "name": "Ninety",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninety.png"
+        }
+    },
+    {
+        "name": "Nine9",
+        "item_type": "symbol",
+        "variants": {
+            "default": "nine9.png"
+        }
+    },
+    {
+        "name": "Twenty20",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twenty20.png"
+        }
+    },
+    {
+        "name": "Seventyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventyseven.png"
+        }
+    },
+    {
+        "name": "Fortytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortytwo.png"
+        }
+    },
+    {
+        "name": "Open10",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open10.png"
+        }
+    },
+    {
+        "name": "Fortysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortysix.png"
+        }
+    },
+    {
+        "name": "Open38",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open38.png"
+        }
+    },
+    {
+        "name": "Fiftytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftytwo.png"
+        }
+    },
+    {
+        "name": "Eighteen18",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eighteen18.png"
+        }
+    },
+    {
+        "name": "Fiftyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftyeight.png"
+        }
+    },
+    {
+        "name": "Fiftysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftysix.png"
+        }
+    },
+    {
+        "name": "Sixty",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixty.png"
+        }
+    },
+    {
+        "name": "Open39",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open39.png"
+        }
+    },
+    {
+        "name": "Thirtyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "thirtyfour.png"
+        }
+    },
+    {
+        "name": "Open11",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open11.png"
+        }
+    },
+    {
+        "name": "Twentyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyfour.png"
+        }
+    },
+    {
+        "name": "Fortyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortyfive.png"
+        }
+    },
+    {
+        "name": "Open89",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open89.png"
+        }
+    },
+    {
+        "name": "Open76",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open76.png"
+        }
+    },
+    {
+        "name": "Open62",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open62.png"
+        }
+    },
+    {
+        "name": "Fortyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fortyseven.png"
+        }
+    },
+    {
+        "name": "Seven7",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seven7.png"
+        }
+    },
+    {
+        "name": "Open63",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open63.png"
+        }
+    },
+    {
+        "name": "Open77",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open77.png"
+        }
+    },
+    {
+        "name": "Eightyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightyfour.png"
+        }
+    },
+    {
+        "name": "Seven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seven.png"
+        }
+    },
+    {
+        "name": "Open88",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open88.png"
+        }
+    },
+    {
+        "name": "Ninetyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetyeight.png"
+        }
+    },
+    {
+        "name": "Eleven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eleven.png"
+        }
+    },
+    {
+        "name": "Open49",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open49.png"
+        }
+    },
+    {
+        "name": "Open61",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open61.png"
+        }
+    },
+    {
+        "name": "Open75",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open75.png"
+        }
+    },
+    {
+        "name": "Fifty",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fifty.png"
+        }
+    },
+    {
+        "name": "Twentythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentythree.png"
+        }
+    },
+    {
+        "name": "Nineteen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "nineteen.png"
+        }
+    },
+    {
+        "name": "Sixtyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtyfour.png"
+        }
+    },
+    {
+        "name": "Sixtyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "sixtyeight.png"
+        }
+    },
+    {
+        "name": "Six6",
+        "item_type": "symbol",
+        "variants": {
+            "default": "six6.png"
+        }
+    },
+    {
+        "name": "Open74",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open74.png"
+        }
+    },
+    {
+        "name": "Open60",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open60.png"
+        }
+    },
+    {
+        "name": "Open48",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open48.png"
+        }
+    },
+    {
+        "name": "Ninetyfive",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetyfive.png"
+        }
+    },
+    {
+        "name": "Seventeen",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventeen.png"
+        }
+    },
+    {
+        "name": "Eight8",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eight8.png"
+        }
+    },
+    {
+        "name": "Eighty",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eighty.png"
+        }
+    },
+    {
+        "name": "Ninetyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "ninetyone.png"
+        }
+    },
+    {
+        "name": "Seventyfour",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventyfour.png"
+        }
+    },
+    {
+        "name": "Open64",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open64.png"
+        }
+    },
+    {
+        "name": "Open70",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open70.png"
+        }
+    },
+    {
+        "name": "Open58",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open58.png"
+        }
+    },
+    {
+        "name": "Eightythree",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightythree.png"
+        }
+    },
+    {
+        "name": "Fiftyseven",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fiftyseven.png"
+        }
+    },
+    {
+        "name": "Seventysix",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventysix.png"
+        }
+    },
+    {
+        "name": "Four4",
+        "item_type": "symbol",
+        "variants": {
+            "default": "four4.png"
+        }
+    },
+    {
+        "name": "Open59",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open59.png"
+        }
+    },
+    {
+        "name": "Seventyeight",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventyeight.png"
+        }
+    },
+    {
+        "name": "Open71",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open71.png"
+        }
+    },
+    {
+        "name": "Open65",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open65.png"
+        }
+    },
+    {
+        "name": "Seventytwo",
+        "item_type": "symbol",
+        "variants": {
+            "default": "seventytwo.png"
+        }
+    },
+    {
+        "name": "Fourteen14",
+        "item_type": "symbol",
+        "variants": {
+            "default": "fourteen14.png"
+        }
+    },
+    {
+        "name": "Nine",
+        "item_type": "symbol",
+        "variants": {
+            "default": "nine.png"
+        }
+    },
+    {
+        "name": "Twentyone21",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyone21.png"
+        }
+    },
+    {
+        "name": "Eightyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "eightyone.png"
+        }
+    },
+    {
+        "name": "Open98",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open98.png"
+        }
+    },
+    {
+        "name": "Open73",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open73.png"
+        }
+    },
+    {
+        "name": "Open67",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open67.png"
+        }
+    },
+    {
+        "name": "Open8",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open8.png"
+        }
+    },
+    {
+        "name": "Open9",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open9.png"
+        }
+    },
+    {
+        "name": "Twentyone",
+        "item_type": "symbol",
+        "variants": {
+            "default": "twentyone.png"
+        }
+    },
+    {
+        "name": "Open66",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open66.png"
+        }
+    },
+    {
+        "name": "Open72",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open72.png"
+        }
+    },
+    {
+        "name": "Open99",
+        "item_type": "symbol",
+        "variants": {
+            "default": "open99.png"
+        }
+    }
+]

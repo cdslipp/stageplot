@@ -1,0 +1,14 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/output-1.0.0.json",
+  "title": "Output",
+  "description": "A monitor output for a player.",
+  "type": "object",
+  "required": ["id", "name"],
+  "properties": {
+    "id": { "type": "string", "description": "A unique identifier for the output." },
+    "name": { "type": "string", "description": "The output's name (e.g., 'Wedge 1', 'IEM A')." },
+    "type": { "type": "string", "enum": ["wedge", "iem_stereo", "iem_mono", "sidefill", "sub"], "description": "The type of monitor output." }
+  }
+}

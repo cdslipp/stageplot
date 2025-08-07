@@ -1,0 +1,10 @@
+{
+    "name": "Stairs",
+    "item_type": "symbol",
+    "variants": {
+        "R": "stairsR.png",
+        "back": "stairsback.png",
+        "L": "stairsL.png",
+        "default": "stairs.png"
+    }
+}

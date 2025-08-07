@@ -1,0 +1,24 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://inputlist.io/specs/monitormix-1.0.0.json",
+  "title": "MonitorMix",
+  "description": "Defines the monitor mix for a player.",
+  "type": "object",
+  "required": ["id", "player_id", "mix"],
+  "properties": {
+    "id": { "type": "string", "description": "A unique identifier for the monitor mix." },
+    "player_id": { "type": "string", "description": "The ID of the player this mix belongs to." },
+    "mix": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["input_id", "level"],
+        "properties": {
+          "input_id": { "type": "string" },
+          "level": { "type": "string", "enum": ["off", "low", "medium", "high", "lead"] }
+        }
+      }
+    }
+  }
+}

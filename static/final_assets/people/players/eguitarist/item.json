@@ -1,0 +1,14 @@
+{
+    "name": "Eguitarist",
+    "item_type": "output",
+    "variants": {
+        "L": "eguitaristL.png",
+        "RB": "eguitaristRB.png",
+        "RA": "eguitaristRA.png",
+        "LA": "eguitaristLA.png",
+        "default": "eguitarist.png",
+        "LB": "eguitaristLB.png",
+        "R": "eguitaristR.png",
+        "B": "eguitaristB.png"
+    }
+}

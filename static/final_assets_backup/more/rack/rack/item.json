@@ -1,0 +1,11 @@
+{
+    "name": "Rack",
+    "item_type": "accessory",
+    "variants": {
+        "R": "RackR.png",
+        "default": "Rack.png",
+        "L": "RackL.png",
+        "LA": "RackLA.png",
+        "RA": "RackRA.png"
+    }
+}

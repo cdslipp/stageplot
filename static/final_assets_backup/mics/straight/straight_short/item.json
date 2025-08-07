@@ -1,0 +1,11 @@
+{
+    "name": "Straight Short",
+    "item_type": "accessory",
+    "variants": {
+        "default": "Straight_short.png",
+        "LA": "Straight_shortLA.png",
+        "RA": "Straight_shortRA.png",
+        "L": "Straight_shortL.png",
+        "R": "Straight_shortR.png"
+    }
+}

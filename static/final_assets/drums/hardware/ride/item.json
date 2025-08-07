@@ -1,0 +1,7 @@
+{
+    "name": "Ride",
+    "item_type": "accessory",
+    "variants": {
+        "default": "ride.png"
+    }
+}

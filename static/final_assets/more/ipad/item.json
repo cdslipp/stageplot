@@ -1,0 +1,9 @@
+{
+    "name": "Ipad",
+    "item_type": "accessory",
+    "variants": {
+        "LA": "ipadLA.png",
+        "RA": "ipadRA.png",
+        "default": "ipad.png"
+    }
+}

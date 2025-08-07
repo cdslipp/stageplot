@@ -1,0 +1,11 @@
+{
+    "name": "Choralriser2",
+    "item_type": "accessory",
+    "variants": {
+        "L": "choralriser2L.png",
+        "RA": "choralriser2RA.png",
+        "LA": "choralriser2LA.png",
+        "default": "choralriser2.png",
+        "R": "choralriser2R.png"
+    }
+}

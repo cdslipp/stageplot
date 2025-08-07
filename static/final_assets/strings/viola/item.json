@@ -1,0 +1,7 @@
+{
+    "name": "Viola",
+    "item_type": "accessory",
+    "variants": {
+        "default": "viola.png"
+    }
+}

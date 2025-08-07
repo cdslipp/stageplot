@@ -1,0 +1,7 @@
+{
+    "name": "Open32",
+    "item_type": "symbol",
+    "variants": {
+        "default": "open32.png"
+    }
+}

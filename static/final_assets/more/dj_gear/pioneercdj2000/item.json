@@ -1,0 +1,14 @@
+{
+    "name": "Pioneercdj2000",
+    "item_type": "accessory",
+    "variants": {
+        "LB": "PioneerCDJ2000LB.png",
+        "LA": "PioneerCDJ2000LA.png",
+        "default": "PioneerCDJ2000.png",
+        "R": "PioneerCDJ2000R.png",
+        "RA": "PioneerCDJ2000RA.png",
+        "RB": "PioneerCDJ2000RB.png",
+        "B": "PioneerCDJ2000B.png",
+        "L": "PioneerCDJ2000L.png"
+    }
+}

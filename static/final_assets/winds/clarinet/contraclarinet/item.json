@@ -1,0 +1,11 @@
+{
+    "name": "Contraclarinet",
+    "item_type": "accessory",
+    "variants": {
+        "RA": "contraclarinetRA.png",
+        "LA": "contraclarinetLA.png",
+        "R": "contraclarinetR.png",
+        "L": "contraclarinetL.png",
+        "default": "contraclarinet.png"
+    }
+}

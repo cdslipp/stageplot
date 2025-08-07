@@ -1,0 +1,8 @@
+{
+    "name": "Azerisaz",
+    "item_type": "accessory",
+    "variants": {
+        "default": "azerisaz.png",
+        "RA": "azerisazRA.png"
+    }
+}
